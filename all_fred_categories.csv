@@ -1,0 +1,5135 @@
+"id","name","parent_id"
+22,"Interest Rates",32991
+15,"Exchange Rates",32991
+24,"Monetary Data",32991
+46,"Financial Indicators",32991
+23,"Banking",32991
+32360,"Business Lending",32991
+32145,"Foreign Exchange Intervention",32991
+12,"Current Population Survey (Household Survey)",10
+11,"Current Employment Statistics (Establishment Survey)",10
+32250,"ADP Employment",10
+33500,"Education",10
+33001,"Income Distribution",10
+32241,"Job Openings and Labor Turnover (JOLTS)",10
+33509,"Labor Market Conditions",10
+104,"Population",10
+2,"Productivity & Costs",10
+33831,"Minimum Wage",10
+32240,"Weekly Initial Claims",10
+33731,"Tax Data",10
+18,"National Income & Product Accounts",32992
+5,"Federal Government Debt",32992
+32251,"Flow of Funds",32992
+13,"U.S. Trade & International Transactions",32992
+32262,"Business Cycle Expansions & Contractions",1
+33936,"Business Surveys",1
+32436,"Construction",1
+33940,"Emissions",1
+33490,"Finance Companies",1
+32216,"Health Insurance",1
+97,"Housing",1
+3,"Industrial Production & Capacity Utilization",1
+32429,"Manufacturing",1
+6,"Retail Trade",1
+33441,"Services",1
+33492,"Technology",1
+33202,"Transportation",1
+33203,"Wholesale Trade",1
+32217,"Commodities",32455
+9,"Consumer Price Indexes (CPI and PCE)",32455
+33913,"Cryptocurrencies",32455
+4,"Employment Cost Index",32455
+33717,"Health Care Indexes",32455
+32261,"House Price Indexes",32455
+31,"Producer Price Indexes (PPI)",32455
+32220,"Trade Indexes",32455
+32264,"Countries",32263
+32955,"Geography",32263
+32265,"Indicators",32263
+32956,"Institutions",32263
+27281,"States",3008
+32043,"Census Regions",3008
+32061,"BEA Regions",3008
+32849,"BLS Regions",3008
+32071,"Federal Reserve Districts",3008
+32233,"Freddie Mac Regions",3008
+33833,"Banking and Monetary Statistics, 1914-1941",33060
+33951,"Daily Federal Funds Rate, 1928-54",33060
+33825,"Data on the nominal term structure model from Kim and Wright",33060
+33891,"Historical Federal Reserve Data",33060
+33061,"NBER Macrohistory Database",33060
+33100,"Penn World Table 7.1",33060
+33402,"Penn World Table 9.0",33060
+33120,"Recession Probabilities",33060
+33123,"Weekly U.S. and State Bond Prices, 1855-1865",33060
+33201,"Economic Policy Uncertainty",33060
+33442,"Sticky Wages and Comovement",33060
+33839,"A Millennium of Macroeconomic Data for the UK",33060
+33934,"New England Textile Industry, 1815-1860",33060
+33058,"Automobile Loan Rates",22
+51,"Bankers Acceptance Rate",22
+121,"Certificates of Deposit",22
+120,"Commercial Paper",22
+32348,"Corporate Bonds",22
+33059,"Credit Card Loan Rates",22
+32298,"Eurodollar Deposits",22
+118,"FRB Rates - discount, fed funds, primary credit",22
+33056,"Interest Checking Accounts",22
+33446,"Interest Rate Spreads",22
+32299,"Interest Rate Swaps",22
+33003,"LIBOR Rates",22
+32995,"Long-Term Securities",22
+33055,"Money Market Accounts",22
+114,"Mortgage Rates",22
+33057,"Personal Loan Rates",22
+117,"Prime Bank Loan Rate",22
+33491,"Saving Accounts",22
+116,"Treasury Bills",22
+115,"Treasury Constant Maturity",22
+82,"Treasury Inflation-Indexed Securities",22
+94,"Daily Rates",15
+95,"Monthly Rates",15
+32219,"Annual Rates",15
+105,"Trade-Weighted Indexes",15
+158,"By Country",15
+124,"Monetary Base",24
+123,"Reserves",24
+25,"M1 and Components",24
+29,"M2 and Components",24
+96,"M2 Minus Small Time Deposits",24
+28,"M3 and Components",24
+30,"MZM",24
+26,"Memorandum Items",24
+32242,"Money Velocity",24
+122,"Borrowings",24
+32215,"Factors Affecting Reserve Balances",24
+32218,"Securities, Loans, & Other Assets & Liabilities Held by Fed",24
+32414,"Bond Market Indexes",46
+33119,"Consumer Financial Condition Indexes",46
+32457,"Financial Activity Measures",46
+32255,"Stock Market Indexes",46
+32425,"Volatility Indexes",46
+100,"Commercial Banking",23
+83,"Condition of Banks",23
+101,"Consumer Credit",23
+32440,"Delinquencies and Delinquency Rates",23
+33121,"Failures and Assistance Transactions",23
+64,"8th District Banking Performance",23
+33445,"Mortgage Debt Outstanding",23
+32439,"Net Charge-Offs and Charge-Off Rates",23
+99,"Securities & Investments",23
+32239,"Senior Loan Officer Survey",23
+32996,"Commercial Paper",32360
+32406,"Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment",32360
+33439,"Commercial and Industrial Loans Backed by Small Business Association",32360
+32361,"Commercial and Industrial Loans Made by All Commercial Banks",32360
+32370,"Commercial and Industrial Loans Made by Domestic Banks",32360
+32379,"Commercial and Industrial Loans Made by Large Domestic Banks",32360
+32388,"Commercial and Industrial Loans Made by Small Domestic Banks",32360
+32397,"Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks",32360
+33440,"Commercial and Industrial Loans Made Under Participation or Syndication",32360
+32442,"Civilian Labor Force",12
+32443,"Civilian Labor Force Participation Rate",12
+32444,"Employment",12
+32445,"Employment Population Ratio",12
+32446,"Unemployment Level",12
+32447,"Unemployment Rate",12
+32448,"Not in Labor Force",12
+32449,"Labor Force Participation Rate",12
+32450,"Multiple Jobholders",12
+32451,"Duration of Unemployment",12
+32452,"Losers and Leavers",12
+33501,"Earnings",12
+32453,"Entrants and Reentrants",12
+33502,"Labor Force Status Flows",12
+32305,"Total Nonfarm",11
+32306,"Total Private",11
+32307,"Goods-Producing",11
+32326,"Service-Providing",11
+32308,"Private Service-Providing",11
+32309,"Mining and Logging",11
+32310,"Construction",11
+32311,"Manufacturing",11
+32312,"Durable Goods",11
+32313,"Nondurable Goods",11
+32314,"Trade, Transportation, and Utilities",11
+32315,"Wholesale Trade",11
+32316,"Retail Trade",11
+32317,"Transportation and Warehousing",11
+32318,"Utilities",11
+32319,"Information",11
+32320,"Financial Activities",11
+32321,"Professional and Business Services",11
+32322,"Education and Health Services",11
+32323,"Leisure and Hospitality",11
+32324,"Other Services",11
+32325,"Government",11
+32243,"Job Openings (Levels and Rates)",32241
+32245,"Hires (Levels and Rates)",32241
+32246,"Total Separations (Levels and Rates)",32241
+32247,"Quits (Levels and Rates)",32241
+32248,"Layoffs and Discharges (Levels and Rates)",32241
+32249,"Other Separations (Levels and Rates)",32241
+33735,"Poverty Measures",104
+33514,"Supplemental Nutrition Assistance Program",104
+32349,"Manufacturing",2
+32350,"Business",2
+32351,"Nonfarm Business",2
+32354,"Nonfinancial Corporations",2
+112,"Domestic Capital Account (Saving & Investment)",18
+108,"Foreign Transactions",18
+33697,"Fixed Assets",18
+33122,"Gross Domestic Income",18
+106,"GDP/GNP",18
+107,"Gov't Receipts, Expenditures & Investment",18
+33719,"Health Care Spending",18
+33054,"Imputations",18
+33045,"Industry",18
+110,"Personal Income & Outlays",18
+21,"Price Indexes & Deflators",18
+109,"Private Enterprise Income",18
+33021,"Quantity Indexes",18
+33401,"Effect of ARRA on Selected NIPA Estimates",18
+32258,"B.101 Balance Sheet of Households and Nonprofit Organizations",32251
+32259,"B.103 Balance Sheet of Nonfinancial Corporate Business",32251
+32260,"B.104 Balance Sheet of Nonfinancial Noncorporate Business",32251
+32256,"D.3 Credit Market Debt Outstanding by Sector",32251
+32257,"L.1 Credit Market Debt Outstanding",32251
+33722,"L.203 Net Interbank Transactions",32251
+33726,"L.208 Debt Securities",32251
+33729,"L.214 Loans",32251
+33204,"S.1 Total Economy - Current Account",32251
+33205,"S.2 Selected Aggregates for Total Economy and Sectors",32251
+33240,"S.3 Households and Nonprofit Institutions Serving Households",32251
+33241,"S.4 Nonfinancial Noncorporate Business",32251
+33242,"S.5 Nonfinancial Corporate Business",32251
+33243,"S.6 Financial Business",32251
+33244,"S.7 Federal Government",32251
+33245,"S.8 State and Local Governments",32251
+33246,"S.9 Rest of the World",32251
+16,"Exports",13
+17,"Imports",13
+3000,"Income Payments & Receipts",13
+33705,"International Investment Position",13
+125,"Trade Balance",13
+127,"U.S. International Finance",13
+32300,"Housing Units Authorized by Building Permits",97
+32301,"Housing Units Authorized, But Not Yet Started",97
+32302,"Housing Starts",97
+32303,"Housing Units Under Construction",97
+32304,"Housing Units Completed",97
+32426,"New Residential Sales",97
+33949,"Manufactured Housing",97
+33938,"Automotive Production Seasonal Factor",3
+32432,"Inventories",32429
+32431,"New Orders",32429
+32433,"Inventory to Shipments",32429
+32435,"Unfilled Orders",32429
+32434,"Unfilled Orders to Shipments",32429
+32430,"Shipments",32429
+32993,"Motor Vehicles",33202
+32415,"Food and Beverages",9
+32416,"Housing",9
+32417,"Apparel",9
+32418,"Transportation",9
+32419,"Medical Care",9
+32420,"Recreation",9
+32421,"Education and Communication",9
+32422,"Other Goods and Services",9
+32423,"Commodity and Services Groups",9
+32424,"Special Indexes",9
+33583,"Commodity Based",31
+33584,"Industry Based",31
+32221,"Import Price Indexes",32220
+32224,"Export Price Indexes",32220
+32231,"Services Price Indexes",32220
+32641,"Afghanistan",32264
+32643,"Albania",32264
+32644,"Algeria",32264
+32645,"American Samoa",32264
+32646,"Andorra",32264
+32647,"Angola",32264
+32648,"Anguilla",32264
+32650,"Antigua and Barbuda",32264
+32651,"Argentina",32264
+32652,"Armenia",32264
+32653,"Aruba",32264
+32269,"Australia",32264
+32282,"Austria",32264
+32654,"Azerbaijan",32264
+32655,"Bahamas",32264
+32656,"Bahrain",32264
+32657,"Bangladesh",32264
+32658,"Barbados",32264
+32659,"Belarus",32264
+32270,"Belgium",32264
+32660,"Belize",32264
+32661,"Benin",32264
+32662,"Bermuda",32264
+32663,"Bhutan",32264
+32664,"Bolivia, Plurinational State of",32264
+32665,"Caribbean Netherlands",32264
+32666,"Bosnia and Herzegovina",32264
+32667,"Botswana",32264
+32327,"Brazil",32264
+32669,"British Indian Ocean Territory",32264
+32670,"Brunei Darussalam",32264
+32671,"Bulgaria",32264
+32672,"Burkina Faso",32264
+32673,"Burundi",32264
+32674,"Cambodia",32264
+32675,"Cameroon",32264
+32268,"Canada",32264
+32676,"Cape Verde",32264
+32677,"Cayman Islands",32264
+32678,"Central African Republic",32264
+32679,"Chad",32264
+32328,"Chile",32264
+32329,"China",32264
+32680,"Christmas Island",32264
+32681,"Cocos (Keeling) Islands",32264
+32682,"Colombia",32264
+32683,"Comoros",32264
+32684,"Congo, Republic of the",32264
+32685,"Congo, Democratic Republic of the",32264
+32686,"Cook Islands",32264
+32687,"Costa Rica",32264
+32688,"Côte d’Ivoire",32264
+32689,"Croatia",32264
+32690,"Cuba",32264
+32691,"Curaçao",32264
+32692,"Cyprus",32264
+32288,"Czech Republic",32264
+32271,"Denmark",32264
+32693,"Djibouti",32264
+32694,"Dominica",32264
+32695,"Dominican Republic",32264
+32696,"Ecuador",32264
+32697,"Egypt",32264
+32698,"El Salvador",32264
+32699,"Equatorial Guinea",32264
+32700,"Eritrea",32264
+32701,"Estonia",32264
+32702,"Ethiopia",32264
+32703,"Falkland Islands",32264
+32704,"Faroe Islands",32264
+32705,"Fiji",32264
+32289,"Finland",32264
+32272,"France",32264
+32706,"French Guiana",32264
+32707,"French Polynesia",32264
+32708,"French Southern Territories",32264
+32709,"Gabon",32264
+32710,"Republic of the Gambia",32264
+32711,"Georgia",32264
+32273,"Germany",32264
+32712,"Ghana",32264
+32713,"Gibraltar",32264
+32330,"Greece",32264
+32714,"Greenland",32264
+32715,"Grenada",32264
+32716,"Guadeloupe",32264
+32717,"Guam",32264
+32718,"Guatemala",32264
+32720,"Guinea",32264
+32721,"Guinea-Bissau",32264
+32722,"Guyana",32264
+32723,"Haiti",32264
+32724,"Heard Island and McDonald Islands",32264
+32725,"Holy See (Vatican City State)",32264
+32726,"Honduras",32264
+32727,"Hong Kong",32264
+32331,"Hungary",32264
+32334,"Iceland",32264
+32333,"India",32264
+32332,"Indonesia",32264
+32728,"Iran, Islamic Republic of",32264
+32729,"Iraq",32264
+32290,"Ireland",32264
+32730,"Isle of Man",32264
+32335,"Israel",32264
+32274,"Italy",32264
+32731,"Jamaica",32264
+32281,"Japan",32264
+32733,"Jordan",32264
+32734,"Kazakhstan",32264
+32735,"Kenya",32264
+32736,"Kiribati",32264
+32737,"Korea, Democratic People's Republic of (North Korea)",32264
+32286,"Korea, Republic of (South Korea)",32264
+32738,"Kuwait",32264
+32739,"Kyrgyz Republic",32264
+32740,"Lao People's Democratic Republic",32264
+32741,"Latvia",32264
+32742,"Lebanon",32264
+32743,"Lesotho",32264
+32744,"Liberia",32264
+32745,"Libyan Arab Jamahiriya",32264
+32746,"Liechtenstein",32264
+32747,"Lithuania",32264
+32336,"Luxembourg",32264
+32748,"Macao",32264
+32749,"Macedonia, Former Yugoslav Republic of",32264
+32750,"Madagascar",32264
+32751,"Malawi",32264
+32752,"Malaysia",32264
+32753,"Maldives",32264
+32754,"Mali",32264
+32755,"Malta",32264
+32756,"Marshall Islands",32264
+32757,"Martinique",32264
+32758,"Mauritania",32264
+32759,"Mauritius",32264
+32760,"Mayotte",32264
+32337,"Mexico",32264
+32761,"Micronesia, Federated States of",32264
+32762,"Moldova, Republic of",32264
+32763,"Monaco",32264
+32764,"Mongolia",32264
+32765,"Montenegro",32264
+32766,"Montserrat",32264
+32767,"Morocco",32264
+32768,"Mozambique",32264
+32769,"Myanmar",32264
+32770,"Namibia",32264
+32771,"Nauru",32264
+32772,"Nepal",32264
+32275,"Netherlands",32264
+32773,"New Caledonia",32264
+32338,"New Zealand",32264
+32774,"Nicaragua",32264
+32775,"Niger",32264
+32776,"Nigeria",32264
+32777,"Niue",32264
+32778,"Norfolk Island",32264
+32779,"Northern Mariana Islands",32264
+32276,"Norway",32264
+32780,"Oman",32264
+32781,"Pakistan",32264
+32782,"Palau",32264
+32783,"Palestinian Territories",32264
+32784,"Panama",32264
+32785,"Papua New Guinea",32264
+32786,"Paraguay",32264
+32787,"Peru",32264
+32788,"Philippines",32264
+32789,"Pitcairn",32264
+32339,"Poland",32264
+32340,"Portugal",32264
+32790,"Puerto Rico",32264
+32791,"Qatar",32264
+32792,"Reunion",32264
+32793,"Romania",32264
+32341,"Russian Federation",32264
+32794,"Rwanda",32264
+32796,"Saint Helena, Ascension and Tristan da Cunha",32264
+32797,"Saint Kitts and Nevis",32264
+32798,"Saint Lucia",32264
+32799,"Saint Martin, Collectivity of",32264
+32800,"Saint Pierre and Miquelon",32264
+32801,"Saint Vincent and the Grenadines",32264
+32802,"Samoa",32264
+32803,"San Marino",32264
+32804,"Sao Tome and Principe",32264
+32805,"Saudi Arabia",32264
+32806,"Senegal",32264
+32807,"Serbia",32264
+32808,"Seychelles",32264
+32809,"Sierra Leone",32264
+32287,"Singapore",32264
+32810,"Sint Maarten (Dutch part)",32264
+32342,"Slovak Republic",32264
+32343,"Slovenia",32264
+32811,"Solomon Islands",32264
+32812,"Somalia",32264
+32345,"South Africa",32264
+32814,"South Sudan",32264
+32277,"Spain",32264
+32815,"Sri Lanka",32264
+32816,"Sudan",32264
+32817,"Suriname",32264
+32818,"Svalbard and Jan Mayen",32264
+32819,"Swaziland",32264
+32278,"Sweden",32264
+32279,"Switzerland",32264
+32820,"Syrian Arab Republic",32264
+32438,"Taiwan",32264
+32821,"Tajikistan",32264
+32822,"Tanzania, United Republic of",32264
+32823,"Thailand",32264
+32824,"Timor-Leste",32264
+32825,"Togo",32264
+32826,"Tokelau",32264
+32827,"Tonga",32264
+32828,"Trinidad and Tobago",32264
+32829,"Tunisia",32264
+32344,"Turkey",32264
+32830,"Turkmenistan",32264
+32831,"Turks and Caicos Islands",32264
+32832,"Tuvalu",32264
+32833,"Uganda",32264
+32834,"Ukraine",32264
+32835,"United Arab Emirates",32264
+32280,"United Kingdom",32264
+32267,"United States",32264
+32837,"Uruguay",32264
+32838,"Uzbekistan",32264
+32839,"Vanuatu",32264
+32840,"Venezuela, Bolivarian Republic of",32264
+32841,"Viet Nam",32264
+32842,"Virgin Islands, British",32264
+32843,"Virgin Islands, U.S.",32264
+32844,"Wallis and Futuna",32264
+32845,"Western Sahara",32264
+32846,"Yemen, Republic of",32264
+32946,"Kosovo",32264
+32847,"Zambia",32264
+32848,"Zimbabwe",32264
+32963,"Africa",32955
+32964,"Americas",32955
+32965,"Asia",32955
+32966,"Europe",32955
+32967,"Oceania",32955
+32459,"World",32955
+33000,"Money, Banking, & Finance",32265
+32997,"National Accounts",32265
+32999,"Population, Employment, & Labor Markets",32265
+32294,"Production & Business Activity",32265
+32998,"Prices",32265
+33247,"Consumer Price Index",32265
+33254,"Work Started",32265
+33261,"Consumer opinion surveys",32265
+33274,"Business tendency surveys (construction)",32265
+33281,"Business tendency surveys (services)",32265
+33288,"Business tendency surveys (manufacturing)",32265
+33344,"Business tendency surveys (retail trade)",32265
+33368,"Business tendency surveys (non-manufacturing)",32265
+33903,"Advanced Economies",32956
+33127,"Association of Southeast Asian Nations (ASEAN)",32956
+33126,"Bureau of Labor Statistics Asian Newly Industrialized Countries",32956
+33124,"Bureau of Labor Statistics Industrialized Countries",32956
+33128,"Bureau of Labor Statistics Latin America",32956
+33125,"Bureau of Labor Statistics Pacific Rim",32956
+33901,"Emerging Markets",32956
+32947,"Euro Area",32956
+33002,"European Economic Area",32956
+32948,"European Union",32956
+32958,"Four Big European Countries",32956
+32959,"Group of Seven (G7)",32956
+33083,"Group of Twenty Finance Ministers and Central Bank Governors (G20)",32956
+33239,"International Monetary Fund",32956
+33711,"International Organizations",32956
+32957,"Major 5 Asia",32956
+32960,"NAFTA",32956
+33086,"Non-OECD",32956
+33085,"OECD Non-member Economies",32956
+32962,"OECD Total",32956
+32961,"OECD + Non-member Economies",32956
+33087,"OECD - Europe",32956
+33713,"Unidentified Countries",32956
+33909,"Advance Technology Products",32956
+33911,"NICS",32956
+27282,"Alabama",27281
+27283,"Alaska",27281
+27284,"Arizona",27281
+149,"Arkansas",27281
+27286,"California",27281
+27287,"Colorado",27281
+27288,"Connecticut",27281
+27289,"Delaware",27281
+27290,"District of Columbia",27281
+27291,"Florida",27281
+27292,"Georgia",27281
+27293,"Hawaii",27281
+27294,"Idaho",27281
+150,"Illinois",27281
+151,"Indiana",27281
+27297,"Iowa",27281
+27298,"Kansas",27281
+152,"Kentucky",27281
+27300,"Louisiana",27281
+27301,"Maine",27281
+27302,"Maryland",27281
+27303,"Massachusetts",27281
+27304,"Michigan",27281
+27305,"Minnesota",27281
+153,"Mississippi",27281
+154,"Missouri",27281
+27308,"Montana",27281
+27309,"Nebraska",27281
+27310,"Nevada",27281
+27311,"New Hampshire",27281
+27312,"New Jersey",27281
+27313,"New Mexico",27281
+27314,"New York",27281
+27315,"North Carolina",27281
+27316,"North Dakota",27281
+27317,"Ohio",27281
+27318,"Oklahoma",27281
+27319,"Oregon",27281
+27320,"Pennsylvania",27281
+33504,"Puerto Rico",27281
+27322,"Rhode Island",27281
+27323,"South Carolina",27281
+27324,"South Dakota",27281
+193,"Tennessee",27281
+27326,"Texas",27281
+27328,"Utah",27281
+27329,"Vermont",27281
+33605,"Virgin Islands",27281
+27330,"Virginia",27281
+27332,"West Virginia",27281
+27331,"Washington",27281
+27333,"Wisconsin",27281
+27334,"Wyoming",27281
+32044,"Midwest",32043
+32045,"Northeast",32043
+32046,"South",32043
+32047,"West",32043
+32062,"Far West",32061
+32063,"Great Lakes",32061
+32064,"Mideast",32061
+32065,"New England",32061
+32066,"Plains",32061
+32067,"Rocky Mountain",32061
+32068,"Southeast",32061
+32069,"Southwest",32061
+32851,"Midwest Urban",32849
+32850,"Northeast Urban",32849
+32852,"South Urban",32849
+32853,"West Urban",32849
+32860,"Population Size Class A (over 1,500,000)",32849
+32861,"Population Size Class B/C (between 50,000 and 1,500,000)",32849
+32862,"Population Size Class D (under 50,000)",32849
+32146,"Atlanta",32071
+32147,"Boston",32071
+32148,"Chicago",32071
+32149,"Cleveland",32071
+32150,"Dallas",32071
+32151,"Kansas City",32071
+32152,"Minneapolis",32071
+32153,"New York",32071
+32154,"Philadelphia",32071
+32155,"Richmond",32071
+32156,"San Francisco",32071
+133,"St. Louis",32071
+32236,"North Central",32233
+32234,"Northeast",32233
+32235,"Southeast",32233
+32237,"Southwest",32233
+32238,"West",32233
+33835,"Section 1. General Statistics of All Banks in the United States",33833
+33837,"Section 2. Assets and Liabilities of All Member Banks",33833
+33062,"Production of Commodities",33061
+33063,"Construction",33061
+33064,"Transportation and Public Utilities",33061
+33065,"Prices",33061
+33066,"Stocks of Commodities",33061
+33067,"Distribution of Commodities",33061
+33068,"Foreign Trade",33061
+33069,"Income and Employment",33061
+33070,"Financial Status of Business",33061
+33071,"Savings and Investment",33061
+33072,"Security Markets",33061
+33073,"Volume of Transactions",33061
+33074,"Interest Rates",33061
+33075,"Money and Banking",33061
+33076,"Government and Finance",33061
+33077,"Leading Indicators",33061
+33107,"Component Shares of GDP per Capita (Constant Prices)",33100
+33106,"Component Shares of GDP per Capita (Current Prices)",33100
+33102,"Exchange Rates",33100
+33110,"GDP per Capita (Current Prices)",33100
+33112,"Gross Domestic Income, Adjustments for Changes in Terms of Trade",33100
+33105,"Openness",33100
+33101,"Population",33100
+33104,"Price Levels of GDP, Consumption, Government, and Investment",33100
+33103,"Purchasing Power Parity",33100
+33118,"Purchasing Power Parity Converted GDP",33100
+33108,"Ratio of GNP to GDP",33100
+33111,"Real GDP per Capita (Constant Prices)",33100
+33109,"Real GDP per Capita Relative to U.S.",33100
+33113,"Real GDP per Equivalent Adult",33100
+33117,"Real GDP per Hour Worked by Employees",33100
+33115,"Real GDP per Person Engaged",33100
+33116,"Real GDP per Person Counted in Total Employment",33100
+33114,"Real GDP per Worker",33100
+33403,"Real GDP, Employment and Population Levels",33402
+33404,"Current Price GDP, Capital and Total Factor Productivity",33402
+33405,"National Accounts-Based Variables",33402
+33406,"Exchange Rates and GDP Price Levels",33402
+33407,"Shares in Output-side Real GDP at Current Purchasing Power Parities",33402
+33408,"Price Levels, Expenditure Categories and Capital",33402
+33845,"National Accounts",33839
+33843,"Labour, Capital and Productivity",33839
+33847,"Wages and Prices",33839
+33849,"Financial Markets",33839
+33851,"Money and Credit",33839
+33853,"Fiscal",33839
+33855,"Trade",33839
+287,"Australia",158
+286,"Austria",158
+285,"Belgium",158
+284,"Brazil",158
+283,"Canada",158
+282,"China",158
+281,"Denmark",158
+280,"Euro",158
+279,"Finland",158
+278,"France",158
+277,"Germany",158
+274,"Greece",158
+273,"Hong Kong",158
+272,"India",158
+271,"Ireland",158
+276,"Italy",158
+275,"Japan",158
+270,"Malaysia",158
+269,"Mexico",158
+268,"Netherlands",158
+266,"New Zealand",158
+265,"Norway",158
+264,"Portugal",158
+263,"Singapore",158
+262,"South Africa",158
+261,"South Korea",158
+260,"Spain",158
+259,"Sri Lanka",158
+258,"Sweden",158
+257,"Switzerland",158
+267,"Taiwan",158
+254,"Thailand",158
+191,"United Kingdom",158
+192,"Venezuela",158
+32413,"BofA Merrill Lynch Total Bond Return Index Values",32414
+33078,"All Commercial Banks",100
+33079,"Domestically Chartered Commercial Banks",100
+33080,"Foreign-Related Institutions",100
+33081,"Large Domestically Chartered Commercial Banks",100
+33082,"Small Domestically Chartered Commercial Banks",100
+93,"United States",83
+84,"New England Census Division",83
+85,"Middle Atlantic Census Division",83
+86,"East North Central Census Division",83
+87,"West North Central Census Division",83
+88,"South Atlantic Census Division",83
+89,"East South Central Census Division",83
+90,"West South Central Census Division",83
+91,"Mountain Census Division",83
+92,"Pacific Census Division",83
+72,"8th District",64
+65,"Arkansas",64
+66,"Illinois",64
+67,"Indiana",64
+68,"Kentucky",64
+69,"Mississippi",64
+70,"Missouri",64
+71,"Tennessee",64
+32407,"All Commercial Banks",32406
+32408,"Domestic Banks",32406
+32409,"Foreign Banks",32406
+32410,"Large Domestic Banks",32406
+32411,"Small Domestic Banks",32406
+32412,"Summary Statistics",32406
+32362,"All Commercial and Industrial Loans",32361
+32369,"Base Rate of Loans",32361
+32364,"Daily Repricing/Maturity Interval",32361
+32367,"More Than 365 Days Repricing/Maturity Interval",32361
+32368,"Size of Loans",32361
+32366,"31 to 365 Days Repricing/Maturity Interval",32361
+32365,"2 to 30 Days Repricing/Maturity Interval",32361
+32363,"Zero Repricing/Maturity Interval",32361
+32371,"All Commercial and Industrial Loans",32370
+32375,"Base Rate of Loans",32370
+32372,"Daily Repricing/Maturity Interval",32370
+32373,"More Than 365 Days Repricing/Maturity Interval",32370
+32374,"Size of Loans",32370
+32376,"31 to 365 Days Repricing/Maturity Interval",32370
+32377,"2 to 30 Days Repricing/Maturity Interval",32370
+32378,"Zero Repricing/Maturity Interval",32370
+32380,"All Commercial and Industrial Loans",32379
+32381,"Base Rate of Loans",32379
+32382,"Daily Repricing/Maturity Interval",32379
+32383,"More Than 365 Days Repricing/Maturity Interval",32379
+32384,"Size of Loans",32379
+32385,"31 to 365 Days Repricing/Maturity Interval",32379
+32386,"2 to 30 Days Repricing/Maturity Interval",32379
+32387,"Zero Repricing/Maturity Interval",32379
+32389,"All Commercial and Industrial Loans",32388
+32390,"Base Rate of Loans",32388
+32391,"Daily Repricing/Maturity Interval",32388
+32392,"More Than 365 Days Repricing/Maturity Interval",32388
+32393,"Size of Loans",32388
+32394,"31 to 365 Days Repricing/Maturity Interval",32388
+32395,"2 to 30 Days Repricing/Maturity Interval",32388
+32396,"Zero Repricing/Maturity Interval",32388
+32398,"All Commercial and Industrial Loans",32397
+32399,"Base Rate of Loans",32397
+32400,"Daily Repricing/Maturity Interval",32397
+32401,"More Than 365 Days Repricing/Maturity Interval",32397
+32402,"Size of Loans",32397
+32403,"31 to 365 Days Repricing/Maturity Interval",32397
+32404,"2 to 30 Days Repricing/Maturity Interval",32397
+32405,"Zero Repricing/Maturity Interval",32397
+32352,"Durable Goods",32349
+32353,"Nondurable Goods",32349
+33042,"Capital Transfers Paid",112
+33043,"Capital Transfers Received",112
+33040,"Consumptions of Fixed Capital",112
+33041,"Corporate Capital Consumption",112
+33037,"Domestic Investments",112
+33038,"Inventories",112
+33044,"Noncorporate Business",112
+33039,"Private Fixed Investments",112
+33018,"Exports",108
+33019,"Imports",108
+33699,"Net Stocks",33697
+33701,"Depreciation",33697
+33703,"Fixed Investment",33697
+33020,"Shares of GDP",106
+33022,"Gov't Consumption Expenditures",107
+33024,"Gov't Current Expenditures",107
+33025,"Gov't Current Transfer Receipts",107
+33027,"Gov't Fixed Investment",107
+33023,"Gov't Investment",107
+33026,"Gov't Social Benefits",107
+33883,"Administrative and Waste Management Services",33045
+33859,"Agriculture, Forestry, Fishing, and Hunting",33045
+33887,"Arts, Entertainment, Recreation, Accommodation, and Food Services",33045
+33046,"Auto Output",33045
+33865,"Construction",33045
+33885,"Educational Services, Health Care, and Social Assistance",33045
+33047,"Farm Output",33045
+33877,"Finance, Insurance, Real Estate, Rental, and Leasing",33045
+33050,"Full-time Equivalent Employees",33045
+33049,"Full-time & Part-time Employees",33045
+33889,"Government",33045
+33048,"Households",33045
+33053,"Imputed Interest",33045
+33875,"Information",33045
+33881,"Management Of Companies and Enterprises",33045
+33867,"Manufacturing",33045
+33861,"Mining",33045
+33052,"Persons Engaged in Production",33045
+33879,"Professional and Business Services",33045
+33871,"Retail Trade",33045
+33051,"Self-employed Persons",33045
+33873,"Transportation and Warehousing",33045
+33863,"Utilities",33045
+33869,"Wholesale Trade",33045
+33029,"Compensation of Employees",110
+33031,"Employer Contributions",110
+33028,"Personal Consumption Expenditures",110
+33032,"Personal Current Taxes",110
+33030,"Wage and Salary Accruals",110
+33035,"Corporate Dividends",109
+33033,"Corporate Profits",109
+33036,"Proprietorship",109
+33034,"Taxes on Corporate Income",109
+33564,"Accommodation Services",33583
+33548,"Advertising Space and Time Sales",33583
+33533,"Chemicals and Allied Products",33583
+33560,"Cleaning and Building Maintenance Services",33583
+33573,"Construction",33583
+33572,"Contract Work on Textile Products, Apparel, and Leather",33583
+33551,"Credit Intermediation Services",33583
+33550,"Data Processing and Related Services",33583
+33574,"Durability of Product",33583
+33563,"Educational Services",33583
+33557,"Employment Services",33583
+33567,"Entertainment Services",33583
+33528,"Farm Products",33583
+33575,"Final Demand",33583
+33565,"Food and Beverage for Immediate Consumption Services",33583
+33532,"Fuels and Related Products and Power",33583
+33539,"Furniture and Household Durables",33583
+33561,"Health Care Services",33583
+33531,"Hides, Skins, Leather, and Related Products",33583
+33582,"Inputs to Industries",33583
+33553,"Insurance and Annuities",33583
+33577,"Intermediate Demand By Commodity Type",33583
+33576,"Intermediate Demand By Production Flow",33583
+33552,"Investment Services",33583
+33535,"Lumber and Wood Products",33583
+33538,"Machinery and Equipment",33583
+33570,"Metal Treatment Services",33583
+33537,"Metals and Metal Products",33583
+33571,"Mining Services",33583
+33542,"Miscellaneous Products",33583
+33547,"Network Compensation from Broadcast and Cable Television and Radio",33583
+33540,"Nonmetallic Mineral Products",33583
+33529,"Processed Foods and Feeds",33583
+33556,"Professional Services",33583
+33545,"Publishing Sales, Excluding Software",33583
+33536,"Pulp, Paper, and Allied Products",33583
+33554,"Real Estate Services",33583
+33555,"Rental and Leasing of Goods",33583
+33566,"Repair and Maintenance Services",33583
+33569,"Retail Trade Services",33583
+33534,"Rubber and Plastic Products",33583
+33559,"Selected Security Services",33583
+33546,"Software Publishing",33583
+33580,"Special Indexes",33583
+33581,"Stage of Processing",33583
+33549,"Telecommunication, Cable, and Internet User Services",33583
+33530,"Textile Products and Apparel",33583
+33541,"Transportation Equipment",33583
+33543,"Transportation Services",33583
+33558,"Travel Arrangement Services",33583
+33544,"Warehousing, Storage, and Related Services",33583
+33562,"Waste Collection and Remediation Services",33583
+33568,"Wholesale Trade Services",33583
+33586,"Accommodation and Food Services",33584
+33588,"Administrative and Support and Waste Management and Remediation Services",33584
+33585,"Agriculture, Forestry, Fishing and Hunting",33584
+33587,"Arts, Entertainment, and Recreation",33584
+33589,"Construction",33584
+33591,"Educational Services",33584
+33590,"Finance and Insurance",33584
+33593,"Health Care and Social Assistance",33584
+33592,"Information",33584
+33597,"Manufacturing",33584
+33596,"Mining, Quarrying, and Oil and Gas Extraction",33584
+33594,"Other Services (except Public Administration)",33584
+33599,"Professional, Scientific, and Technical Services",33584
+33595,"Public Administration",33584
+33598,"Real Estate and Rental and Leasing",33584
+33600,"Retail Trade",33584
+33601,"Transportation and Warehousing",33584
+33602,"Utilities",33584
+33603,"Wholesale Trade",33584
+32223,"End Use Classification System",32221
+32229,"By Harmonized System",32221
+32226,"By NAICS",32221
+32230,"By Locality of Origin",32221
+33907,"Standard International Trade Classification",32221
+32225,"End Use Classification System",32224
+32227,"By NAICS",32224
+32228,"By Harmonized System",32224
+33905,"Standard International Trade Classification",32224
+32968,"Eastern Africa",32963
+32969,"Middle Africa",32963
+32970,"Northern Africa",32963
+32971,"Southern Africa",32963
+32972,"Western Africa",32963
+32973,"Latin America and the Caribbean",32964
+32974,"Northern America",32964
+32975,"Central Asia",32965
+32976,"Eastern Asia",32965
+32977,"Southern Asia",32965
+32978,"South-Eastern Asia",32965
+32979,"Western Asia",32965
+32980,"Eastern Europe",32966
+32981,"Northern Europe",32966
+32982,"Southern Europe",32966
+32983,"Western Europe",32966
+32984,"Australia and New Zealand",32967
+32985,"Melanesia",32967
+32986,"Micronesia",32967
+32987,"Polynesia",32967
+33185,"Banking",33000
+33195,"Business Lending",33000
+33099,"Financial Indicators",33000
+33191,"Financial Institutions",33000
+32954,"Financial Stress Indicators",33000
+32949,"Interest Rates",33000
+32950,"Monetary Data",33000
+32952,"Reserves & Monetary Base",33000
+33210,"Exchange Rate",33000
+32951,"Balance of Payments",32997
+32291,"GDP",32997
+33196,"GNP",32997
+33097,"International Trade and Transactions",32997
+32458,"Government Debt",32997
+33206,"Trade & International Transactions",32997
+33232,"National Income & Product Accounts",32997
+33526,"Education",32999
+32283,"Employment",32999
+33218,"Employment Population Ratio",32999
+33525,"Income Distribution",32999
+33215,"Job Openings and Labor Turnover",32999
+32285,"Labor Force",32999
+33217,"Labor Force Participation Rate",32999
+33213,"Labor Compensation",32999
+32292,"Population",32999
+33212,"Productivity & Costs",32999
+32284,"Unemployment",32999
+33214,"Unemployment Level",32999
+33219,"Unemployment Rate",32999
+33829,"Migration",32999
+33527,"Cell Phone Usage",32294
+33092,"Construction",32294
+33090,"Industrial Production & Capacity Utilization",32294
+33192,"Insurance",32294
+33499,"Internet Users",32294
+32437,"Manufacturing",32294
+32953,"Real Estate",32294
+33088,"Retail Sales",32294
+33209,"Business Tendency Surveys",32294
+33222,"Housing",32294
+33229,"Wholesale",32294
+33827,"Ease of Doing Business",32294
+32266,"Consumer Price Indexes",32998
+32427,"Producer Price Indexes",32998
+33129,"Trade Indexes",32998
+33226,"Wholesale",32998
+33503,"House Prices",32998
+33255,"Construction",33254
+33262,"Economic Situation",33261
+33268,"Consumer prices (inflation)",33261
+33275,"Confidence indicators",33274
+33295,"Order books",33274
+33313,"Employment",33274
+33319,"Selling prices",33274
+33325,"Business situation - Activity",33274
+33282,"Confidence Indicators",33281
+33289,"Confidence indicators",33288
+33301,"Finished goods stocks",33288
+33307,"Order books",33288
+33331,"Business situation",33288
+33345,"Employment",33344
+33351,"Business situation - Activity",33344
+33357,"Volume of stocks",33344
+33375,"Confidence indicators",33344
+33369,"Employment",33368
+27335,"Counties",27282
+30529,"MSAs",27282
+27403,"Census Areas and Boroughs",27283
+32907,"CPI for MSAs and Consolidated MSAs",27283
+33745,"Metropolitan Divisions",27283
+30542,"MSAs",27283
+27429,"Counties",27284
+30545,"MSAs",27284
+32942,"CPI for MSAs and Consolidated MSAs",27284
+27445,"Counties",149
+30551,"MSAs",149
+27521,"Counties",27286
+30560,"MSAs",27286
+32903,"CPI for MSAs and Consolidated MSAs",27286
+33159,"Metropolitan Divisions",27286
+27580,"Counties",27287
+30587,"MSAs",27287
+32944,"CPI for MSAs and Consolidated MSAs",27287
+27644,"Counties",27288
+32872,"CPI for MSAs and Consolidated MSAs",27288
+30595,"MSAs",27288
+32083,"New England City and Town Areas",27288
+27653,"Counties",27289
+30600,"MSAs",27289
+32879,"CPI for MSAs and Consolidated MSAs",27289
+33183,"Metropolitan Divisions",27289
+33507,"Counties",27290
+30603,"MSAs",27290
+32920,"CPI for MSAs and Consolidated MSAs",27290
+33177,"Metropolitan Divisions",27290
+27659,"Counties",27291
+30605,"MSAs",27291
+32901,"CPI for MSAs and Consolidated MSAs",27291
+33153,"Metropolitan Divisions",27291
+27727,"Counties",27292
+30625,"MSAs",27292
+32899,"CPI for MSAs and Consolidated MSAs",27292
+27887,"Counties",27293
+30641,"MSAs",27293
+33715,"Metropolitan Areas",27293
+32940,"CPI for MSAs and Consolidated MSAs",27293
+27893,"Counties",27294
+30643,"MSAs",27294
+27938,"Counties",150
+30650,"MSAs",150
+32883,"CPI for MSAs and Consolidated MSAs",150
+33144,"Metropolitan Divisions",150
+28041,"Counties",151
+30662,"MSAs",151
+32885,"CPI for MSAs and Consolidated MSAs",151
+33157,"Metropolitan Divisions",151
+28134,"Counties",27297
+30679,"MSAs",27297
+28234,"Counties",27298
+30689,"MSAs",27298
+33462,"Metropolitan Areas",27298
+28340,"Counties",152
+30695,"MSAs",152
+32932,"CPI for MSAs and Consolidated MSAs",152
+28461,"Parishes",27300
+30705,"MSAs",27300
+28526,"Counties",27301
+32084,"New England City and Town Areas",27301
+30714,"MSAs",27301
+32915,"CPI for MSAs and Consolidated MSAs",27301
+28543,"Counties",27302
+33452,"Metropolitan Areas",27302
+33130,"Metropolitan Divisions",27302
+30718,"MSAs",27302
+32881,"CPI for MSAs and Consolidated MSAs",27302
+28568,"Counties",27303
+32085,"New England City and Town Areas",27303
+30725,"MSAs",27303
+32911,"CPI for MSAs and Consolidated MSAs",27303
+33134,"Metropolitan Divisions",27303
+28583,"Counties",27304
+30732,"MSAs",27304
+32889,"CPI for MSAs and Consolidated MSAs",27304
+33150,"Metropolitan Divisions",27304
+28667,"Counties",27305
+30748,"MSAs",27305
+32927,"CPI for MSAs and Consolidated MSAs",27305
+28755,"Counties",153
+30756,"MSAs",153
+28838,"Counties",154
+30762,"MSAs",154
+32891,"CPI for MSAs and Consolidated MSAs",154
+33464,"Metropolitan Areas",154
+28954,"Counties",27308
+30771,"MSAs",27308
+29012,"Counties",27309
+30775,"MSAs",27309
+29106,"Counties",27310
+30779,"MSAs",27310
+29124,"Counties",27311
+30783,"MSAs",27311
+32086,"New England City and Town Areas",27311
+32913,"CPI for MSAs and Consolidated MSAs",27311
+33170,"Metropolitan Divisions",27311
+29135,"Counties",27312
+30786,"MSAs",27312
+32870,"CPI for MSAs and Consolidated MSAs",27312
+33138,"Metropolitan Divisions",27312
+33467,"Metropolitan Areas",27312
+29157,"Counties",27313
+30794,"MSAs",27313
+29191,"Counties",27314
+30799,"MSAs",27314
+32868,"CPI for MSAs and Consolidated MSAs",27314
+33164,"Metropolitan Divisions",27314
+33469,"Metropolitan Areas",27314
+29254,"Counties",27315
+30812,"MSAs",27315
+29355,"Counties",27316
+30828,"MSAs",27316
+29409,"Counties",27317
+30832,"MSAs",27317
+32918,"CPI for MSAs and Consolidated MSAs",27317
+29498,"Counties",27318
+30849,"MSAs",27318
+29576,"Counties",27319
+30854,"MSAs",27319
+32937,"CPI for MSAs and Consolidated MSAs",27319
+29613,"Counties",27320
+30861,"MSAs",27320
+32874,"CPI for MSAs and Consolidated MSAs",27320
+33167,"Metropolitan Divisions",27320
+33472,"Metropolitan Areas",27320
+33505,"Counties",33504
+33475,"MSAs",33504
+29682,"Counties",27322
+30879,"MSAs",27322
+32087,"New England City and Town Areas",27322
+29688,"Counties",27323
+30881,"MSAs",27323
+29735,"Counties",27324
+30892,"MSAs",27324
+29802,"Counties",193
+30896,"MSAs",193
+29898,"Counties",27326
+30907,"MSAs",27326
+32897,"CPI for MSAs and Consolidated MSAs",27326
+33147,"Metropolitan Divisions",27326
+30154,"Counties",27328
+30934,"MSAs",27328
+30184,"Counties",27329
+32088,"New England City and Town Areas",27329
+30940,"MSAs",27329
+30199,"Counties",27330
+30942,"MSAs",27330
+32923,"CPI for MSAs and Consolidated MSAs",27330
+33179,"Metropolitan Divisions",27330
+33484,"Metropolitan Areas",27330
+30376,"Counties",27332
+30968,"MSAs",27332
+32925,"CPI for MSAs and Consolidated MSAs",27332
+33181,"Metropolitan Divisions",27332
+30336,"Counties",27331
+30955,"MSAs",27331
+32905,"CPI for MSAs and Consolidated MSAs",27331
+33172,"Metropolitan Divisions",27331
+30432,"Counties",27333
+30979,"MSAs",27333
+32887,"CPI for MSAs and Consolidated MSAs",27333
+33175,"Metropolitan Divisions",27333
+30505,"Counties",27334
+30995,"MSAs",27334
+32048,"Census Divisions",32044
+32051,"Census Divisions",32045
+32054,"Census Divisions",32046
+32058,"Census Divisions",32047
+32854,"Population Size Class A (over 1,500,000)",32851
+32855,"Population Size Class B/C (between 50,000 and 1,500,000)",32851
+32856,"Population Size Class D (under 50,000)",32851
+32857,"Population Size Class A (over 1,500,000)",32850
+32858,"Population Size Class B/C (between 50,000 and 1,500,000)",32850
+32863,"Population Size Class A (over 1,500,000)",32852
+32865,"Population Size Class B/C (between 50,000 and 1,500,000)",32852
+32867,"Population Size Class D (under 50,000)",32852
+32864,"Population Size Class A (over 1,500,000)",32853
+32866,"Population Size Class B/C (between 50,000 and 1,500,000)",32853
+32157,"States in District",32146
+32158,"Counties in District",32146
+32159,"MSAs in District",32146
+32162,"States in District",32147
+32163,"Counties in District",32147
+32164,"MSAs in District",32147
+32167,"States in District",32148
+32168,"Counties in District",32148
+32169,"MSAs in District",32148
+32172,"States in District",32149
+32173,"Counties in District",32149
+32174,"MSAs in District",32149
+32177,"States in District",32150
+32178,"Counties in District",32150
+32179,"MSAs in District",32150
+32182,"States in District",32151
+32183,"Counties in District",32151
+32184,"MSAs in District",32151
+32187,"States in District",32152
+32188,"Counties in District",32152
+32189,"MSAs in District",32152
+32192,"States in District",32153
+32193,"Counties in District",32153
+32194,"MSAs in District",32153
+32197,"States in District",32154
+32198,"Counties in District",32154
+32199,"MSAs in District",32154
+32202,"States in District",32155
+32203,"Counties in District",32155
+32204,"MSAs in District",32155
+32207,"States in District",32156
+32208,"Counties in District",32156
+32209,"MSAs in District",32156
+32073,"States in District",133
+32072,"Counties in District",133
+32074,"MSAs in District",133
+32988,"Caribbean",32973
+32989,"Central America",32973
+32990,"South America",32973
+33186,"Condition of Banks",33185
+33187,"Bond Market Data",33099
+33211,"Financial Activity Measures",33099
+33497,"Money Market Instruments",33099
+33493,"Securities",33099
+33194,"Stock Market Data",33099
+33220,"M3 and Components",32950
+33221,"M1 and Components",32950
+33223,"Reserves",32950
+33227,"M2 and Components",32950
+33234,"Monetary Base",32950
+33207,"Trade Balance",33206
+33208,"International Finance",33206
+33224,"Exports",33206
+33225,"Imports",33206
+33233,"Govt Receipts, Expenditures & Investment",33232
+33237,"Price Indexes & Deflators",33232
+33238,"Personal Income & Outlays",33232
+33739,"Birth Rate",32292
+33512,"Fertility Rate",32292
+33510,"Infant Mortality",32292
+33513,"Life Expectancy",32292
+33511,"Literacy Rate",32292
+33498,"Migration",32292
+33228,"Inventories",32437
+33006,"Alcoholic Beverages and Tobacco",32266
+33004,"All Items",32266
+33007,"Clothing and Footwear",32266
+33012,"Communications",32266
+33014,"Education",32266
+33005,"Food and Non-Alcoholic Beverages",32266
+33010,"Health",32266
+33009,"Household Equipment",32266
+33008,"Housing",32266
+33015,"Hotels and Restaurants",32266
+33016,"Miscellaneous Goods and Services",32266
+33013,"Recreation and Culture",32266
+33017,"Special Indexes",32266
+33011,"Transport",32266
+33256,"Buildings",33255
+33263,"Future tendency",33262
+33269,"Future tendency",33268
+33276,"Composite indicators",33275
+33296,"Level",33295
+33314,"Future tendency",33313
+33320,"Future tendency",33319
+33326,"Present",33325
+33283,"Composite Indicators",33282
+33290,"Composite indicators",33289
+33302,"Level",33301
+33308,"Level",33307
+33332,"Current",33331
+33346,"Future tendency",33345
+33352,"Present",33351
+33363,"Future tendency",33351
+33358,"Level",33357
+33376,"Composite indicators",33375
+33370,"Future Tendency",33369
+27336,"Autauga County, AL",27335
+27337,"Baldwin County, AL",27335
+27338,"Barbour County, AL",27335
+27339,"Bibb County, AL",27335
+27340,"Blount County, AL",27335
+27341,"Bullock County, AL",27335
+27342,"Butler County, AL",27335
+27343,"Calhoun County, AL",27335
+27344,"Chambers County, AL",27335
+27345,"Cherokee County, AL",27335
+27346,"Chilton County, AL",27335
+27347,"Choctaw County, AL",27335
+27348,"Clarke County, AL",27335
+27349,"Clay County, AL",27335
+27350,"Cleburne County, AL",27335
+27351,"Coffee County, AL",27335
+27352,"Colbert County, AL",27335
+27353,"Conecuh County, AL",27335
+27354,"Coosa County, AL",27335
+27355,"Covington County, AL",27335
+27356,"Crenshaw County, AL",27335
+27357,"Cullman County, AL",27335
+27358,"Dale County, AL",27335
+27359,"Dallas County, AL",27335
+27360,"De Kalb County, AL",27335
+27361,"Elmore County, AL",27335
+27362,"Escambia County, AL",27335
+27363,"Etowah County, AL",27335
+27364,"Fayette County, AL",27335
+27365,"Franklin County, AL",27335
+27366,"Geneva County, AL",27335
+27367,"Greene County, AL",27335
+27368,"Hale County, AL",27335
+27369,"Henry County, AL",27335
+27370,"Houston County, AL",27335
+27371,"Jackson County, AL",27335
+27372,"Jefferson County, AL",27335
+27373,"Lamar County, AL",27335
+27374,"Lauderdale County, AL",27335
+27375,"Lawrence County, AL",27335
+27376,"Lee County, AL",27335
+27377,"Limestone County, AL",27335
+27378,"Lowndes County, AL",27335
+27379,"Macon County, AL",27335
+27380,"Madison County, AL",27335
+27381,"Marengo County, AL",27335
+27382,"Marion County, AL",27335
+27383,"Marshall County, AL",27335
+27384,"Mobile County, AL",27335
+27385,"Monroe County, AL",27335
+27386,"Montgomery County, AL",27335
+27387,"Morgan County, AL",27335
+27388,"Perry County, AL",27335
+27389,"Pickens County, AL",27335
+27390,"Pike County, AL",27335
+27391,"Randolph County, AL",27335
+27392,"Russell County, AL",27335
+27393,"Shelby County, AL",27335
+27394,"St. Clair County, AL",27335
+27395,"Sumter County, AL",27335
+27396,"Talladega County, AL",27335
+27397,"Tallapoosa County, AL",27335
+27398,"Tuscaloosa County, AL",27335
+27399,"Walker County, AL",27335
+27400,"Washington County, AL",27335
+27401,"Wilcox County, AL",27335
+27402,"Winston County, AL",27335
+30530,"Anniston-Oxford, AL",30529
+30531,"Auburn-Opelika, AL",30529
+30532,"Birmingham-Hoover, AL",30529
+30533,"Columbus, GA-AL",30529
+33417,"Daphne-Fairhope-Foley, AL",30529
+30534,"Decatur, AL",30529
+30535,"Dothan, AL",30529
+32080,"Florence-Muscle Shoals, AL",30529
+30537,"Gadsden, AL",30529
+30538,"Huntsville, AL",30529
+30539,"Mobile, AL",30529
+30540,"Montgomery, AL",30529
+30541,"Tuscaloosa, AL",30529
+27404,"Aleutians East Borough, AK",27403
+33743,"Aleutian Islands Census Area",27403
+27405,"Aleutians West Census Area, AK",27403
+27406,"Anchorage Borough/municipality, AK",27403
+27407,"Bethel Census Area, AK",27403
+27408,"Bristol Bay Borough, AK",27403
+32079,"Denali Borough, AK",27403
+27409,"Dillingham Census Area, AK",27403
+27410,"Fairbanks North Star Borough, AK",27403
+27411,"Haines Borough, AK",27403
+33517,"Hoonah-Angoon Census Area, AK",27403
+27412,"Juneau Borough/city, AK",27403
+27413,"Kenai Peninsula Borough, AK",27403
+27414,"Ketchikan Gateway Borough, AK",27403
+27415,"Kodiak Island Borough, AK",27403
+33897,"Kusilvak Census Area, AK",27403
+27416,"Lake and Peninsula Borough, AK",27403
+27417,"Matanuska-Susitna Borough, AK",27403
+27418,"Nome Census Area, AK",27403
+27419,"North Slope Borough, AK",27403
+27420,"Northwest Arctic Borough, AK",27403
+33519,"Petersburg Census Area, AK",27403
+33520,"Prince of Wales-Hyder Census Area, AK",27403
+27421,"Prince of Wales-Outer Ketchikan Census Area, AK",27403
+27422,"Sitka Borough/city, AK",27403
+27423,"Skagway-Hoonah-Angoon Census Area, AK",27403
+33516,"Skagway Municipality, AK",27403
+27424,"Southeast Fairbanks Census Area, AK",27403
+27425,"Valdez-Cordova Census Area, AK",27403
+27426,"Wade Hampton Census Area, AK",27403
+33518,"Wrangell Borough/City, AK",27403
+27427,"Wrangell-Petersburg Census Area, AK",27403
+32212,"Yakutat City and Borough",27403
+27428,"Yukon-Koyukuk Census Area, AK",27403
+32908,"Anchorage, AK (MSA)",32907
+33785,"Aleutian Islands Division, AK",33745
+33786,"Angoon Division, AK",33745
+33787,"Barrow-North Slope Division, AK",33745
+33788,"Bethel Division, AK",33745
+33789,"Bristol Bay Division, AK",33745
+33790,"Cordova-McCarthy Division, AK",33745
+33791,"Haines Division, AK",33745
+33792,"Kenai-Cook Inlet Division, AK",33745
+33793,"Kuskokwim Division, AK",33745
+33794,"Outer Ketchikan Division, AK",33745
+33795,"Prince of Wales Division, AK",33745
+33796,"Seward Division, AK",33745
+33797,"Sitka Division, AK",33745
+33798,"Skagway-Yakutat Division, AK",33745
+33799,"Southeast Fairbanks Division, AK",33745
+33800,"Upper Yukon Division, AK",33745
+33801,"Valdez-Chitina-Whittier Division, AK",33745
+33802,"Wrangell-Petersburg Division, AK",33745
+33803,"Yukon-Koyukuk Division, AK",33745
+30543,"Anchorage, AK",30542
+30544,"Fairbanks, AK",30542
+27430,"Apache County, AZ",27429
+27431,"Cochise County, AZ",27429
+27432,"Coconino County, AZ",27429
+27433,"Gila County, AZ",27429
+27434,"Graham County, AZ",27429
+27435,"Greenlee County, AZ",27429
+27436,"La Paz County, AZ",27429
+27437,"Maricopa County, AZ",27429
+27438,"Mohave County, AZ",27429
+27439,"Navajo County, AZ",27429
+27440,"Pima County, AZ",27429
+27441,"Pinal County, AZ",27429
+27442,"Santa Cruz County, AZ",27429
+27443,"Yavapai County, AZ",27429
+27444,"Yuma County, AZ",27429
+30546,"Flagstaff, AZ",30545
+32144,"Lake Havasu City-Kingman, AZ",30545
+30547,"Phoenix-Mesa-Chandler, AZ",30545
+30548,"Prescott Valley-Prescott, AZ",30545
+33435,"Sierra Vista-Douglas, AZ",30545
+30549,"Tucson, AZ",30545
+30550,"Yuma, AZ",30545
+32943,"Phoenix-Mesa, AZ (MSA)",32942
+798,"Arkansas County, AR",27445
+796,"Ashley County, AR",27445
+794,"Baxter County, AR",27445
+792,"Benton County, AR",27445
+790,"Boone County, AR",27445
+787,"Bradley County, AR",27445
+786,"Calhoun County, AR",27445
+784,"Carroll County, AR",27445
+782,"Chicot County, AR",27445
+780,"Clark County, AR",27445
+778,"Clay County, AR",27445
+776,"Cleburne County, AR",27445
+774,"Cleveland County, AR",27445
+772,"Columbia County, AR",27445
+770,"Conway County, AR",27445
+768,"Craighead County, AR",27445
+766,"Crawford County, AR",27445
+764,"Crittenden County, AR",27445
+762,"Cross County, AR",27445
+760,"Dallas County, AR",27445
+758,"Desha County, AR",27445
+756,"Drew County, AR",27445
+754,"Faulkner County, AR",27445
+752,"Franklin County, AR",27445
+750,"Fulton County, AR",27445
+748,"Garland County, AR",27445
+746,"Grant County, AR",27445
+744,"Greene County, AR",27445
+742,"Hempstead County, AR",27445
+740,"Hot Spring County, AR",27445
+738,"Howard County, AR",27445
+736,"Independence County, AR",27445
+734,"Izard County, AR",27445
+732,"Jackson County, AR",27445
+730,"Jefferson County, AR",27445
+728,"Johnson County, AR",27445
+726,"Lafayette County, AR",27445
+724,"Lawrence County, AR",27445
+722,"Lee County, AR",27445
+720,"Lincoln County, AR",27445
+718,"Little River County, AR",27445
+716,"Logan County, AR",27445
+714,"Lonoke County, AR",27445
+712,"Madison County, AR",27445
+710,"Marion County, AR",27445
+708,"Miller County, AR",27445
+706,"Mississippi County, AR",27445
+704,"Monroe County, AR",27445
+702,"Montgomery County, AR",27445
+700,"Nevada County, AR",27445
+698,"Newton County, AR",27445
+696,"Ouachita County, AR",27445
+693,"Perry County, AR",27445
+691,"Phillips County, AR",27445
+689,"Pike County, AR",27445
+687,"Poinsett County, AR",27445
+685,"Polk County, AR",27445
+683,"Pope County, AR",27445
+799,"Prairie County, AR",27445
+680,"Pulaski County, AR",27445
+678,"Randolph County, AR",27445
+676,"Saline County, AR",27445
+674,"Scott County, AR",27445
+672,"Searcy County, AR",27445
+670,"Sebastian County, AR",27445
+668,"Sevier County, AR",27445
+666,"Sharp County, AR",27445
+664,"St. Francis County, AR",27445
+662,"Stone County, AR",27445
+660,"Union County, AR",27445
+658,"Van Buren County, AR",27445
+656,"Washington County, AR",27445
+654,"White County, AR",27445
+652,"Woodruff County, AR",27445
+650,"Yell County, AR",27445
+30552,"Fayetteville-Springdale-Rogers, AR",30551
+337,"Fort Smith, AR-OK",30551
+3007,"Hot Springs, AR",30551
+335,"Jonesboro, AR",30551
+334,"Little Rock-North Little Rock-Conway, AR",30551
+30557,"Memphis, TN-MS-AR",30551
+329,"Pine Bluff, AR",30551
+30559,"Texarkana, TX-AR",30551
+27522,"Alameda County, CA",27521
+27523,"Alpine County, CA",27521
+27524,"Amador County, CA",27521
+27525,"Butte County, CA",27521
+27526,"Calaveras County, CA",27521
+27527,"Colusa County, CA",27521
+27528,"Contra Costa County, CA",27521
+27529,"Del Norte County, CA",27521
+27530,"El Dorado County, CA",27521
+27531,"Fresno County, CA",27521
+27532,"Glenn County, CA",27521
+27533,"Humboldt County, CA",27521
+27534,"Imperial County, CA",27521
+27535,"Inyo County, CA",27521
+27536,"Kern County, CA",27521
+27537,"Kings County, CA",27521
+27538,"Lake County, CA",27521
+27539,"Lassen County, CA",27521
+27540,"Los Angeles County, CA",27521
+27541,"Madera County, CA",27521
+27542,"Marin County, CA",27521
+27543,"Mariposa County, CA",27521
+27544,"Mendocino County, CA",27521
+27545,"Merced County, CA",27521
+27546,"Modoc County, CA",27521
+27547,"Mono County, CA",27521
+27548,"Monterey County, CA",27521
+27549,"Napa County, CA",27521
+27550,"Nevada County, CA",27521
+27551,"Orange County, CA",27521
+27552,"Placer County, CA",27521
+27553,"Plumas County, CA",27521
+27554,"Riverside County, CA",27521
+27555,"Sacramento County, CA",27521
+27556,"San Benito County, CA",27521
+27557,"San Bernardino County, CA",27521
+27558,"San Diego County, CA",27521
+27559,"San Francisco County/city, CA",27521
+27560,"San Joaquin County, CA",27521
+27561,"San Luis Obispo County, CA",27521
+27562,"San Mateo County, CA",27521
+27563,"Santa Barbara County, CA",27521
+27564,"Santa Clara County, CA",27521
+27565,"Santa Cruz County, CA",27521
+27566,"Shasta County, CA",27521
+27567,"Sierra County, CA",27521
+27568,"Siskiyou County, CA",27521
+27569,"Solano County, CA",27521
+27570,"Sonoma County, CA",27521
+27571,"Stanislaus County, CA",27521
+27572,"Sutter County, CA",27521
+27573,"Tehama County, CA",27521
+27574,"Trinity County, CA",27521
+27575,"Tulare County, CA",27521
+27576,"Tuolumne County, CA",27521
+27577,"Ventura County, CA",27521
+27578,"Yolo County, CA",27521
+27579,"Yuba County, CA",27521
+30561,"Bakersfield, CA",30560
+30562,"Chico, CA",30560
+30563,"El Centro, CA",30560
+30564,"Fresno, CA",30560
+30565,"Hanford-Corcoran, CA",30560
+30566,"Los Angeles-Long Beach-Anaheim, CA",30560
+30567,"Madera, CA",30560
+30568,"Merced, CA",30560
+30569,"Modesto, CA",30560
+30570,"Napa, CA",30560
+30571,"Oxnard-Thousand Oaks-Ventura, CA",30560
+30572,"Redding, CA",30560
+30573,"Riverside-San Bernardino-Ontario, CA",30560
+30574,"Sacramento-Roseville-Folsom, CA",30560
+30575,"Salinas, CA",30560
+30576,"San Diego-Chula Vista-Carlsbad, CA",30560
+30577,"San Francisco-Oakland-Berkeley, CA",30560
+30578,"San Jose-Sunnyvale-Santa Clara, CA",30560
+30579,"San Luis Obispo-Paso Robles, CA",30560
+30581,"Santa Cruz-Watsonville, CA",30560
+30580,"Santa Maria-Santa Barbara, CA",30560
+30582,"Santa Rosa-Petaluma, CA",30560
+30583,"Stockton, CA",30560
+30584,"Vallejo, CA",30560
+30585,"Visalia, CA",30560
+30586,"Yuba City, CA",30560
+32904,"Los Angeles-Riverside-Orange County, CA (CMSA)",32903
+32936,"San Diego, CA (MSA)",32903
+32910,"San Francisco-Oakland-San Jose, CA (CMSA)",32903
+33411,"Anaheim-Santa Ana-Irvine, CA",33159
+33160,"Los Angeles-Long Beach-Glendale, CA",33159
+33161,"Oakland-Hayward-Berkeley, CA",33159
+33162,"San Francisco-Redwood City-South San Francisco, CA",33159
+33434,"San Rafael, CA",33159
+33163,"Santa Ana-Anaheim-Irvine, CA ",33159
+27581,"Adams County, CO",27580
+27582,"Alamosa County, CO",27580
+27583,"Arapahoe County, CO",27580
+27584,"Archuleta County, CO",27580
+27585,"Baca County, CO",27580
+27586,"Bent County, CO",27580
+27587,"Boulder County, CO",27580
+32077,"Broomfield County/city, CO",27580
+27588,"Chaffee County, CO",27580
+27589,"Cheyenne County, CO",27580
+27590,"Clear Creek County, CO",27580
+27591,"Conejos County, CO",27580
+27592,"Costilla County, CO",27580
+27593,"Crowley County, CO",27580
+27594,"Custer County, CO",27580
+27595,"Delta County, CO",27580
+27596,"Denver County, CO",27580
+27597,"Dolores County, CO",27580
+27598,"Douglas County, CO",27580
+27599,"Eagle County, CO",27580
+27600,"Elbert County, CO",27580
+27601,"El Paso County, CO",27580
+27602,"Fremont County, CO",27580
+27603,"Garfield County, CO",27580
+27604,"Gilpin County, CO",27580
+27605,"Grand County, CO",27580
+27606,"Gunnison County, CO",27580
+27607,"Hinsdale County, CO",27580
+27608,"Huerfano County, CO",27580
+27609,"Jackson County, CO",27580
+27610,"Jefferson County, CO",27580
+27611,"Kiowa County, CO",27580
+27612,"Kit Carson County, CO",27580
+27613,"Lake County, CO",27580
+27614,"La Plata County, CO",27580
+27615,"Larimer County, CO",27580
+27616,"Las Animas County, CO",27580
+27617,"Lincoln County, CO",27580
+27618,"Logan County, CO",27580
+27619,"Mesa County, CO",27580
+27620,"Mineral County, CO",27580
+27621,"Moffat County, CO",27580
+27622,"Montezuma County, CO",27580
+27623,"Montrose County, CO",27580
+27624,"Morgan County, CO",27580
+27625,"Otero County, CO",27580
+27626,"Ouray County, CO",27580
+27627,"Park County, CO",27580
+27628,"Phillips County, CO",27580
+27629,"Pitkin County, CO",27580
+27630,"Prowers County, CO",27580
+27631,"Pueblo County, CO",27580
+27632,"Rio Blanco County, CO",27580
+27633,"Rio Grande County, CO",27580
+27634,"Routt County, CO",27580
+27635,"Saguache County, CO",27580
+27636,"San Juan County, CO",27580
+27637,"San Miguel County, CO",27580
+27638,"Sedgwick County, CO",27580
+27639,"Summit County, CO",27580
+27640,"Teller County, CO",27580
+27641,"Washington County, CO",27580
+27642,"Weld County, CO",27580
+27643,"Yuma County, CO",27580
+30588,"Boulder, CO",30587
+33944,"Canon, CO",30587
+30589,"Colorado Springs, CO",30587
+30590,"Denver-Aurora-Lakewood, CO",30587
+30591,"Fort Collins, CO",30587
+30592,"Grand Junction, CO",30587
+30593,"Greeley, CO",30587
+30594,"Pueblo, CO",30587
+32945,"Denver-Boulder-Greeley, CO (CMSA)",32944
+27645,"Fairfield County, CT",27644
+27646,"Hartford County, CT",27644
+27647,"Litchfield County, CT",27644
+27648,"Middlesex County, CT",27644
+27649,"New Haven County, CT",27644
+27650,"New London County, CT",27644
+27651,"Tolland County, CT",27644
+27652,"Windham County, CT",27644
+32917,"Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA)",32872
+32873,"New York-Northern New Jersey-Long Island, NY-NJ-CT-PA (CMSA)",32872
+30596,"Bridgeport-Stamford-Norwalk, CT",30595
+30597,"Hartford-East Hartford-Middletown, CT",30595
+30598,"New Haven-Milford, CT",30595
+30599,"Norwich-New London, CT",30595
+32089,"Bridgeport-Stamford-Norwalk, CT",32083
+32090,"Danbury, CT",32083
+32091,"Danielson, CT",32083
+32092,"Hartford-West Hartford-East Hartford, CT",32083
+32093,"New Haven, CT",32083
+32094,"Norwich-New London, CT-RI",32083
+32095,"Springfield, MA-CT",32083
+32096,"Torrington, CT",32083
+32097,"Waterbury, CT",32083
+32098,"Willimantic, CT",32083
+32099,"Worcester, MA-CT",32083
+27654,"Kent County, DE",27653
+27655,"New Castle County, DE",27653
+27656,"Sussex County, DE",27653
+30601,"Dover, DE",30600
+30602,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",30600
+33685,"Salisbury, MD-DE",30600
+32880,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (CMSA)",32879
+33184,"Wilmington, DE-MD-NJ",33183
+33508,"District of Columbia",33507
+30604,"Washington-Arlington-Alexandria, DC-VA-MD-WV",30603
+32921,"Washington-Baltimore, DC-MD-VA-WV (CMSA)",32920
+33178,"Washington-Arlington-Alexandria, DC-VA-MD-WV",33177
+27660,"Alachua County, FL",27659
+27661,"Baker County, FL",27659
+27662,"Bay County, FL",27659
+27663,"Bradford County, FL",27659
+27664,"Brevard County, FL",27659
+27665,"Broward County, FL",27659
+27666,"Calhoun County, FL",27659
+27667,"Charlotte County, FL",27659
+27668,"Citrus County, FL",27659
+27669,"Clay County, FL",27659
+27670,"Collier County, FL",27659
+27671,"Columbia County, FL",27659
+27673,"De Soto County, FL",27659
+27674,"Dixie County, FL",27659
+27675,"Duval County, FL",27659
+27676,"Escambia County, FL",27659
+27677,"Flagler County, FL",27659
+27678,"Franklin County, FL",27659
+27679,"Gadsden County, FL",27659
+27680,"Gilchrist County, FL",27659
+27681,"Glades County, FL",27659
+27682,"Gulf County, FL",27659
+27683,"Hamilton County, FL",27659
+27684,"Hardee County, FL",27659
+27685,"Hendry County, FL",27659
+27686,"Hernando County, FL",27659
+27687,"Highlands County, FL",27659
+27688,"Hillsborough County, FL",27659
+27689,"Holmes County, FL",27659
+27690,"Indian River County, FL",27659
+27691,"Jackson County, FL",27659
+27692,"Jefferson County, FL",27659
+27693,"Lafayette County, FL",27659
+27694,"Lake County, FL",27659
+27695,"Lee County, FL",27659
+27696,"Leon County, FL",27659
+27697,"Levy County, FL",27659
+27698,"Liberty County, FL",27659
+27699,"Madison County, FL",27659
+27700,"Manatee County, FL",27659
+27701,"Marion County, FL",27659
+27702,"Martin County, FL",27659
+32078,"Miami-Dade County, FL",27659
+27703,"Monroe County, FL",27659
+27704,"Nassau County, FL",27659
+27705,"Okaloosa County, FL",27659
+27706,"Okeechobee County, FL",27659
+27707,"Orange County, FL",27659
+27708,"Osceola County, FL",27659
+27709,"Palm Beach County, FL",27659
+27710,"Pasco County, FL",27659
+27711,"Pinellas County, FL",27659
+27712,"Polk County, FL",27659
+27713,"Putnam County, FL",27659
+27714,"Santa Rosa County, FL",27659
+27715,"Sarasota County, FL",27659
+27716,"Seminole County, FL",27659
+27717,"St. Johns County, FL",27659
+27718,"St. Lucie County, FL",27659
+27719,"Sumter County, FL",27659
+27720,"Suwannee County, FL",27659
+27721,"Taylor County, FL",27659
+27722,"Union County, FL",27659
+27723,"Volusia County, FL",27659
+27724,"Wakulla County, FL",27659
+27725,"Walton County, FL",27659
+27726,"Washington County, FL",27659
+30606,"Cape Coral-Fort Myers, FL",30605
+30607,"Deltona-Daytona Beach-Ormond Beach, FL",30605
+30608,"Crestview-Fort Walton Beach-Destin, FL",30605
+30609,"Gainesville, FL",30605
+33427,"Homosassa Springs, FL",30605
+30610,"Jacksonville, FL",30605
+30611,"Lakeland-Winter Haven, FL",30605
+30612,"Miami-Fort Lauderdale-Pompano Beach, FL",30605
+30613,"Naples-Marco Island, FL",30605
+30621,"North Port-Sarasota-Bradenton, FL",30605
+30614,"Ocala, FL",30605
+30615,"Orlando-Kissimmee, FL",30605
+30616,"Palm Bay-Melbourne-Titusville, FL",30605
+32142,"Palm Coast, FL",30605
+30617,"Panama City, FL",30605
+30618,"Pensacola-Ferry Pass-Brent, FL",30605
+30619,"Port St. Lucie, FL",30605
+30620,"Punta Gorda, FL",30605
+30624,"Sebastian-Vero Beach, FL",30605
+33428,"Sebring-Avon Park, FL",30605
+30623,"Tampa-St. Petersburg-Clearwater, FL",30605
+30622,"Tallahassee, FL",30605
+33429,"The Villages, FL",30605
+32902,"Miami-Fort Lauderdale, FL (CMSA)",32901
+32935,"Tampa-St. Petersburg-Clearwater, FL (MSA)",32901
+33154,"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL",33153
+33155,"Miami-Miami Beach-Kendall, FL",33153
+33156,"West Palm Beach-Boca Raton-Delray Beach, FL",33153
+27728,"Appling County, GA",27727
+27729,"Atkinson County, GA",27727
+27730,"Bacon County, GA",27727
+27731,"Baker County, GA",27727
+27732,"Baldwin County, GA",27727
+27733,"Banks County, GA",27727
+27734,"Barrow County, GA",27727
+27735,"Bartow County, GA",27727
+27736,"Ben Hill County, GA",27727
+27737,"Berrien County, GA",27727
+27738,"Bibb County, GA",27727
+27739,"Bleckley County, GA",27727
+27740,"Brantley County, GA",27727
+27741,"Brooks County, GA",27727
+27742,"Bryan County, GA",27727
+27743,"Bulloch County, GA",27727
+27744,"Burke County, GA",27727
+27745,"Butts County, GA",27727
+27746,"Calhoun County, GA",27727
+27747,"Camden County, GA",27727
+27748,"Candler County, GA",27727
+27749,"Carroll County, GA",27727
+27750,"Catoosa County, GA",27727
+27751,"Charlton County, GA",27727
+27752,"Chatham County, GA",27727
+27753,"Chattahoochee County, GA",27727
+27754,"Chattooga County, GA",27727
+27755,"Cherokee County, GA",27727
+27756,"Clarke County, GA",27727
+27757,"Clay County, GA",27727
+27758,"Clayton County, GA",27727
+27759,"Clinch County, GA",27727
+27760,"Cobb County, GA",27727
+27761,"Coffee County, GA",27727
+27762,"Colquitt County, GA",27727
+27763,"Columbia County, GA",27727
+27764,"Cook County, GA",27727
+27765,"Coweta County, GA",27727
+27766,"Crawford County, GA",27727
+27767,"Crisp County, GA",27727
+27768,"Dade County, GA",27727
+27769,"Dawson County, GA",27727
+27770,"Decatur County, GA",27727
+27771,"De Kalb County, GA",27727
+27772,"Dodge County, GA",27727
+27773,"Dooly County, GA",27727
+27774,"Dougherty County, GA",27727
+27775,"Douglas County, GA",27727
+27776,"Early County, GA",27727
+27777,"Echols County, GA",27727
+27778,"Effingham County, GA",27727
+27779,"Elbert County, GA",27727
+27780,"Emanuel County, GA",27727
+27781,"Evans County, GA",27727
+27782,"Fannin County, GA",27727
+27783,"Fayette County, GA",27727
+27784,"Floyd County, GA",27727
+27785,"Forsyth County, GA",27727
+27786,"Franklin County, GA",27727
+27787,"Fulton County, GA",27727
+27788,"Gilmer County, GA",27727
+27789,"Glascock County, GA",27727
+27790,"Glynn County, GA",27727
+27791,"Gordon County, GA",27727
+27792,"Grady County, GA",27727
+27793,"Greene County, GA",27727
+27794,"Gwinnett County, GA",27727
+27795,"Habersham County, GA",27727
+27796,"Hall County, GA",27727
+27797,"Hancock County, GA",27727
+27798,"Haralson County, GA",27727
+27799,"Harris County, GA",27727
+27800,"Hart County, GA",27727
+27801,"Heard County, GA",27727
+27802,"Henry County, GA",27727
+27803,"Houston County, GA",27727
+27804,"Irwin County, GA",27727
+27805,"Jackson County, GA",27727
+27806,"Jasper County, GA",27727
+27807,"Jeff Davis County, GA",27727
+27808,"Jefferson County, GA",27727
+27809,"Jenkins County, GA",27727
+27810,"Johnson County, GA",27727
+27811,"Jones County, GA",27727
+27812,"Lamar County, GA",27727
+27813,"Lanier County, GA",27727
+27814,"Laurens County, GA",27727
+27815,"Lee County, GA",27727
+27816,"Liberty County, GA",27727
+27817,"Lincoln County, GA",27727
+27818,"Long County, GA",27727
+27819,"Lowndes County, GA",27727
+27820,"Lumpkin County, GA",27727
+27821,"Macon County, GA",27727
+27822,"Madison County, GA",27727
+27823,"Marion County, GA",27727
+27824,"McDuffie County, GA",27727
+27825,"McIntosh County, GA",27727
+27826,"Meriwether County, GA",27727
+27827,"Miller County, GA",27727
+27828,"Mitchell County, GA",27727
+27829,"Monroe County, GA",27727
+27830,"Montgomery County, GA",27727
+27831,"Morgan County, GA",27727
+27832,"Murray County, GA",27727
+27833,"Muscogee County, GA",27727
+27834,"Newton County, GA",27727
+27835,"Oconee County, GA",27727
+27836,"Oglethorpe County, GA",27727
+27837,"Paulding County, GA",27727
+27838,"Peach County, GA",27727
+27839,"Pickens County, GA",27727
+27840,"Pierce County, GA",27727
+27841,"Pike County, GA",27727
+27842,"Polk County, GA",27727
+27843,"Pulaski County, GA",27727
+27844,"Putnam County, GA",27727
+27845,"Quitman County, GA",27727
+27846,"Rabun County, GA",27727
+27847,"Randolph County, GA",27727
+27848,"Richmond County, GA",27727
+27849,"Rockdale County, GA",27727
+27850,"Schley County, GA",27727
+27851,"Screven County, GA",27727
+27852,"Seminole County, GA",27727
+27853,"Spalding County, GA",27727
+27854,"Stephens County, GA",27727
+27855,"Stewart County, GA",27727
+27856,"Sumter County, GA",27727
+27857,"Talbot County, GA",27727
+27858,"Taliaferro County, GA",27727
+27859,"Tattnall County, GA",27727
+27860,"Taylor County, GA",27727
+27861,"Telfair County, GA",27727
+27862,"Terrell County, GA",27727
+27863,"Thomas County, GA",27727
+27864,"Tift County, GA",27727
+27865,"Toombs County, GA",27727
+27866,"Towns County, GA",27727
+27867,"Treutlen County, GA",27727
+27868,"Troup County, GA",27727
+27869,"Turner County, GA",27727
+27870,"Twiggs County, GA",27727
+27871,"Union County, GA",27727
+27872,"Upson County, GA",27727
+27873,"Walker County, GA",27727
+27874,"Walton County, GA",27727
+27875,"Ware County, GA",27727
+27876,"Warren County, GA",27727
+27877,"Washington County, GA",27727
+27878,"Wayne County, GA",27727
+27879,"Webster County, GA",27727
+27880,"Wheeler County, GA",27727
+27881,"White County, GA",27727
+27882,"Whitfield County, GA",27727
+27883,"Wilcox County, GA",27727
+27884,"Wilkes County, GA",27727
+27885,"Wilkinson County, GA",27727
+27886,"Worth County, GA",27727
+30626,"Albany, GA",30625
+30627,"Athens-Clarke County, GA",30625
+30628,"Atlanta-Sandy Springs-Alpharetta, GA",30625
+30629,"Augusta-Richmond County, GA-SC",30625
+30630,"Brunswick, GA",30625
+30631,"Chattanooga, TN-GA",30625
+30632,"Columbus, GA-AL",30625
+30633,"Dalton, GA",30625
+30634,"Gainesville, GA",30625
+30635,"Hinesville, GA",30625
+30636,"Macon-Bibb County, GA",30625
+30637,"Rome, GA",30625
+30638,"Savannah, GA",30625
+30639,"Valdosta, GA",30625
+30640,"Warner Robins, GA",30625
+32900,"Atlanta, GA (MSA)",32899
+27888,"Hawaii County, HI",27887
+27889,"Honolulu County/city, HI",27887
+27890,"Kalawao County, HI",27887
+27891,"Kauai County, HI",27887
+27892,"Maui County, HI",27887
+33804,"Maui + Kalawao Counties, HI",27887
+33430,"Kahului-Wailuku-Lahaina, HI",30641
+30642,"Urban Honolulu, HI",30641
+33681,"Urban Honolulu, HI",33715
+32941,"Honolulu, HI (MSA)",32940
+27894,"Ada County, ID",27893
+27895,"Adams County, ID",27893
+27896,"Bannock County, ID",27893
+27897,"Bear Lake County, ID",27893
+27898,"Benewah County, ID",27893
+27899,"Bingham County, ID",27893
+27900,"Blaine County, ID",27893
+27901,"Boise County, ID",27893
+27902,"Bonner County, ID",27893
+27903,"Bonneville County, ID",27893
+27904,"Boundary County, ID",27893
+27905,"Butte County, ID",27893
+27906,"Camas County, ID",27893
+27907,"Canyon County, ID",27893
+27908,"Caribou County, ID",27893
+27909,"Cassia County, ID",27893
+27910,"Clark County, ID",27893
+27911,"Clearwater County, ID",27893
+27912,"Custer County, ID",27893
+27913,"Elmore County, ID",27893
+27914,"Franklin County, ID",27893
+27915,"Fremont County, ID",27893
+27916,"Gem County, ID",27893
+27917,"Gooding County, ID",27893
+27918,"Idaho County, ID",27893
+27919,"Jefferson County, ID",27893
+27920,"Jerome County, ID",27893
+27921,"Kootenai County, ID",27893
+27922,"Latah County, ID",27893
+27923,"Lemhi County, ID",27893
+27924,"Lewis County, ID",27893
+27925,"Lincoln County, ID",27893
+27926,"Madison County, ID",27893
+27927,"Minidoka County, ID",27893
+27928,"Nez Perce County, ID",27893
+27929,"Oneida County, ID",27893
+27930,"Owyhee County, ID",27893
+27931,"Payette County, ID",27893
+27932,"Power County, ID",27893
+27933,"Shoshone County, ID",27893
+27934,"Teton County, ID",27893
+27935,"Twin Falls County, ID",27893
+27936,"Valley County, ID",27893
+27937,"Washington County, ID",27893
+30644,"Boise City, ID",30643
+30645,"Coeur d'Alene, ID",30643
+30646,"Idaho Falls, ID",30643
+30647,"Lewiston, ID-WA",30643
+30648,"Logan, UT-ID",30643
+30649,"Pocatello, ID",30643
+33918,"Twin Falls, ID",30643
+478,"Adams County, IL",27938
+477,"Alexander County, IL",27938
+482,"Bond County, IL",27938
+27942,"Boone County, IL",27938
+473,"Brown County, IL",27938
+27944,"Bureau County, IL",27938
+471,"Calhoun County, IL",27938
+27946,"Carroll County, IL",27938
+27947,"Cass County, IL",27938
+27948,"Champaign County, IL",27938
+27949,"Christian County, IL",27938
+27950,"Clark County, IL",27938
+469,"Clay County, IL",27938
+467,"Clinton County, IL",27938
+27953,"Coles County, IL",27938
+27954,"Cook County, IL",27938
+465,"Crawford County, IL",27938
+27956,"Cumberland County, IL",27938
+27957,"De Kalb County, IL",27938
+27958,"De Witt County, IL",27938
+27959,"Douglas County, IL",27938
+27960,"Du Page County, IL",27938
+27961,"Edgar County, IL",27938
+463,"Edwards County, IL",27938
+461,"Effingham County, IL",27938
+459,"Fayette County, IL",27938
+27965,"Ford County, IL",27938
+457,"Franklin County, IL",27938
+27967,"Fulton County, IL",27938
+454,"Gallatin County, IL",27938
+452,"Greene County, IL",27938
+27970,"Grundy County, IL",27938
+450,"Hamilton County, IL",27938
+27972,"Hancock County, IL",27938
+448,"Hardin County, IL",27938
+27974,"Henderson County, IL",27938
+27975,"Henry County, IL",27938
+27976,"Iroquois County, IL",27938
+447,"Jackson County, IL",27938
+445,"Jasper County, IL",27938
+443,"Jefferson County, IL",27938
+441,"Jersey County, IL",27938
+27981,"Jo Daviess County, IL",27938
+439,"Johnson County, IL",27938
+27983,"Kane County, IL",27938
+27984,"Kankakee County, IL",27938
+27985,"Kendall County, IL",27938
+27986,"Knox County, IL",27938
+27987,"Lake County, IL",27938
+27988,"La Salle County, IL",27938
+437,"Lawrence County, IL",27938
+27990,"Lee County, IL",27938
+27991,"Livingston County, IL",27938
+27992,"Logan County, IL",27938
+27993,"Macon County, IL",27938
+433,"Macoupin County, IL",27938
+431,"Madison County, IL",27938
+429,"Marion County, IL",27938
+27997,"Marshall County, IL",27938
+27998,"Mason County, IL",27938
+427,"Massac County, IL",27938
+28000,"McDonough County, IL",27938
+28001,"McHenry County, IL",27938
+28002,"McLean County, IL",27938
+28003,"Menard County, IL",27938
+28004,"Mercer County, IL",27938
+425,"Monroe County, IL",27938
+423,"Montgomery County, IL",27938
+421,"Morgan County, IL",27938
+28008,"Moultrie County, IL",27938
+28009,"Ogle County, IL",27938
+28010,"Peoria County, IL",27938
+419,"Perry County, IL",27938
+28012,"Piatt County, IL",27938
+417,"Pike County, IL",27938
+415,"Pope County, IL",27938
+413,"Pulaski County, IL",27938
+28016,"Putnam County, IL",27938
+411,"Randolph County, IL",27938
+409,"Richland County, IL",27938
+28019,"Rock Island County, IL",27938
+407,"Saline County, IL",27938
+28021,"Sangamon County, IL",27938
+28022,"Schuyler County, IL",27938
+405,"Scott County, IL",27938
+28024,"Shelby County, IL",27938
+28025,"Stark County, IL",27938
+403,"St. Clair County, IL",27938
+28027,"Stephenson County, IL",27938
+28028,"Tazewell County, IL",27938
+401,"Union County, IL",27938
+28030,"Vermilion County, IL",27938
+399,"Wabash County, IL",27938
+28032,"Warren County, IL",27938
+397,"Washington County, IL",27938
+395,"Wayne County, IL",27938
+480,"White County, IL",27938
+28036,"Whiteside County, IL",27938
+28037,"Will County, IL",27938
+392,"Williamson County, IL",27938
+28039,"Winnebago County, IL",27938
+28040,"Woodford County, IL",27938
+30651,"Bloomington, IL",30650
+33198,"Cape Girardeau, MO-IL",30650
+33415,"Carbondale-Marion, IL",30650
+30652,"Champaign-Urbana, IL",30650
+30653,"Chicago-Naperville-Elgin, IL-IN-WI",30650
+30654,"Danville, IL",30650
+30655,"Davenport-Moline-Rock Island, IA-IL",30650
+30656,"Decatur, IL",30650
+30657,"Kankakee, IL",30650
+30658,"Peoria, IL",30650
+30659,"Rockford, IL",30650
+30660,"Springfield, IL",30650
+30661,"St. Louis, MO-IL",30650
+32884,"Chicago-Gary-Kenosha, IL-IN-WI (CMSA)",32883
+33145,"Chicago-Naperville-Arlington Heights, IL",33144
+33422,"Elgin, IL",33144
+33146,"Lake County-Kenosha County, IL-WI",33144
+28042,"Adams County, IN",28041
+28043,"Allen County, IN",28041
+28044,"Bartholomew County, IN",28041
+28045,"Benton County, IN",28041
+28046,"Blackford County, IN",28041
+28047,"Boone County, IN",28041
+28048,"Brown County, IN",28041
+28049,"Carroll County, IN",28041
+28050,"Cass County, IN",28041
+536,"Clark County, IN",28041
+28052,"Clay County, IN",28041
+28053,"Clinton County, IN",28041
+534,"Crawford County, IN",28041
+532,"Daviess County, IN",28041
+28056,"Dearborn County, IN",28041
+28057,"Decatur County, IN",28041
+28058,"De Kalb County, IN",28041
+28059,"Delaware County, IN",28041
+530,"Dubois County, IN",28041
+28061,"Elkhart County, IN",28041
+28062,"Fayette County, IN",28041
+528,"Floyd County, IN",28041
+28064,"Fountain County, IN",28041
+28065,"Franklin County, IN",28041
+28066,"Fulton County, IN",28041
+526,"Gibson County, IN",28041
+28068,"Grant County, IN",28041
+523,"Greene County, IN",28041
+28070,"Hamilton County, IN",28041
+28071,"Hancock County, IN",28041
+522,"Harrison County, IN",28041
+28073,"Hendricks County, IN",28041
+28074,"Henry County, IN",28041
+28075,"Howard County, IN",28041
+28076,"Huntington County, IN",28041
+520,"Jackson County, IN",28041
+28078,"Jasper County, IN",28041
+28079,"Jay County, IN",28041
+516,"Jefferson County, IN",28041
+28081,"Jennings County, IN",28041
+28082,"Johnson County, IN",28041
+514,"Knox County, IN",28041
+28084,"Kosciusko County, IN",28041
+28085,"Lagrange County, IN",28041
+28086,"Lake County, IN",28041
+28087,"La Porte County, IN",28041
+512,"Lawrence County, IN",28041
+28089,"Madison County, IN",28041
+28090,"Marion County, IN",28041
+28091,"Marshall County, IN",28041
+510,"Martin County, IN",28041
+28093,"Miami County, IN",28041
+28094,"Monroe County, IN",28041
+28095,"Montgomery County, IN",28041
+28096,"Morgan County, IN",28041
+28097,"Newton County, IN",28041
+28098,"Noble County, IN",28041
+28099,"Ohio County, IN",28041
+508,"Orange County, IN",28041
+28101,"Owen County, IN",28041
+28102,"Parke County, IN",28041
+506,"Perry County, IN",28041
+504,"Pike County, IN",28041
+28105,"Porter County, IN",28041
+502,"Posey County, IN",28041
+28107,"Pulaski County, IN",28041
+28108,"Putnam County, IN",28041
+28109,"Randolph County, IN",28041
+28110,"Ripley County, IN",28041
+28111,"Rush County, IN",28041
+500,"Scott County, IN",28041
+28113,"Shelby County, IN",28041
+498,"Spencer County, IN",28041
+28115,"Starke County, IN",28041
+28116,"Steuben County, IN",28041
+28117,"St. Joseph County, IN",28041
+496,"Sullivan County, IN",28041
+494,"Switzerland County, IN",28041
+28120,"Tippecanoe County, IN",28041
+28121,"Tipton County, IN",28041
+28122,"Union County, IN",28041
+492,"Vanderburgh County, IN",28041
+28124,"Vermillion County, IN",28041
+28125,"Vigo County, IN",28041
+28126,"Wabash County, IN",28041
+28127,"Warren County, IN",28041
+489,"Warrick County, IN",28041
+486,"Washington County, IN",28041
+28130,"Wayne County, IN",28041
+28131,"Wells County, IN",28041
+28132,"White County, IN",28041
+28133,"Whitley County, IN",28041
+30663,"Anderson, IN",30662
+30664,"Bloomington, IN",30662
+30665,"Chicago-Naperville-Elgin, IL-IN-WI",30662
+30666,"Cincinnati, OH-KY-IN",30662
+30667,"Columbus, IN",30662
+30668,"Elkhart-Goshen, IN",30662
+339,"Evansville, IN-KY",30662
+30670,"Fort Wayne, IN",30662
+30671,"Indianapolis-Carmel-Anderson, IN",30662
+30672,"Kokomo, IN",30662
+30673,"Lafayette-West Lafayette, IN",30662
+30674,"Louisville-Jefferson County, KY-IN",30662
+30675,"Michigan City-La Porte, IN",30662
+30676,"Muncie, IN",30662
+30677,"South Bend-Mishawaka, IN-MI",30662
+30678,"Terre Haute, IN",30662
+32886,"Chicago-Gary-Kenosha, IL-IN-WI (CMSA)",32885
+32934,"Cincinnati-Hamilton, OH-KY-IN (CMSA)",32885
+33158,"Gary, IN",33157
+28135,"Adair County, IA",28134
+28136,"Adams County, IA",28134
+28137,"Allamakee County, IA",28134
+28138,"Appanoose County, IA",28134
+28139,"Audubon County, IA",28134
+28140,"Benton County, IA",28134
+28141,"Black Hawk County, IA",28134
+28142,"Boone County, IA",28134
+28143,"Bremer County, IA",28134
+28144,"Buchanan County, IA",28134
+28145,"Buena Vista County, IA",28134
+28146,"Butler County, IA",28134
+28147,"Calhoun County, IA",28134
+28148,"Carroll County, IA",28134
+28149,"Cass County, IA",28134
+28150,"Cedar County, IA",28134
+28151,"Cerro Gordo County, IA",28134
+28152,"Cherokee County, IA",28134
+28153,"Chickasaw County, IA",28134
+28154,"Clarke County, IA",28134
+28155,"Clay County, IA",28134
+28156,"Clayton County, IA",28134
+28157,"Clinton County, IA",28134
+28158,"Crawford County, IA",28134
+28159,"Dallas County, IA",28134
+28160,"Davis County, IA",28134
+28161,"Decatur County, IA",28134
+28162,"Delaware County, IA",28134
+28163,"Des Moines County, IA",28134
+28164,"Dickinson County, IA",28134
+28165,"Dubuque County, IA",28134
+28166,"Emmet County, IA",28134
+28167,"Fayette County, IA",28134
+28168,"Floyd County, IA",28134
+28169,"Franklin County, IA",28134
+28170,"Fremont County, IA",28134
+28171,"Greene County, IA",28134
+28172,"Grundy County, IA",28134
+28173,"Guthrie County, IA",28134
+28174,"Hamilton County, IA",28134
+28175,"Hancock County, IA",28134
+28176,"Hardin County, IA",28134
+28177,"Harrison County, IA",28134
+28178,"Henry County, IA",28134
+28179,"Howard County, IA",28134
+28180,"Humboldt County, IA",28134
+28181,"Ida County, IA",28134
+28182,"Iowa County, IA",28134
+28183,"Jackson County, IA",28134
+28184,"Jasper County, IA",28134
+28185,"Jefferson County, IA",28134
+28186,"Johnson County, IA",28134
+28187,"Jones County, IA",28134
+28188,"Keokuk County, IA",28134
+28189,"Kossuth County, IA",28134
+28190,"Lee County, IA",28134
+28191,"Linn County, IA",28134
+28192,"Louisa County, IA",28134
+28193,"Lucas County, IA",28134
+28194,"Lyon County, IA",28134
+28195,"Madison County, IA",28134
+28196,"Mahaska County, IA",28134
+28197,"Marion County, IA",28134
+28198,"Marshall County, IA",28134
+28199,"Mills County, IA",28134
+28200,"Mitchell County, IA",28134
+28201,"Monona County, IA",28134
+28202,"Monroe County, IA",28134
+28203,"Montgomery County, IA",28134
+28204,"Muscatine County, IA",28134
+28205,"O'Brien County, IA",28134
+28206,"Osceola County, IA",28134
+28207,"Page County, IA",28134
+28208,"Palo Alto County, IA",28134
+28209,"Plymouth County, IA",28134
+28210,"Pocahontas County, IA",28134
+28211,"Polk County, IA",28134
+28212,"Pottawattamie County, IA",28134
+28213,"Poweshiek County, IA",28134
+28214,"Ringgold County, IA",28134
+28215,"Sac County, IA",28134
+28216,"Scott County, IA",28134
+28217,"Shelby County, IA",28134
+28218,"Sioux County, IA",28134
+28219,"Story County, IA",28134
+28220,"Tama County, IA",28134
+28221,"Taylor County, IA",28134
+28222,"Union County, IA",28134
+28223,"Van Buren County, IA",28134
+28224,"Wapello County, IA",28134
+28225,"Warren County, IA",28134
+28226,"Washington County, IA",28134
+28227,"Wayne County, IA",28134
+28228,"Webster County, IA",28134
+28229,"Winnebago County, IA",28134
+28230,"Winneshiek County, IA",28134
+28231,"Woodbury County, IA",28134
+28232,"Worth County, IA",28134
+28233,"Wright County, IA",28134
+30680,"Ames, IA",30679
+30681,"Cedar Rapids, IA",30679
+30682,"Davenport-Moline-Rock Island, IA-IL",30679
+30683,"Des Moines-West Des Moines, IA",30679
+30684,"Dubuque, IA",30679
+30685,"Iowa City, IA",30679
+30686,"Omaha-Council Bluffs, NE-IA",30679
+30687,"Sioux City, IA-NE-SD",30679
+30688,"Waterloo-Cedar Falls, IA",30679
+28235,"Allen County, KS",28234
+28236,"Anderson County, KS",28234
+28237,"Atchison County, KS",28234
+28238,"Barber County, KS",28234
+28239,"Barton County, KS",28234
+28240,"Bourbon County, KS",28234
+28241,"Brown County, KS",28234
+28242,"Butler County, KS",28234
+28243,"Chase County, KS",28234
+28244,"Chautauqua County, KS",28234
+28245,"Cherokee County, KS",28234
+28246,"Cheyenne County, KS",28234
+28247,"Clark County, KS",28234
+28248,"Clay County, KS",28234
+28249,"Cloud County, KS",28234
+28250,"Coffey County, KS",28234
+28251,"Comanche County, KS",28234
+28252,"Cowley County, KS",28234
+28253,"Crawford County, KS",28234
+28254,"Decatur County, KS",28234
+28255,"Dickinson County, KS",28234
+28256,"Doniphan County, KS",28234
+28257,"Douglas County, KS",28234
+28258,"Edwards County, KS",28234
+28259,"Elk County, KS",28234
+28260,"Ellis County, KS",28234
+28261,"Ellsworth County, KS",28234
+28262,"Finney County, KS",28234
+28263,"Ford County, KS",28234
+28264,"Franklin County, KS",28234
+28265,"Geary County, KS",28234
+28266,"Gove County, KS",28234
+28267,"Graham County, KS",28234
+28268,"Grant County, KS",28234
+28269,"Gray County, KS",28234
+28270,"Greeley County, KS",28234
+28271,"Greenwood County, KS",28234
+28272,"Hamilton County, KS",28234
+28273,"Harper County, KS",28234
+28274,"Harvey County, KS",28234
+28275,"Haskell County, KS",28234
+28276,"Hodgeman County, KS",28234
+28277,"Jackson County, KS",28234
+28278,"Jefferson County, KS",28234
+28279,"Jewell County, KS",28234
+28280,"Johnson County, KS",28234
+28281,"Kearny County, KS",28234
+28282,"Kingman County, KS",28234
+28283,"Kiowa County, KS",28234
+28284,"Labette County, KS",28234
+28285,"Lane County, KS",28234
+28286,"Leavenworth County, KS",28234
+28287,"Lincoln County, KS",28234
+28288,"Linn County, KS",28234
+28289,"Logan County, KS",28234
+28290,"Lyon County, KS",28234
+28291,"Marion County, KS",28234
+28292,"Marshall County, KS",28234
+28293,"McPherson County, KS",28234
+28294,"Meade County, KS",28234
+28295,"Miami County, KS",28234
+28296,"Mitchell County, KS",28234
+28297,"Montgomery County, KS",28234
+28298,"Morris County, KS",28234
+28299,"Morton County, KS",28234
+28300,"Nemaha County, KS",28234
+28301,"Neosho County, KS",28234
+28302,"Ness County, KS",28234
+28303,"Norton County, KS",28234
+28304,"Osage County, KS",28234
+28305,"Osborne County, KS",28234
+28306,"Ottawa County, KS",28234
+28307,"Pawnee County, KS",28234
+28308,"Phillips County, KS",28234
+28309,"Pottawatomie County, KS",28234
+28310,"Pratt County, KS",28234
+28311,"Rawlins County, KS",28234
+28312,"Reno County, KS",28234
+28313,"Republic County, KS",28234
+28314,"Rice County, KS",28234
+28315,"Riley County, KS",28234
+28316,"Rooks County, KS",28234
+28317,"Rush County, KS",28234
+28318,"Russell County, KS",28234
+28319,"Saline County, KS",28234
+28320,"Scott County, KS",28234
+28321,"Sedgwick County, KS",28234
+28322,"Seward County, KS",28234
+28323,"Shawnee County, KS",28234
+28324,"Sheridan County, KS",28234
+28325,"Sherman County, KS",28234
+28326,"Smith County, KS",28234
+28327,"Stafford County, KS",28234
+28328,"Stanton County, KS",28234
+28329,"Stevens County, KS",28234
+28330,"Sumner County, KS",28234
+28331,"Thomas County, KS",28234
+28332,"Trego County, KS",28234
+28333,"Wabaunsee County, KS",28234
+28334,"Wallace County, KS",28234
+28335,"Washington County, KS",28234
+28336,"Wichita County, KS",28234
+28337,"Wilson County, KS",28234
+28338,"Woodson County, KS",28234
+28339,"Wyandotte County, KS",28234
+30690,"Kansas City, MO-KS",30689
+30691,"Lawrence, KS",30689
+33199,"Manhattan, KS",30689
+30692,"St. Joseph, MO-KS",30689
+30693,"Topeka, KS",30689
+30694,"Wichita, KS",30689
+33463,"Kansas City, KS",33462
+927,"Adair County, KY",28340
+925,"Allen County, KY",28340
+923,"Anderson County, KY",28340
+921,"Ballard County, KY",28340
+919,"Barren County, KY",28340
+28346,"Bath County, KY",28340
+28347,"Bell County, KY",28340
+28348,"Boone County, KY",28340
+28349,"Bourbon County, KY",28340
+28350,"Boyd County, KY",28340
+917,"Boyle County, KY",28340
+28352,"Bracken County, KY",28340
+28353,"Breathitt County, KY",28340
+915,"Breckinridge County, KY",28340
+913,"Bullitt County, KY",28340
+911,"Butler County, KY",28340
+909,"Caldwell County, KY",28340
+907,"Calloway County, KY",28340
+28359,"Campbell County, KY",28340
+905,"Carlisle County, KY",28340
+902,"Carroll County, KY",28340
+28362,"Carter County, KY",28340
+901,"Casey County, KY",28340
+899,"Christian County, KY",28340
+28365,"Clark County, KY",28340
+28366,"Clay County, KY",28340
+897,"Clinton County, KY",28340
+895,"Crittenden County, KY",28340
+893,"Cumberland County, KY",28340
+891,"Daviess County, KY",28340
+889,"Edmonson County, KY",28340
+28372,"Elliott County, KY",28340
+28373,"Estill County, KY",28340
+28374,"Fayette County, KY",28340
+28375,"Fleming County, KY",28340
+28376,"Floyd County, KY",28340
+887,"Franklin County, KY",28340
+885,"Fulton County, KY",28340
+883,"Gallatin County, KY",28340
+28380,"Garrard County, KY",28340
+28381,"Grant County, KY",28340
+881,"Graves County, KY",28340
+879,"Grayson County, KY",28340
+877,"Green County, KY",28340
+28385,"Greenup County, KY",28340
+875,"Hancock County, KY",28340
+873,"Hardin County, KY",28340
+28388,"Harlan County, KY",28340
+28389,"Harrison County, KY",28340
+871,"Hart County, KY",28340
+869,"Henderson County, KY",28340
+867,"Henry County, KY",28340
+865,"Hickman County, KY",28340
+863,"Hopkins County, KY",28340
+28395,"Jackson County, KY",28340
+861,"Jefferson County, KY",28340
+28397,"Jessamine County, KY",28340
+28398,"Johnson County, KY",28340
+28399,"Kenton County, KY",28340
+28400,"Knott County, KY",28340
+28401,"Knox County, KY",28340
+859,"Larue County, KY",28340
+28403,"Laurel County, KY",28340
+28404,"Lawrence County, KY",28340
+28405,"Lee County, KY",28340
+28406,"Leslie County, KY",28340
+28407,"Letcher County, KY",28340
+28408,"Lewis County, KY",28340
+28409,"Lincoln County, KY",28340
+858,"Livingston County, KY",28340
+856,"Logan County, KY",28340
+854,"Lyon County, KY",28340
+28413,"Madison County, KY",28340
+28414,"Magoffin County, KY",28340
+852,"Marion County, KY",28340
+850,"Marshall County, KY",28340
+28417,"Martin County, KY",28340
+28418,"Mason County, KY",28340
+846,"McCracken County, KY",28340
+28420,"McCreary County, KY",28340
+847,"McLean County, KY",28340
+843,"Meade County, KY",28340
+28423,"Menifee County, KY",28340
+841,"Mercer County, KY",28340
+839,"Metcalfe County, KY",28340
+837,"Monroe County, KY",28340
+28427,"Montgomery County, KY",28340
+28428,"Morgan County, KY",28340
+835,"Muhlenberg County, KY",28340
+833,"Nelson County, KY",28340
+28431,"Nicholas County, KY",28340
+831,"Ohio County, KY",28340
+829,"Oldham County, KY",28340
+827,"Owen County, KY",28340
+28435,"Owsley County, KY",28340
+28436,"Pendleton County, KY",28340
+28437,"Perry County, KY",28340
+28438,"Pike County, KY",28340
+28439,"Powell County, KY",28340
+28440,"Pulaski County, KY",28340
+28441,"Robertson County, KY",28340
+28442,"Rockcastle County, KY",28340
+28443,"Rowan County, KY",28340
+824,"Russell County, KY",28340
+28445,"Scott County, KY",28340
+823,"Shelby County, KY",28340
+821,"Simpson County, KY",28340
+819,"Spencer County, KY",28340
+817,"Taylor County, KY",28340
+815,"Todd County, KY",28340
+813,"Trigg County, KY",28340
+811,"Trimble County, KY",28340
+809,"Union County, KY",28340
+806,"Warren County, KY",28340
+805,"Washington County, KY",28340
+803,"Wayne County, KY",28340
+801,"Webster County, KY",28340
+28458,"Whitley County, KY",28340
+28459,"Wolfe County, KY",28340
+28460,"Woodford County, KY",28340
+3004,"Bowling Green, KY",30695
+30697,"Cincinnati, OH-KY-IN",30695
+30698,"Clarksville, TN-KY",30695
+3005,"Elizabethtown-Fort Knox, KY",30695
+30700,"Evansville, IN-KY",30695
+30701,"Huntington-Ashland, WV-KY-OH",30695
+30702,"Lexington-Fayette, KY",30695
+333,"Louisville-Jefferson County, KY-IN",30695
+331,"Owensboro, KY",30695
+32933,"Cincinnati-Hamilton, OH-KY-IN (CMSA)",32932
+28462,"Acadia Parish, LA",28461
+28463,"Allen Parish, LA",28461
+28464,"Ascension Parish, LA",28461
+28465,"Assumption Parish, LA",28461
+28466,"Avoyelles Parish, LA",28461
+28467,"Beauregard Parish, LA",28461
+28468,"Bienville Parish, LA",28461
+28469,"Bossier Parish, LA",28461
+28470,"Caddo Parish, LA",28461
+28471,"Calcasieu Parish, LA",28461
+28472,"Caldwell Parish, LA",28461
+28473,"Cameron Parish, LA",28461
+28474,"Catahoula Parish, LA",28461
+28475,"Claiborne Parish, LA",28461
+28476,"Concordia Parish, LA",28461
+28477,"De Soto Parish, LA",28461
+28478,"East Baton Rouge Parish, LA",28461
+28479,"East Carroll Parish, LA",28461
+28480,"East Feliciana Parish, LA",28461
+28481,"Evangeline Parish, LA",28461
+28482,"Franklin Parish, LA",28461
+28483,"Grant Parish, LA",28461
+28484,"Iberia Parish, LA",28461
+28485,"Iberville Parish, LA",28461
+28486,"Jackson Parish, LA",28461
+28487,"Jefferson Parish, LA",28461
+28488,"Jefferson Davis Parish, LA",28461
+28489,"Lafayette Parish, LA",28461
+28490,"LaFourche Parish, LA",28461
+28491,"La Salle Parish, LA",28461
+28492,"Lincoln Parish, LA",28461
+28493,"Livingston Parish, LA",28461
+28494,"Madison Parish, LA",28461
+28495,"Morehouse Parish, LA",28461
+28496,"Natchitoches Parish, LA",28461
+28497,"Orleans Parish, LA",28461
+28498,"Ouachita Parish, LA",28461
+28499,"Plaquemines Parish, LA",28461
+28500,"Pointe Coupee Parish, LA",28461
+28501,"Rapides Parish, LA",28461
+28502,"Red River Parish, LA",28461
+28503,"Richland Parish, LA",28461
+28504,"Sabine Parish, LA",28461
+28505,"St. Bernard Parish, LA",28461
+28506,"St. Charles Parish, LA",28461
+28507,"St. Helena Parish, LA",28461
+28508,"St. James Parish, LA",28461
+28509,"St. John the Baptist Parish, LA",28461
+28510,"St. Landry Parish, LA",28461
+28511,"St. Martin Parish, LA",28461
+28512,"St. Mary Parish, LA",28461
+28513,"St. Tammany Parish, LA",28461
+28514,"Tangipahoa Parish, LA",28461
+28515,"Tensas Parish, LA",28461
+28516,"Terrebonne Parish, LA",28461
+28517,"Union Parish, LA",28461
+28518,"Vermilion Parish, LA",28461
+28519,"Vernon Parish, LA",28461
+28520,"Washington Parish, LA",28461
+28521,"Webster Parish, LA",28461
+28522,"West Baton Rouge Parish, LA",28461
+28523,"West Carroll Parish, LA",28461
+28524,"West Feliciana Parish, LA",28461
+28525,"Winn Parish, LA",28461
+30706,"Alexandria, LA",30705
+30707,"Baton Rouge, LA",30705
+33425,"Hammond, LA",30705
+30708,"Houma-Thibodaux, LA",30705
+30709,"Lafayette, LA",30705
+30710,"Lake Charles, LA",30705
+30711,"Monroe, LA",30705
+30712,"New Orleans-Metairie, LA",30705
+30713,"Shreveport-Bossier City, LA",30705
+28527,"Androscoggin County, ME",28526
+28528,"Aroostook County, ME",28526
+28529,"Cumberland County, ME",28526
+28530,"Franklin County, ME",28526
+28531,"Hancock County, ME",28526
+28532,"Kennebec County, ME",28526
+28533,"Knox County, ME",28526
+28534,"Lincoln County, ME",28526
+28535,"Oxford County, ME",28526
+28536,"Penobscot County, ME",28526
+28537,"Piscataquis County, ME",28526
+28538,"Sagadahoc County, ME",28526
+28539,"Somerset County, ME",28526
+28540,"Waldo County, ME",28526
+28541,"Washington County, ME",28526
+28542,"York County, ME",28526
+32100,"Augusta, ME",32084
+32101,"Bangor, ME",32084
+32102,"Brunswick, ME",32084
+32103,"Lewiston-Auburn, ME",32084
+32104,"Portland-South Portland-Biddeford, ME",32084
+32105,"Portsmouth, NH-ME",32084
+32106,"Rochester-Dover, NH-ME",32084
+32107,"Rockland, ME",32084
+32108,"Sanford, ME",32084
+32109,"Waterville, ME",32084
+30715,"Bangor, ME",30714
+33691,"Dover-Durham, NH-ME",30714
+30716,"Lewiston-Auburn, ME",30714
+30717,"Portland-South Portland, ME",30714
+32916,"Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA)",32915
+28544,"Allegany County, MD",28543
+28545,"Anne Arundel County, MD",28543
+28546,"Baltimore County, MD",28543
+28547,"Baltimore City, MD",28543
+28548,"Calvert County, MD",28543
+28549,"Caroline County, MD",28543
+28550,"Carroll County, MD",28543
+28551,"Cecil County, MD",28543
+28552,"Charles County, MD",28543
+28553,"Dorchester County, MD",28543
+28554,"Frederick County, MD",28543
+28555,"Garrett County, MD",28543
+28556,"Harford County, MD",28543
+28557,"Howard County, MD",28543
+28558,"Kent County, MD",28543
+28559,"Montgomery County, MD",28543
+28560,"Prince George's County, MD",28543
+28561,"Queen Anne's County, MD",28543
+28562,"Somerset County, MD",28543
+28563,"St. Mary's County, MD",28543
+28564,"Talbot County, MD",28543
+28565,"Washington County, MD",28543
+28566,"Wicomico County, MD",28543
+28567,"Worcester County, MD",28543
+33451,"Calvert-Charles-Prince George's, MD",33452
+33131,"Bethesda-Rockville-Frederick, MD ",33130
+33436,"Silver Spring-Frederick-Rockville, MD",33130
+33133,"Washington-Arlington-Alexandria, DC-VA-MD-WV",33130
+33132,"Wilmington, DE-MD-NJ",33130
+30719,"Baltimore-Columbia-Towson, MD",30718
+33414,"California-Lexington Park, MD",30718
+30720,"Cumberland, MD-WV",30718
+30721,"Hagerstown-Martinsburg, MD-WV",30718
+30722,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",30718
+30723,"Salisbury, MD-DE",30718
+30724,"Washington-Arlington-Alexandria, DC-VA-MD-WV",30718
+32882,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (CMSA)",32881
+32922,"Washington-Baltimore, DC-MD-VA-WV (CMSA)",32881
+28569,"Barnstable County, MA",28568
+28570,"Berkshire County, MA",28568
+28571,"Bristol County, MA",28568
+28572,"Dukes County, MA",28568
+28573,"Essex County, MA",28568
+28574,"Franklin County, MA",28568
+28575,"Hampden County, MA",28568
+28576,"Hampshire County, MA",28568
+28577,"Middlesex County, MA",28568
+28578,"Nantucket County, MA",28568
+28579,"Norfolk County, MA",28568
+28580,"Plymouth County, MA",28568
+28581,"Suffolk County, MA",28568
+28582,"Worcester County, MA",28568
+32110,"Amherst Center, MA",32085
+32111,"Athol, MA",32085
+32112,"Barnstable Town, MA",32085
+32113,"Boston-Cambridge-Quincy, MA-NH",32085
+33453,"Brockton-Bridgewater-Easton, MA",32085
+33454,"Framingham, MA",32085
+32114,"Greenfield, MA",32085
+33456,"Haverhill-North Andover-Amesbury, MA-NH",32085
+32115,"Leominster-Fitchburg-Gardner, MA",32085
+33457,"Lowell-Billerica-Chelmsford, MA-NH",32085
+33458,"Nashua, NH-MA",32085
+32116,"New Bedford, MA",32085
+32117,"North Adams, MA-VT",32085
+33455,"Peabody, MA",32085
+32118,"Pittsfield, MA",32085
+32119,"Providence-Fall River-Warwick, RI-MA",32085
+32120,"Springfield, MA-CT",32085
+32121,"Worcester, MA-CT",32085
+30726,"Barnstable Town, MA",30725
+30727,"Boston-Cambridge-Newton, MA-NH",30725
+30728,"Pittsfield, MA",30725
+30729,"Providence-Warwick, RI-MA",30725
+30730,"Springfield, MA",30725
+30731,"Worcester, MA-CT",30725
+32912,"Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA)",32911
+33135,"Boston, MA",33134
+33136,"Cambridge-Newton-Framingham, MA",33134
+33137,"Peabody, MA ",33134
+28584,"Alcona County, MI",28583
+28585,"Alger County, MI",28583
+28586,"Allegan County, MI",28583
+28587,"Alpena County, MI",28583
+28588,"Antrim County, MI",28583
+28589,"Arenac County, MI",28583
+28590,"Baraga County, MI",28583
+28591,"Barry County, MI",28583
+28592,"Bay County, MI",28583
+28593,"Benzie County, MI",28583
+28594,"Berrien County, MI",28583
+28595,"Branch County, MI",28583
+28596,"Calhoun County, MI",28583
+28597,"Cass County, MI",28583
+28598,"Charlevoix County, MI",28583
+28599,"Cheboygan County, MI",28583
+28600,"Chippewa County, MI",28583
+28601,"Clare County, MI",28583
+28602,"Clinton County, MI",28583
+28603,"Crawford County, MI",28583
+28604,"Delta County, MI",28583
+28605,"Dickinson County, MI",28583
+28606,"Eaton County, MI",28583
+28607,"Emmet County, MI",28583
+28608,"Genesee County, MI",28583
+28609,"Gladwin County, MI",28583
+28610,"Gogebic County, MI",28583
+28611,"Grand Traverse County, MI",28583
+28612,"Gratiot County, MI",28583
+28613,"Hillsdale County, MI",28583
+28614,"Houghton County, MI",28583
+28615,"Huron County, MI",28583
+28616,"Ingham County, MI",28583
+28617,"Ionia County, MI",28583
+28618,"Iosco County, MI",28583
+28619,"Iron County, MI",28583
+28620,"Isabella County, MI",28583
+28621,"Jackson County, MI",28583
+28622,"Kalamazoo County, MI",28583
+28623,"Kalkaska County, MI",28583
+28624,"Kent County, MI",28583
+28625,"Keweenaw County, MI",28583
+28626,"Lake County, MI",28583
+28627,"Lapeer County, MI",28583
+28628,"Leelanau County, MI",28583
+28629,"Lenawee County, MI",28583
+28630,"Livingston County, MI",28583
+28631,"Luce County, MI",28583
+28632,"Mackinac County, MI",28583
+28633,"Macomb County, MI",28583
+28634,"Manistee County, MI",28583
+28635,"Marquette County, MI",28583
+28636,"Mason County, MI",28583
+28637,"Mecosta County, MI",28583
+28638,"Menominee County, MI",28583
+28639,"Midland County, MI",28583
+28640,"Missaukee County, MI",28583
+28641,"Monroe County, MI",28583
+28642,"Montcalm County, MI",28583
+28643,"Montmorency County, MI",28583
+28644,"Muskegon County, MI",28583
+28645,"Newaygo County, MI",28583
+28646,"Oakland County, MI",28583
+28647,"Oceana County, MI",28583
+28648,"Ogemaw County, MI",28583
+28649,"Ontonagon County, MI",28583
+28650,"Osceola County, MI",28583
+28651,"Oscoda County, MI",28583
+28652,"Otsego County, MI",28583
+28653,"Ottawa County, MI",28583
+28654,"Presque Isle County, MI",28583
+28655,"Roscommon County, MI",28583
+28656,"Saginaw County, MI",28583
+28657,"Sanilac County, MI",28583
+28658,"Schoolcraft County, MI",28583
+28659,"Shiawassee County, MI",28583
+28660,"St. Clair County, MI",28583
+28661,"St. Joseph County, MI",28583
+28662,"Tuscola County, MI",28583
+28663,"Van Buren County, MI",28583
+28664,"Washtenaw County, MI",28583
+28665,"Wayne County, MI",28583
+28666,"Wexford County, MI",28583
+30733,"Ann Arbor, MI",30732
+30734,"Battle Creek, MI",30732
+30735,"Bay City, MI",30732
+30736,"Detroit-Warren-Dearborn, MI",30732
+30737,"Flint, MI",30732
+30738,"Grand Rapids-Kentwood, MI",30732
+30739,"Holland-Grand Haven, MI",30732
+30740,"Jackson, MI",30732
+30741,"Kalamazoo-Portage, MI",30732
+30742,"Lansing-East Lansing, MI",30732
+33431,"Midland, MI",30732
+30743,"Monroe, MI",30732
+30744,"Muskegon, MI",30732
+30745,"Niles, MI",30732
+30746,"Saginaw, MI",30732
+30747,"South Bend-Mishawaka, IN-MI",30732
+32890,"Detroit-Ann Arbor-Flint, MI (CMSA)",32889
+33151,"Detroit-Dearborn-Livonia, MI",33150
+33152,"Warren-Troy-Farmington Hills, MI",33150
+28668,"Aitkin County, MN",28667
+28669,"Anoka County, MN",28667
+28670,"Becker County, MN",28667
+28671,"Beltrami County, MN",28667
+28672,"Benton County, MN",28667
+28673,"Big Stone County, MN",28667
+28674,"Blue Earth County, MN",28667
+28675,"Brown County, MN",28667
+28676,"Carlton County, MN",28667
+28677,"Carver County, MN",28667
+28678,"Cass County, MN",28667
+28679,"Chippewa County, MN",28667
+28680,"Chisago County, MN",28667
+28681,"Clay County, MN",28667
+28682,"Clearwater County, MN",28667
+28683,"Cook County, MN",28667
+28684,"Cottonwood County, MN",28667
+28685,"Crow Wing County, MN",28667
+28686,"Dakota County, MN",28667
+28687,"Dodge County, MN",28667
+28688,"Douglas County, MN",28667
+28689,"Faribault County, MN",28667
+28690,"Fillmore County, MN",28667
+28691,"Freeborn County, MN",28667
+28692,"Goodhue County, MN",28667
+28693,"Grant County, MN",28667
+28694,"Hennepin County, MN",28667
+28695,"Houston County, MN",28667
+28696,"Hubbard County, MN",28667
+28697,"Isanti County, MN",28667
+28698,"Itasca County, MN",28667
+28699,"Jackson County, MN",28667
+28700,"Kanabec County, MN",28667
+28701,"Kandiyohi County, MN",28667
+28702,"Kittson County, MN",28667
+28703,"Koochiching County, MN",28667
+28704,"Lac Qui Parle County, MN",28667
+28705,"Lake County, MN",28667
+28706,"Lake of the Woods County, MN",28667
+28707,"Le Sueur County, MN",28667
+28708,"Lincoln County, MN",28667
+28709,"Lyon County, MN",28667
+28710,"Mahnomen County, MN",28667
+28711,"Marshall County, MN",28667
+28712,"Martin County, MN",28667
+28713,"McLeod County, MN",28667
+28714,"Meeker County, MN",28667
+28715,"Mille Lacs County, MN",28667
+28716,"Morrison County, MN",28667
+28717,"Mower County, MN",28667
+28718,"Murray County, MN",28667
+28719,"Nicollet County, MN",28667
+28720,"Nobles County, MN",28667
+28721,"Norman County, MN",28667
+28722,"Olmsted County, MN",28667
+28723,"Otter Tail County, MN",28667
+28724,"Pennington County, MN",28667
+28725,"Pine County, MN",28667
+28726,"Pipestone County, MN",28667
+28727,"Polk County, MN",28667
+28728,"Pope County, MN",28667
+28729,"Ramsey County, MN",28667
+28730,"Red Lake County, MN",28667
+28731,"Redwood County, MN",28667
+28732,"Renville County, MN",28667
+28733,"Rice County, MN",28667
+28734,"Rock County, MN",28667
+28735,"Roseau County, MN",28667
+28736,"Scott County, MN",28667
+28737,"Sherburne County, MN",28667
+28738,"Sibley County, MN",28667
+28739,"Stearns County, MN",28667
+28740,"Steele County, MN",28667
+28741,"Stevens County, MN",28667
+28742,"St. Louis County, MN",28667
+28743,"Swift County, MN",28667
+28744,"Todd County, MN",28667
+28745,"Traverse County, MN",28667
+28746,"Wabasha County, MN",28667
+28747,"Wadena County, MN",28667
+28748,"Waseca County, MN",28667
+28749,"Washington County, MN",28667
+28750,"Watonwan County, MN",28667
+28751,"Wilkin County, MN",28667
+28752,"Winona County, MN",28667
+28753,"Wright County, MN",28667
+28754,"Yellow Medicine County, MN",28667
+30749,"Duluth, MN-WI",30748
+30750,"Fargo, ND-MN",30748
+30751,"Grand Forks, ND-MN",30748
+30752,"La Crosse-Onalaska, WI-MN",30748
+33200,"Mankato, MN",30748
+30753,"Minneapolis-St. Paul-Bloomington, MN-WI",30748
+30754,"Rochester, MN",30748
+30755,"St. Cloud, MN",30748
+32928,"Minneapolis-St. Paul, MN-WI (MSA)",32927
+28756,"Adams County, MS",28755
+616,"Alcorn County, MS",28755
+28758,"Amite County, MS",28755
+614,"Attala County, MS",28755
+611,"Benton County, MS",28755
+612,"Bolivar County, MS",28755
+608,"Calhoun County, MS",28755
+606,"Carroll County, MS",28755
+604,"Chickasaw County, MS",28755
+602,"Choctaw County, MS",28755
+28766,"Claiborne County, MS",28755
+28767,"Clarke County, MS",28755
+600,"Clay County, MS",28755
+597,"Coahoma County, MS",28755
+28770,"Copiah County, MS",28755
+28771,"Covington County, MS",28755
+596,"De Soto County, MS",28755
+28773,"Forrest County, MS",28755
+28774,"Franklin County, MS",28755
+28775,"George County, MS",28755
+28776,"Greene County, MS",28755
+594,"Grenada County, MS",28755
+28778,"Hancock County, MS",28755
+28779,"Harrison County, MS",28755
+28780,"Hinds County, MS",28755
+592,"Holmes County, MS",28755
+590,"Humphreys County, MS",28755
+28783,"Issaquena County, MS",28755
+588,"Itawamba County, MS",28755
+28785,"Jackson County, MS",28755
+28786,"Jasper County, MS",28755
+28787,"Jefferson County, MS",28755
+28788,"Jefferson Davis County, MS",28755
+28789,"Jones County, MS",28755
+28790,"Kemper County, MS",28755
+586,"Lafayette County, MS",28755
+28792,"Lamar County, MS",28755
+28793,"Lauderdale County, MS",28755
+28794,"Lawrence County, MS",28755
+28795,"Leake County, MS",28755
+584,"Lee County, MS",28755
+582,"Leflore County, MS",28755
+28798,"Lincoln County, MS",28755
+580,"Lowndes County, MS",28755
+28800,"Madison County, MS",28755
+28801,"Marion County, MS",28755
+578,"Marshall County, MS",28755
+576,"Monroe County, MS",28755
+573,"Montgomery County, MS",28755
+28805,"Neshoba County, MS",28755
+28806,"Newton County, MS",28755
+572,"Noxubee County, MS",28755
+570,"Oktibbeha County, MS",28755
+568,"Panola County, MS",28755
+28810,"Pearl River County, MS",28755
+28811,"Perry County, MS",28755
+28812,"Pike County, MS",28755
+28813,"Pontotoc County, MS",28755
+564,"Prentiss County, MS",28755
+562,"Quitman County, MS",28755
+28816,"Rankin County, MS",28755
+28817,"Scott County, MS",28755
+28818,"Sharkey County, MS",28755
+28819,"Simpson County, MS",28755
+28820,"Smith County, MS",28755
+28821,"Stone County, MS",28755
+560,"Sunflower County, MS",28755
+558,"Tallahatchie County, MS",28755
+556,"Tate County, MS",28755
+554,"Tippah County, MS",28755
+552,"Tishomingo County, MS",28755
+550,"Tunica County, MS",28755
+548,"Union County, MS",28755
+28829,"Walthall County, MS",28755
+28830,"Warren County, MS",28755
+546,"Washington County, MS",28755
+28832,"Wayne County, MS",28755
+544,"Webster County, MS",28755
+28834,"Wilkinson County, MS",28755
+542,"Winston County, MS",28755
+540,"Yalobusha County, MS",28755
+28837,"Yazoo County, MS",28755
+30757,"Gulfport-Biloxi, MS",30756
+30758,"Hattiesburg, MS",30756
+30759,"Jackson, MS",30756
+30760,"Memphis, TN-MS-AR",30756
+30761,"Pascagoula, MS",30756
+1080,"Adair County, MO",28838
+28840,"Andrew County, MO",28838
+28841,"Atchison County, MO",28838
+1078,"Audrain County, MO",28838
+1076,"Barry County, MO",28838
+28844,"Barton County, MO",28838
+28845,"Bates County, MO",28838
+28846,"Benton County, MO",28838
+1074,"Bollinger County, MO",28838
+1072,"Boone County, MO",28838
+28849,"Buchanan County, MO",28838
+1069,"Butler County, MO",28838
+28851,"Caldwell County, MO",28838
+1067,"Callaway County, MO",28838
+1065,"Camden County, MO",28838
+1063,"Cape Girardeau County, MO",28838
+28855,"Carroll County, MO",28838
+1061,"Carter County, MO",28838
+28857,"Cass County, MO",28838
+28858,"Cedar County, MO",28838
+28859,"Chariton County, MO",28838
+1059,"Christian County, MO",28838
+1057,"Clark County, MO",28838
+28862,"Clay County, MO",28838
+28863,"Clinton County, MO",28838
+1055,"Cole County, MO",28838
+28865,"Cooper County, MO",28838
+1053,"Crawford County, MO",28838
+1051,"Dade County, MO",28838
+1049,"Dallas County, MO",28838
+28869,"Daviess County, MO",28838
+28870,"De Kalb County, MO",28838
+1047,"Dent County, MO",28838
+1045,"Douglas County, MO",28838
+1044,"Dunklin County, MO",28838
+1041,"Franklin County, MO",28838
+1039,"Gasconade County, MO",28838
+28876,"Gentry County, MO",28838
+1037,"Greene County, MO",28838
+28878,"Grundy County, MO",28838
+28879,"Harrison County, MO",28838
+28880,"Henry County, MO",28838
+28881,"Hickory County, MO",28838
+28882,"Holt County, MO",28838
+28883,"Howard County, MO",28838
+1035,"Howell County, MO",28838
+1033,"Iron County, MO",28838
+28886,"Jackson County, MO",28838
+28887,"Jasper County, MO",28838
+1031,"Jefferson County, MO",28838
+28889,"Johnson County, MO",28838
+1029,"Knox County, MO",28838
+1027,"Laclede County, MO",28838
+28892,"Lafayette County, MO",28838
+1025,"Lawrence County, MO",28838
+1023,"Lewis County, MO",28838
+1020,"Lincoln County, MO",28838
+28896,"Linn County, MO",28838
+28897,"Livingston County, MO",28838
+1018,"Macon County, MO",28838
+1016,"Madison County, MO",28838
+1014,"Maries County, MO",28838
+1012,"Marion County, MO",28838
+28902,"McDonald County, MO",28838
+28903,"Mercer County, MO",28838
+1009,"Miller County, MO",28838
+1008,"Mississippi County, MO",28838
+1006,"Moniteau County, MO",28838
+1004,"Monroe County, MO",28838
+1002,"Montgomery County, MO",28838
+28909,"Morgan County, MO",28838
+1000,"New Madrid County, MO",28838
+28911,"Newton County, MO",28838
+28912,"Nodaway County, MO",28838
+998,"Oregon County, MO",28838
+996,"Osage County, MO",28838
+994,"Ozark County, MO",28838
+992,"Pemiscot County, MO",28838
+990,"Perry County, MO",28838
+28918,"Pettis County, MO",28838
+988,"Phelps County, MO",28838
+986,"Pike County, MO",28838
+28921,"Platte County, MO",28838
+984,"Polk County, MO",28838
+982,"Pulaski County, MO",28838
+28924,"Putnam County, MO",28838
+980,"Ralls County, MO",28838
+977,"Randolph County, MO",28838
+28927,"Ray County, MO",28838
+976,"Reynolds County, MO",28838
+974,"Ripley County, MO",28838
+28930,"Saline County, MO",28838
+972,"Schuyler County, MO",28838
+970,"Scotland County, MO",28838
+968,"Scott County, MO",28838
+966,"Shannon County, MO",28838
+964,"Shelby County, MO",28838
+962,"St. Charles County, MO",28838
+28937,"St. Clair County, MO",28838
+958,"Ste. Genevieve County, MO",28838
+960,"St. Francois County, MO",28838
+954,"St. Louis County, MO",28838
+28941,"St. Louis City, MO",28838
+952,"Stoddard County, MO",28838
+950,"Stone County, MO",28838
+28944,"Sullivan County, MO",28838
+947,"Taney County, MO",28838
+946,"Texas County, MO",28838
+28947,"Vernon County, MO",28838
+943,"Warren County, MO",28838
+942,"Washington County, MO",28838
+940,"Wayne County, MO",28838
+938,"Webster County, MO",28838
+28952,"Worth County, MO",28838
+936,"Wright County, MO",28838
+33197,"Cape Girardeau, MO-IL",30762
+340,"Columbia, MO",30762
+3006,"Jefferson City, MO",30762
+30766,"Joplin, MO",30762
+30767,"Kansas City, MO-KS",30762
+325,"Springfield, MO",30762
+30769,"St. Joseph, MO-KS",30762
+324,"St. Louis, MO-IL",30762
+32894,"Kansas City, MO-KS (MSA)",32891
+32892,"St. Louis, MO-IL (MSA)",32891
+33465,"Kansas City, MO",33464
+28955,"Beaverhead County, MT",28954
+28956,"Big Horn County, MT",28954
+28957,"Blaine County, MT",28954
+28958,"Broadwater County, MT",28954
+28959,"Carbon County, MT",28954
+28960,"Carter County, MT",28954
+28961,"Cascade County, MT",28954
+28962,"Chouteau County, MT",28954
+28963,"Custer County, MT",28954
+28964,"Daniels County, MT",28954
+28965,"Dawson County, MT",28954
+28966,"Deer Lodge County, MT",28954
+28967,"Fallon County, MT",28954
+28968,"Fergus County, MT",28954
+28969,"Flathead County, MT",28954
+28970,"Gallatin County, MT",28954
+28971,"Garfield County, MT",28954
+28972,"Glacier County, MT",28954
+28973,"Golden Valley County, MT",28954
+28974,"Granite County, MT",28954
+28975,"Hill County, MT",28954
+28976,"Jefferson County, MT",28954
+28977,"Judith Basin County, MT",28954
+28978,"Lake County, MT",28954
+28979,"Lewis and Clark County, MT",28954
+28980,"Liberty County, MT",28954
+28981,"Lincoln County, MT",28954
+28982,"Madison County, MT",28954
+28983,"McCone County, MT",28954
+28984,"Meagher County, MT",28954
+28985,"Mineral County, MT",28954
+28986,"Missoula County, MT",28954
+28987,"Musselshell County, MT",28954
+28988,"Park County, MT",28954
+28989,"Petroleum County, MT",28954
+28990,"Phillips County, MT",28954
+28991,"Pondera County, MT",28954
+28992,"Powder River County, MT",28954
+28993,"Powell County, MT",28954
+28994,"Prairie County, MT",28954
+28995,"Ravalli County, MT",28954
+28996,"Richland County, MT",28954
+28997,"Roosevelt County, MT",28954
+28998,"Rosebud County, MT",28954
+28999,"Sanders County, MT",28954
+29000,"Sheridan County, MT",28954
+29001,"Silver Bow County, MT",28954
+29002,"Stillwater County, MT",28954
+29003,"Sweet Grass County, MT",28954
+29004,"Teton County, MT",28954
+29005,"Toole County, MT",28954
+29006,"Treasure County, MT",28954
+29007,"Valley County, MT",28954
+29008,"Wheatland County, MT",28954
+29009,"Wibaux County, MT",28954
+29010,"Yellowstone County, MT",28954
+30772,"Billings, MT",30771
+30773,"Great Falls, MT",30771
+30774,"Missoula, MT",30771
+29013,"Adams County, NE",29012
+29014,"Antelope County, NE",29012
+29015,"Arthur County, NE",29012
+29016,"Banner County, NE",29012
+29017,"Blaine County, NE",29012
+29018,"Boone County, NE",29012
+29019,"Box Butte County, NE",29012
+29020,"Boyd County, NE",29012
+29021,"Brown County, NE",29012
+29022,"Buffalo County, NE",29012
+29023,"Burt County, NE",29012
+29024,"Butler County, NE",29012
+29025,"Cass County, NE",29012
+29026,"Cedar County, NE",29012
+29027,"Chase County, NE",29012
+29028,"Cherry County, NE",29012
+29029,"Cheyenne County, NE",29012
+29030,"Clay County, NE",29012
+29031,"Colfax County, NE",29012
+29032,"Cuming County, NE",29012
+29033,"Custer County, NE",29012
+29034,"Dakota County, NE",29012
+29035,"Dawes County, NE",29012
+29036,"Dawson County, NE",29012
+29037,"Deuel County, NE",29012
+29038,"Dixon County, NE",29012
+29039,"Dodge County, NE",29012
+29040,"Douglas County, NE",29012
+29041,"Dundy County, NE",29012
+29042,"Fillmore County, NE",29012
+29043,"Franklin County, NE",29012
+29044,"Frontier County, NE",29012
+29045,"Furnas County, NE",29012
+29046,"Gage County, NE",29012
+29047,"Garden County, NE",29012
+29048,"Garfield County, NE",29012
+29049,"Gosper County, NE",29012
+29050,"Grant County, NE",29012
+29051,"Greeley County, NE",29012
+29052,"Hall County, NE",29012
+29053,"Hamilton County, NE",29012
+29054,"Harlan County, NE",29012
+29055,"Hayes County, NE",29012
+29056,"Hitchcock County, NE",29012
+29057,"Holt County, NE",29012
+29058,"Hooker County, NE",29012
+29059,"Howard County, NE",29012
+29060,"Jefferson County, NE",29012
+29061,"Johnson County, NE",29012
+29062,"Kearney County, NE",29012
+29063,"Keith County, NE",29012
+29064,"Keya Paha County, NE",29012
+29065,"Kimball County, NE",29012
+29066,"Knox County, NE",29012
+29067,"Lancaster County, NE",29012
+29068,"Lincoln County, NE",29012
+29069,"Logan County, NE",29012
+29070,"Loup County, NE",29012
+29071,"Madison County, NE",29012
+29072,"McPherson County, NE",29012
+29073,"Merrick County, NE",29012
+29074,"Morrill County, NE",29012
+29075,"Nance County, NE",29012
+29076,"Nemaha County, NE",29012
+29077,"Nuckolls County, NE",29012
+29078,"Otoe County, NE",29012
+29079,"Pawnee County, NE",29012
+29080,"Perkins County, NE",29012
+29081,"Phelps County, NE",29012
+29082,"Pierce County, NE",29012
+29083,"Platte County, NE",29012
+29084,"Polk County, NE",29012
+29085,"Red Willow County, NE",29012
+29086,"Richardson County, NE",29012
+29087,"Rock County, NE",29012
+29088,"Saline County, NE",29012
+29089,"Sarpy County, NE",29012
+29090,"Saunders County, NE",29012
+29091,"Scotts Bluff County, NE",29012
+29092,"Seward County, NE",29012
+29093,"Sheridan County, NE",29012
+29094,"Sherman County, NE",29012
+29095,"Sioux County, NE",29012
+29096,"Stanton County, NE",29012
+29097,"Thayer County, NE",29012
+29098,"Thomas County, NE",29012
+29099,"Thurston County, NE",29012
+29100,"Valley County, NE",29012
+29101,"Washington County, NE",29012
+29102,"Wayne County, NE",29012
+29103,"Webster County, NE",29012
+29104,"Wheeler County, NE",29012
+29105,"York County, NE",29012
+33423,"Grand Island, NE",30775
+30776,"Lincoln, NE",30775
+30777,"Omaha-Council Bluffs, NE-IA",30775
+30778,"Sioux City, IA-NE-SD",30775
+29107,"Carson City, NV",29106
+29108,"Churchill County, NV",29106
+29109,"Clark County, NV",29106
+29110,"Douglas County, NV",29106
+29111,"Elko County, NV",29106
+29112,"Esmeralda County, NV",29106
+29113,"Eureka County, NV",29106
+29114,"Humboldt County, NV",29106
+29115,"Lander County, NV",29106
+29116,"Lincoln County, NV",29106
+29117,"Lyon County, NV",29106
+29118,"Mineral County, NV",29106
+29119,"Nye County, NV",29106
+29120,"Pershing County, NV",29106
+29121,"Storey County, NV",29106
+29122,"Washoe County, NV",29106
+29123,"White Pine County, NV",29106
+30780,"Carson City, NV",30779
+30781,"Las Vegas-Henderson-Paradise, NV",30779
+30782,"Reno, NV",30779
+29125,"Belknap County, NH",29124
+29126,"Carroll County, NH",29124
+29127,"Cheshire County, NH",29124
+29128,"Coos County, NH",29124
+29129,"Grafton County, NH",29124
+29130,"Hillsborough County, NH",29124
+29131,"Merrimack County, NH",29124
+29132,"Rockingham County, NH",29124
+29133,"Strafford County, NH",29124
+29134,"Sullivan County, NH",29124
+30784,"Boston-Cambridge-Newton, MA-NH",30783
+30785,"Manchester-Nashua, NH",30783
+32122,"Berlin, NH",32086
+32123,"Boston-Cambridge-Quincy, MA-NH",32086
+32124,"Claremont, NH",32086
+32125,"Concord, NH",32086
+33689,"Dover-Durham, NH-ME",32086
+32126,"Franklin, NH",32086
+33459,"Haverhill-North Andover-Amesbury, MA-NH",32086
+32127,"Keene, NH",32086
+32128,"Laconia, NH",32086
+32129,"Lebanon, NH-VT",32086
+33460,"Lowell-Billerica-Chelmsford, MA-NH",32086
+32130,"Manchester, NH",32086
+33461,"Nashua, NH-MA",32086
+32131,"Portsmouth, NH-ME",32086
+32132,"Rochester-Dover, NH-ME",32086
+32914,"Boston-Brockton-Nashua, MA-NH-ME-CT (CMSA)",32913
+33171,"Rockingham County-Strafford County, NH",33170
+29136,"Atlantic County, NJ",29135
+29137,"Bergen County, NJ",29135
+29138,"Burlington County, NJ",29135
+29139,"Camden County, NJ",29135
+29140,"Cape May County, NJ",29135
+29141,"Cumberland County, NJ",29135
+29142,"Essex County, NJ",29135
+29143,"Gloucester County, NJ",29135
+29144,"Hudson County, NJ",29135
+29145,"Hunterdon County, NJ",29135
+29146,"Mercer County, NJ",29135
+29147,"Middlesex County, NJ",29135
+29148,"Monmouth County, NJ",29135
+29149,"Morris County, NJ",29135
+29150,"Ocean County, NJ",29135
+29151,"Passaic County, NJ",29135
+29152,"Salem County, NJ",29135
+29153,"Somerset County, NJ",29135
+29154,"Sussex County, NJ",29135
+29155,"Union County, NJ",29135
+29156,"Warren County, NJ",29135
+30787,"Allentown-Bethlehem-Easton, PA-NJ",30786
+30788,"Atlantic City-Hammonton, NJ",30786
+30789,"New York-Newark-Jersey City, NY-NJ-PA",30786
+30790,"Ocean City, NJ",30786
+30791,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",30786
+30792,"Trenton-Princeton, NJ",30786
+30793,"Vineland-Bridgeton, NJ",30786
+32878,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (CMSA)",32870
+32871,"New York-Northern New Jersey-Long Island, NY-NJ-CT-PA (CMSA)",32870
+33139,"Camden, NJ",33138
+33140,"Edison-New Brunswick, NJ ",33138
+33141,"Newark, NJ-PA",33138
+33142,"New York-Jersey City-White Plains, NY-NJ",33138
+33448,"New York-White Plains-Wayne, NY-NJ",33138
+33143,"Wilmington, DE-MD-NJ",33138
+33468,"Bergen-Hudson-Passaic, NJ",33467
+33693,"Middlesex-Monmouth-Ocean, NJ",33467
+29158,"Bernalillo County, NM",29157
+29159,"Catron County, NM",29157
+29160,"Chaves County, NM",29157
+29161,"Cibola County, NM",29157
+29162,"Colfax County, NM",29157
+29163,"Curry County, NM",29157
+29164,"De Baca County, NM",29157
+29165,"Dona Ana County, NM",29157
+29166,"Eddy County, NM",29157
+29167,"Grant County, NM",29157
+29168,"Guadalupe County, NM",29157
+29169,"Harding County, NM",29157
+29170,"Hidalgo County, NM",29157
+29171,"Lea County, NM",29157
+29172,"Lincoln County, NM",29157
+29173,"Los Alamos County, NM",29157
+29174,"Luna County, NM",29157
+29175,"McKinley County, NM",29157
+29176,"Mora County, NM",29157
+29177,"Otero County, NM",29157
+29178,"Quay County, NM",29157
+29179,"Rio Arriba County, NM",29157
+29180,"Roosevelt County, NM",29157
+29181,"Sandoval County, NM",29157
+29182,"San Juan County, NM",29157
+29183,"San Miguel County, NM",29157
+29184,"Santa Fe County, NM",29157
+29185,"Sierra County, NM",29157
+29186,"Socorro County, NM",29157
+29187,"Taos County, NM",29157
+29188,"Torrance County, NM",29157
+29189,"Union County, NM",29157
+29190,"Valencia County, NM",29157
+30795,"Albuquerque, NM",30794
+33942,"Espanola, NM",30794
+30796,"Farmington, NM",30794
+30797,"Las Cruces, NM",30794
+30798,"Santa Fe, NM",30794
+29192,"Albany County, NY",29191
+29193,"Allegany County, NY",29191
+29194,"Bronx County, NY",29191
+29195,"Broome County, NY",29191
+29196,"Cattaraugus County, NY",29191
+29197,"Cayuga County, NY",29191
+29198,"Chautauqua County, NY",29191
+29199,"Chemung County, NY",29191
+29200,"Chenango County, NY",29191
+29201,"Clinton County, NY",29191
+29202,"Columbia County, NY",29191
+29203,"Cortland County, NY",29191
+29204,"Delaware County, NY",29191
+29205,"Dutchess County, NY",29191
+29206,"Erie County, NY",29191
+29207,"Essex County, NY",29191
+29208,"Franklin County, NY",29191
+29209,"Fulton County, NY",29191
+29210,"Genesee County, NY",29191
+29211,"Greene County, NY",29191
+29212,"Hamilton County, NY",29191
+29213,"Herkimer County, NY",29191
+29214,"Jefferson County, NY",29191
+29215,"Kings County, NY",29191
+29216,"Lewis County, NY",29191
+29217,"Livingston County, NY",29191
+29218,"Madison County, NY",29191
+29219,"Monroe County, NY",29191
+29220,"Montgomery County, NY",29191
+29221,"Nassau County, NY",29191
+29222,"New York County, NY",29191
+29223,"Niagara County, NY",29191
+29224,"Oneida County, NY",29191
+29225,"Onondaga County, NY",29191
+29226,"Ontario County, NY",29191
+29227,"Orange County, NY",29191
+29228,"Orleans County, NY",29191
+29229,"Oswego County, NY",29191
+29230,"Otsego County, NY",29191
+29231,"Putnam County, NY",29191
+29232,"Queens County, NY",29191
+29233,"Rensselaer County, NY",29191
+29234,"Richmond County, NY",29191
+29235,"Rockland County, NY",29191
+29236,"Saratoga County, NY",29191
+29237,"Schenectady County, NY",29191
+29238,"Schoharie County, NY",29191
+29239,"Schuyler County, NY",29191
+29240,"Seneca County, NY",29191
+29241,"Steuben County, NY",29191
+29242,"St. Lawrence County, NY",29191
+29243,"Suffolk County, NY",29191
+29244,"Sullivan County, NY",29191
+29245,"Tioga County, NY",29191
+29246,"Tompkins County, NY",29191
+29247,"Ulster County, NY",29191
+29248,"Warren County, NY",29191
+29249,"Washington County, NY",29191
+29250,"Wayne County, NY",29191
+29251,"Westchester County, NY",29191
+29252,"Wyoming County, NY",29191
+29253,"Yates County, NY",29191
+30800,"Albany-Schenectady-Troy, NY",30799
+30801,"Binghamton, NY",30799
+30802,"Buffalo-Cheektowaga, NY",30799
+30803,"Elmira, NY",30799
+30804,"Glens Falls, NY",30799
+30805,"Ithaca, NY",30799
+30806,"Kingston, NY",30799
+30807,"New York-Newark-Jersey City, NY-NJ-PA",30799
+30808,"Poughkeepsie-Newburgh-Middletown, NY",30799
+30809,"Rochester, NY",30799
+30810,"Syracuse, NY",30799
+30811,"Utica-Rome, NY",30799
+33433,"Watertown-Fort Drum, NY",30799
+32869,"New York-Northern New Jersey-Long Island, NY-NJ-CT-PA (CMSA)",32868
+33418,"Dutchess County-Putnam County, NY",33164
+33165,"Nassau County-Suffolk County, NY",33164
+33166,"New York-Jersey City-White Plains, NY-NJ",33164
+33447,"New York-White Plains-Wayne, NY-NJ",33164
+33470,"New York City, NY",33469
+33471,"Putnam-Rockland-Westchester, NY",33469
+29255,"Alamance County, NC",29254
+29256,"Alexander County, NC",29254
+29257,"Alleghany County, NC",29254
+29258,"Anson County, NC",29254
+29259,"Ashe County, NC",29254
+29260,"Avery County, NC",29254
+29261,"Beaufort County, NC",29254
+29262,"Bertie County, NC",29254
+29263,"Bladen County, NC",29254
+29264,"Brunswick County, NC",29254
+29265,"Buncombe County, NC",29254
+29266,"Burke County, NC",29254
+29267,"Cabarrus County, NC",29254
+29268,"Caldwell County, NC",29254
+29269,"Camden County, NC",29254
+29270,"Carteret County, NC",29254
+29271,"Caswell County, NC",29254
+29272,"Catawba County, NC",29254
+29273,"Chatham County, NC",29254
+29274,"Cherokee County, NC",29254
+29275,"Chowan County, NC",29254
+29276,"Clay County, NC",29254
+29277,"Cleveland County, NC",29254
+29278,"Columbus County, NC",29254
+29279,"Craven County, NC",29254
+29280,"Cumberland County, NC",29254
+29281,"Currituck County, NC",29254
+29282,"Dare County, NC",29254
+29283,"Davidson County, NC",29254
+29284,"Davie County, NC",29254
+29285,"Duplin County, NC",29254
+29286,"Durham County, NC",29254
+29287,"Edgecombe County, NC",29254
+29288,"Forsyth County, NC",29254
+29289,"Franklin County, NC",29254
+29290,"Gaston County, NC",29254
+29291,"Gates County, NC",29254
+29292,"Graham County, NC",29254
+29293,"Granville County, NC",29254
+29294,"Greene County, NC",29254
+29295,"Guilford County, NC",29254
+29296,"Halifax County, NC",29254
+29297,"Harnett County, NC",29254
+29298,"Haywood County, NC",29254
+29299,"Henderson County, NC",29254
+29300,"Hertford County, NC",29254
+29301,"Hoke County, NC",29254
+29302,"Hyde County, NC",29254
+29303,"Iredell County, NC",29254
+29304,"Jackson County, NC",29254
+29305,"Johnston County, NC",29254
+29306,"Jones County, NC",29254
+29307,"Lee County, NC",29254
+29308,"Lenoir County, NC",29254
+29309,"Lincoln County, NC",29254
+29310,"Macon County, NC",29254
+29311,"Madison County, NC",29254
+29312,"Martin County, NC",29254
+29313,"McDowell County, NC",29254
+29314,"Mecklenburg County, NC",29254
+29315,"Mitchell County, NC",29254
+29316,"Montgomery County, NC",29254
+29317,"Moore County, NC",29254
+29318,"Nash County, NC",29254
+29319,"New Hanover County, NC",29254
+29320,"Northampton County, NC",29254
+29321,"Onslow County, NC",29254
+29322,"Orange County, NC",29254
+29323,"Pamlico County, NC",29254
+29324,"Pasquotank County, NC",29254
+29325,"Pender County, NC",29254
+29326,"Perquimans County, NC",29254
+29327,"Person County, NC",29254
+29328,"Pitt County, NC",29254
+29329,"Polk County, NC",29254
+29330,"Randolph County, NC",29254
+29331,"Richmond County, NC",29254
+29332,"Robeson County, NC",29254
+29333,"Rockingham County, NC",29254
+29334,"Rowan County, NC",29254
+29335,"Rutherford County, NC",29254
+29336,"Sampson County, NC",29254
+29337,"Scotland County, NC",29254
+29338,"Stanly County, NC",29254
+29339,"Stokes County, NC",29254
+29340,"Surry County, NC",29254
+29341,"Swain County, NC",29254
+29342,"Transylvania County, NC",29254
+29343,"Tyrrell County, NC",29254
+29344,"Union County, NC",29254
+29345,"Vance County, NC",29254
+29346,"Wake County, NC",29254
+29347,"Warren County, NC",29254
+29348,"Washington County, NC",29254
+29349,"Watauga County, NC",29254
+29350,"Wayne County, NC",29254
+29351,"Wilkes County, NC",29254
+29352,"Wilson County, NC",29254
+29353,"Yadkin County, NC",29254
+29354,"Yancey County, NC",29254
+30813,"Asheville, NC",30812
+30814,"Burlington, NC",30812
+30815,"Charlotte-Concord-Gastonia, NC-SC",30812
+33466,"Durham-Chapel Hill, NC",30812
+30817,"Fayetteville, NC",30812
+30818,"Goldsboro, NC",30812
+30819,"Greensboro-High Point, NC",30812
+30820,"Greenville, NC",30812
+30821,"Hickory-Lenoir-Morganton, NC",30812
+30822,"Jacksonville, NC",30812
+33628,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",30812
+33432,"New Bern, NC",30812
+30823,"Raleigh-Cary, NC",30812
+30824,"Rocky Mount, NC",30812
+30825,"Virginia Beach-Norfolk-Newport News, VA-NC",30812
+30826,"Wilmington, NC",30812
+30827,"Winston-Salem, NC",30812
+29356,"Adams County, ND",29355
+29357,"Barnes County, ND",29355
+29358,"Benson County, ND",29355
+29359,"Billings County, ND",29355
+29360,"Bottineau County, ND",29355
+29361,"Bowman County, ND",29355
+29362,"Burke County, ND",29355
+29363,"Burleigh County, ND",29355
+29364,"Cass County, ND",29355
+29365,"Cavalier County, ND",29355
+29366,"Dickey County, ND",29355
+29367,"Divide County, ND",29355
+29368,"Dunn County, ND",29355
+29369,"Eddy County, ND",29355
+29370,"Emmons County, ND",29355
+29371,"Foster County, ND",29355
+29372,"Golden Valley County, ND",29355
+29373,"Grand Forks County, ND",29355
+29374,"Grant County, ND",29355
+29375,"Griggs County, ND",29355
+29376,"Hettinger County, ND",29355
+29377,"Kidder County, ND",29355
+29378,"La Moure County, ND",29355
+29379,"Logan County, ND",29355
+29380,"McHenry County, ND",29355
+29381,"McIntosh County, ND",29355
+29382,"McKenzie County, ND",29355
+29383,"McLean County, ND",29355
+29384,"Mercer County, ND",29355
+29385,"Morton County, ND",29355
+29386,"Mountrail County, ND",29355
+29387,"Nelson County, ND",29355
+29388,"Oliver County, ND",29355
+29389,"Pembina County, ND",29355
+29390,"Pierce County, ND",29355
+29391,"Ramsey County, ND",29355
+29392,"Ransom County, ND",29355
+29393,"Renville County, ND",29355
+29394,"Richland County, ND",29355
+29395,"Rolette County, ND",29355
+29396,"Sargent County, ND",29355
+29397,"Sheridan County, ND",29355
+29398,"Sioux County, ND",29355
+29399,"Slope County, ND",29355
+29400,"Stark County, ND",29355
+29401,"Steele County, ND",29355
+29402,"Stutsman County, ND",29355
+29403,"Towner County, ND",29355
+29404,"Traill County, ND",29355
+29405,"Walsh County, ND",29355
+29406,"Ward County, ND",29355
+29407,"Wells County, ND",29355
+29408,"Williams County, ND",29355
+30829,"Bismarck, ND",30828
+30830,"Fargo, ND-MN",30828
+30831,"Grand Forks, ND-MN",30828
+29410,"Adams County, OH",29409
+29411,"Allen County, OH",29409
+29412,"Ashland County, OH",29409
+29413,"Ashtabula County, OH",29409
+29414,"Athens County, OH",29409
+29415,"Auglaize County, OH",29409
+29416,"Belmont County, OH",29409
+29417,"Brown County, OH",29409
+29418,"Butler County, OH",29409
+29419,"Carroll County, OH",29409
+29420,"Champaign County, OH",29409
+29421,"Clark County, OH",29409
+29422,"Clermont County, OH",29409
+29423,"Clinton County, OH",29409
+29424,"Columbiana County, OH",29409
+29425,"Coshocton County, OH",29409
+29426,"Crawford County, OH",29409
+29427,"Cuyahoga County, OH",29409
+29428,"Darke County, OH",29409
+29429,"Defiance County, OH",29409
+29430,"Delaware County, OH",29409
+29431,"Erie County, OH",29409
+29432,"Fairfield County, OH",29409
+29433,"Fayette County, OH",29409
+29434,"Franklin County, OH",29409
+29435,"Fulton County, OH",29409
+29436,"Gallia County, OH",29409
+29437,"Geauga County, OH",29409
+29438,"Greene County, OH",29409
+29439,"Guernsey County, OH",29409
+29440,"Hamilton County, OH",29409
+29441,"Hancock County, OH",29409
+29442,"Hardin County, OH",29409
+29443,"Harrison County, OH",29409
+29444,"Henry County, OH",29409
+29445,"Highland County, OH",29409
+29446,"Hocking County, OH",29409
+29447,"Holmes County, OH",29409
+29448,"Huron County, OH",29409
+29449,"Jackson County, OH",29409
+29450,"Jefferson County, OH",29409
+29451,"Knox County, OH",29409
+29452,"Lake County, OH",29409
+29453,"Lawrence County, OH",29409
+29454,"Licking County, OH",29409
+29455,"Logan County, OH",29409
+29456,"Lorain County, OH",29409
+29457,"Lucas County, OH",29409
+29458,"Madison County, OH",29409
+29459,"Mahoning County, OH",29409
+29460,"Marion County, OH",29409
+29461,"Medina County, OH",29409
+29462,"Meigs County, OH",29409
+29463,"Mercer County, OH",29409
+29464,"Miami County, OH",29409
+29465,"Monroe County, OH",29409
+29466,"Montgomery County, OH",29409
+29467,"Morgan County, OH",29409
+29468,"Morrow County, OH",29409
+29469,"Muskingum County, OH",29409
+29470,"Noble County, OH",29409
+29471,"Ottawa County, OH",29409
+29472,"Paulding County, OH",29409
+29473,"Perry County, OH",29409
+29474,"Pickaway County, OH",29409
+29475,"Pike County, OH",29409
+29476,"Portage County, OH",29409
+29477,"Preble County, OH",29409
+29478,"Putnam County, OH",29409
+29479,"Richland County, OH",29409
+29480,"Ross County, OH",29409
+29481,"Sandusky County, OH",29409
+29482,"Scioto County, OH",29409
+29483,"Seneca County, OH",29409
+29484,"Shelby County, OH",29409
+29485,"Stark County, OH",29409
+29486,"Summit County, OH",29409
+29487,"Trumbull County, OH",29409
+29488,"Tuscarawas County, OH",29409
+29489,"Union County, OH",29409
+29490,"Van Wert County, OH",29409
+29491,"Vinton County, OH",29409
+29492,"Warren County, OH",29409
+29493,"Washington County, OH",29409
+29494,"Wayne County, OH",29409
+29495,"Williams County, OH",29409
+29496,"Wood County, OH",29409
+29497,"Wyandot County, OH",29409
+30833,"Akron, OH",30832
+30834,"Canton-Massillon, OH",30832
+30835,"Cincinnati, OH-KY-IN",30832
+30836,"Cleveland-Elyria, OH",30832
+30837,"Columbus, OH",30832
+30838,"Dayton-Kettering, OH",30832
+30839,"Huntington-Ashland, WV-KY-OH",30832
+30840,"Lima, OH",30832
+30841,"Mansfield, OH",30832
+30843,"Sandusky, OH",30832
+30844,"Springfield, OH",30832
+30845,"Toledo, OH",30832
+30846,"Weirton-Steubenville, WV-OH",30832
+30847,"Wheeling, WV-OH",30832
+30848,"Youngstown-Warren-Boardman, OH-PA",30832
+32931,"Cincinnati-Hamilton, OH-KY-IN (CMSA)",32918
+32919,"Cleveland-Akron, OH (CMSA)",32918
+29499,"Adair County, OK",29498
+29500,"Alfalfa County, OK",29498
+29501,"Atoka County, OK",29498
+29502,"Beaver County, OK",29498
+29503,"Beckham County, OK",29498
+29504,"Blaine County, OK",29498
+29505,"Bryan County, OK",29498
+29506,"Caddo County, OK",29498
+29507,"Canadian County, OK",29498
+29508,"Carter County, OK",29498
+29509,"Cherokee County, OK",29498
+29510,"Choctaw County, OK",29498
+29511,"Cimarron County, OK",29498
+29512,"Cleveland County, OK",29498
+29513,"Coal County, OK",29498
+29514,"Comanche County, OK",29498
+29515,"Cotton County, OK",29498
+29516,"Craig County, OK",29498
+29517,"Creek County, OK",29498
+29518,"Custer County, OK",29498
+29519,"Delaware County, OK",29498
+29520,"Dewey County, OK",29498
+29521,"Ellis County, OK",29498
+29522,"Garfield County, OK",29498
+29523,"Garvin County, OK",29498
+29524,"Grady County, OK",29498
+29525,"Grant County, OK",29498
+29526,"Greer County, OK",29498
+29527,"Harmon County, OK",29498
+29528,"Harper County, OK",29498
+29529,"Haskell County, OK",29498
+29530,"Hughes County, OK",29498
+29531,"Jackson County, OK",29498
+29532,"Jefferson County, OK",29498
+29533,"Johnston County, OK",29498
+29534,"Kay County, OK",29498
+29535,"Kingfisher County, OK",29498
+29536,"Kiowa County, OK",29498
+29537,"Latimer County, OK",29498
+29538,"Le Flore County, OK",29498
+29539,"Lincoln County, OK",29498
+29540,"Logan County, OK",29498
+29541,"Love County, OK",29498
+29542,"Major County, OK",29498
+29543,"Marshall County, OK",29498
+29544,"Mayes County, OK",29498
+29545,"McClain County, OK",29498
+29546,"McCurtain County, OK",29498
+29547,"McIntosh County, OK",29498
+29548,"Murray County, OK",29498
+29549,"Muskogee County, OK",29498
+29550,"Noble County, OK",29498
+29551,"Nowata County, OK",29498
+29552,"Okfuskee County, OK",29498
+29553,"Oklahoma County, OK",29498
+29554,"Okmulgee County, OK",29498
+29555,"Osage County, OK",29498
+29556,"Ottawa County, OK",29498
+29557,"Pawnee County, OK",29498
+29558,"Payne County, OK",29498
+29559,"Pittsburg County, OK",29498
+29560,"Pontotoc County, OK",29498
+29561,"Pottawatomie County, OK",29498
+29562,"Pushmataha County, OK",29498
+29563,"Roger Mills County, OK",29498
+29564,"Rogers County, OK",29498
+29565,"Seminole County, OK",29498
+29566,"Sequoyah County, OK",29498
+29567,"Stephens County, OK",29498
+29568,"Texas County, OK",29498
+29569,"Tillman County, OK",29498
+29570,"Tulsa County, OK",29498
+29571,"Wagoner County, OK",29498
+29572,"Washington County, OK",29498
+29573,"Washita County, OK",29498
+29574,"Woods County, OK",29498
+29575,"Woodward County, OK",29498
+30850,"Fort Smith, AR-OK",30849
+33737,"Enid, OK",30849
+30851,"Lawton, OK",30849
+30852,"Oklahoma City, OK",30849
+30853,"Tulsa, OK",30849
+29577,"Baker County, OR",29576
+29578,"Benton County, OR",29576
+29579,"Clackamas County, OR",29576
+29580,"Clatsop County, OR",29576
+29581,"Columbia County, OR",29576
+29582,"Coos County, OR",29576
+29583,"Crook County, OR",29576
+29584,"Curry County, OR",29576
+29585,"Deschutes County, OR",29576
+29586,"Douglas County, OR",29576
+29587,"Gilliam County, OR",29576
+29588,"Grant County, OR",29576
+29589,"Harney County, OR",29576
+29590,"Hood River County, OR",29576
+29591,"Jackson County, OR",29576
+29592,"Jefferson County, OR",29576
+29593,"Josephine County, OR",29576
+29594,"Klamath County, OR",29576
+29595,"Lake County, OR",29576
+29596,"Lane County, OR",29576
+29597,"Lincoln County, OR",29576
+29598,"Linn County, OR",29576
+29599,"Malheur County, OR",29576
+29600,"Marion County, OR",29576
+29601,"Morrow County, OR",29576
+29602,"Multnomah County, OR",29576
+29603,"Polk County, OR",29576
+29604,"Sherman County, OR",29576
+29605,"Tillamook County, OR",29576
+29606,"Umatilla County, OR",29576
+29607,"Union County, OR",29576
+29608,"Wallowa County, OR",29576
+29609,"Wasco County, OR",29576
+29610,"Washington County, OR",29576
+29611,"Wheeler County, OR",29576
+29612,"Yamhill County, OR",29576
+33410,"Albany-Lebanon, OR",30854
+30855,"Bend, OR",30854
+30856,"Corvallis, OR",30854
+30857,"Eugene-Springfield, OR",30854
+33424,"Grants Pass, OR",30854
+30858,"Medford, OR",30854
+30859,"Portland-Vancouver-Beaverton, OR-WA",30854
+30860,"Salem, OR",30854
+32938,"Portland-Salem, OR-WA (CMSA)",32937
+29614,"Adams County, PA",29613
+29615,"Allegheny County, PA",29613
+29616,"Armstrong County, PA",29613
+29617,"Beaver County, PA",29613
+29618,"Bedford County, PA",29613
+29619,"Berks County, PA",29613
+29620,"Blair County, PA",29613
+29621,"Bradford County, PA",29613
+29622,"Bucks County, PA",29613
+29623,"Butler County, PA",29613
+29624,"Cambria County, PA",29613
+29625,"Cameron County, PA",29613
+29626,"Carbon County, PA",29613
+29627,"Centre County, PA",29613
+29628,"Chester County, PA",29613
+29629,"Clarion County, PA",29613
+29630,"Clearfield County, PA",29613
+29631,"Clinton County, PA",29613
+29632,"Columbia County, PA",29613
+29633,"Crawford County, PA",29613
+29634,"Cumberland County, PA",29613
+29635,"Dauphin County, PA",29613
+29636,"Delaware County, PA",29613
+29637,"Elk County, PA",29613
+29638,"Erie County, PA",29613
+29639,"Fayette County, PA",29613
+29640,"Forest County, PA",29613
+29641,"Franklin County, PA",29613
+29642,"Fulton County, PA",29613
+29643,"Greene County, PA",29613
+29644,"Huntingdon County, PA",29613
+29645,"Indiana County, PA",29613
+29646,"Jefferson County, PA",29613
+29647,"Juniata County, PA",29613
+29648,"Lackawanna County, PA",29613
+29649,"Lancaster County, PA",29613
+29650,"Lawrence County, PA",29613
+29651,"Lebanon County, PA",29613
+29652,"Lehigh County, PA",29613
+29653,"Luzerne County, PA",29613
+29654,"Lycoming County, PA",29613
+29655,"McKean County, PA",29613
+29656,"Mercer County, PA",29613
+29657,"Mifflin County, PA",29613
+29658,"Monroe County, PA",29613
+29659,"Montgomery County, PA",29613
+29660,"Montour County, PA",29613
+29661,"Northampton County, PA",29613
+29662,"Northumberland County, PA",29613
+29663,"Perry County, PA",29613
+29664,"Philadelphia County/city, PA",29613
+29665,"Pike County, PA",29613
+29666,"Potter County, PA",29613
+29667,"Schuylkill County, PA",29613
+29668,"Snyder County, PA",29613
+29669,"Somerset County, PA",29613
+29670,"Sullivan County, PA",29613
+29671,"Susquehanna County, PA",29613
+29672,"Tioga County, PA",29613
+29673,"Union County, PA",29613
+29674,"Venango County, PA",29613
+29675,"Warren County, PA",29613
+29676,"Washington County, PA",29613
+29677,"Wayne County, PA",29613
+29678,"Westmoreland County, PA",29613
+29679,"Wyoming County, PA",29613
+29680,"York County, PA",29613
+30862,"Allentown-Bethlehem-Easton, PA-NJ",30861
+30863,"Altoona, PA",30861
+33413,"Bloomsburg-Berwick, PA",30861
+33416,"Chambersburg-Waynesboro, PA",30861
+33419,"East Stroudsburg, PA",30861
+30864,"Erie, PA",30861
+33420,"Gettysburg, PA",30861
+30865,"Harrisburg-Carlisle, PA",30861
+30866,"Johnstown, PA",30861
+30867,"Lancaster, PA",30861
+30868,"Lebanon, PA",30861
+30869,"New York-Newark-Jersey City, NY-NJ-PA",30861
+30870,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",30861
+30871,"Pittsburgh, PA",30861
+30872,"Reading, PA",30861
+30873,"Scranton--Wilkes-Barre, PA",30861
+30874,"State College, PA",30861
+30875,"Williamsport, PA",30861
+30876,"York-Hanover, PA",30861
+30877,"Youngstown-Warren-Boardman, OH-PA",30861
+32877,"Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (CMSA)",32874
+32876,"Pittsburgh, PA (MSA)",32874
+33421,"Montgomery County-Bucks County-Chester County, PA",33167
+33168,"Newark, NJ-PA",33167
+33169,"Philadelphia, PA",33167
+33687,"Delaware County, PA",33472
+33473,"Philadelphia City, PA",33472
+33477,"Aguadilla-Isabela, PR",33475
+33613,"Arecibo, PR",33475
+33478,"Fajardo, PR",33475
+33479,"Guayama, PR",33475
+33480,"Mayaguez, PR",33475
+33476,"Ponce, PR",33475
+33481,"San German, PR",33475
+33482,"San Juan-Bayamon-Caguas, PR",33475
+33483,"Yauco, PR",33475
+29683,"Bristol County, RI",29682
+29684,"Kent County, RI",29682
+29685,"Newport County, RI",29682
+29686,"Providence County, RI",29682
+29687,"Washington County, RI",29682
+30880,"Providence-Warwick, RI-MA",30879
+32133,"Norwich-New London, CT-RI",32087
+32134,"Providence-Fall River-Warwick, RI-MA",32087
+29689,"Abbeville County, SC",29688
+29690,"Aiken County, SC",29688
+29691,"Allendale County, SC",29688
+29692,"Anderson County, SC",29688
+29693,"Bamberg County, SC",29688
+29694,"Barnwell County, SC",29688
+29695,"Beaufort County, SC",29688
+29696,"Berkeley County, SC",29688
+29697,"Calhoun County, SC",29688
+29698,"Charleston County, SC",29688
+29699,"Cherokee County, SC",29688
+29700,"Chester County, SC",29688
+29701,"Chesterfield County, SC",29688
+29702,"Clarendon County, SC",29688
+29703,"Colleton County, SC",29688
+29704,"Darlington County, SC",29688
+29705,"Dillon County, SC",29688
+29706,"Dorchester County, SC",29688
+29707,"Edgefield County, SC",29688
+29708,"Fairfield County, SC",29688
+29709,"Florence County, SC",29688
+29710,"Georgetown County, SC",29688
+29711,"Greenville County, SC",29688
+29712,"Greenwood County, SC",29688
+29713,"Hampton County, SC",29688
+29714,"Horry County, SC",29688
+29715,"Jasper County, SC",29688
+29716,"Kershaw County, SC",29688
+29717,"Lancaster County, SC",29688
+29718,"Laurens County, SC",29688
+29719,"Lee County, SC",29688
+29720,"Lexington County, SC",29688
+29721,"Marion County, SC",29688
+29722,"Marlboro County, SC",29688
+29723,"McCormick County, SC",29688
+29724,"Newberry County, SC",29688
+29725,"Oconee County, SC",29688
+29726,"Orangeburg County, SC",29688
+29727,"Pickens County, SC",29688
+29728,"Richland County, SC",29688
+29729,"Saluda County, SC",29688
+29730,"Spartanburg County, SC",29688
+29731,"Sumter County, SC",29688
+29732,"Union County, SC",29688
+29733,"Williamsburg County, SC",29688
+29734,"York County, SC",29688
+30882,"Anderson, SC",30881
+30883,"Augusta-Richmond County, GA-SC",30881
+30884,"Charleston-North Charleston, SC",30881
+30885,"Charlotte-Concord-Gastonia, NC-SC",30881
+30886,"Columbia, SC",30881
+30887,"Florence, SC",30881
+30888,"Greenville-Anderson, SC",30881
+33426,"Hilton Head Island-Bluffton, SC",30881
+33625,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",30881
+30890,"Spartanburg, SC",30881
+30891,"Sumter, SC",30881
+29736,"Aurora County, SD",29735
+29737,"Beadle County, SD",29735
+29738,"Bennett County, SD",29735
+29739,"Bon Homme County, SD",29735
+29740,"Brookings County, SD",29735
+29741,"Brown County, SD",29735
+29742,"Brule County, SD",29735
+29743,"Buffalo County, SD",29735
+29744,"Butte County, SD",29735
+29745,"Campbell County, SD",29735
+29746,"Charles Mix County, SD",29735
+29747,"Clark County, SD",29735
+29748,"Clay County, SD",29735
+29749,"Codington County, SD",29735
+29750,"Corson County, SD",29735
+29751,"Custer County, SD",29735
+29752,"Davison County, SD",29735
+29753,"Day County, SD",29735
+29754,"Deuel County, SD",29735
+29755,"Dewey County, SD",29735
+29756,"Douglas County, SD",29735
+29757,"Edmunds County, SD",29735
+29758,"Fall River County, SD",29735
+29759,"Faulk County, SD",29735
+29760,"Grant County, SD",29735
+29761,"Gregory County, SD",29735
+29762,"Haakon County, SD",29735
+29763,"Hamlin County, SD",29735
+29764,"Hand County, SD",29735
+29765,"Hanson County, SD",29735
+29766,"Harding County, SD",29735
+29767,"Hughes County, SD",29735
+29768,"Hutchinson County, SD",29735
+29769,"Hyde County, SD",29735
+29770,"Jackson County, SD",29735
+29771,"Jerauld County, SD",29735
+29772,"Jones County, SD",29735
+29773,"Kingsbury County, SD",29735
+29774,"Lake County, SD",29735
+29775,"Lawrence County, SD",29735
+29776,"Lincoln County, SD",29735
+29777,"Lyman County, SD",29735
+29778,"Marshall County, SD",29735
+29779,"McCook County, SD",29735
+29780,"McPherson County, SD",29735
+29781,"Meade County, SD",29735
+29782,"Mellette County, SD",29735
+29783,"Miner County, SD",29735
+29784,"Minnehaha County, SD",29735
+29785,"Moody County, SD",29735
+33805,"Oglala Lakota County, SD",29735
+29786,"Pennington County, SD",29735
+29787,"Perkins County, SD",29735
+29788,"Potter County, SD",29735
+29789,"Roberts County, SD",29735
+29790,"Sanborn County, SD",29735
+29791,"Shannon County, SD",29735
+29792,"Spink County, SD",29735
+29793,"Stanley County, SD",29735
+29794,"Sully County, SD",29735
+29795,"Todd County, SD",29735
+29796,"Tripp County, SD",29735
+29797,"Turner County, SD",29735
+29798,"Union County, SD",29735
+29799,"Walworth County, SD",29735
+29800,"Yankton County, SD",29735
+29801,"Ziebach County, SD",29735
+30893,"Rapid City, SD",30892
+30894,"Sioux City, IA-NE-SD",30892
+30895,"Sioux Falls, SD",30892
+29803,"Anderson County, TN",29802
+29804,"Bedford County, TN",29802
+204,"Benton County, TN",29802
+29806,"Bledsoe County, TN",29802
+29807,"Blount County, TN",29802
+29808,"Bradley County, TN",29802
+29809,"Campbell County, TN",29802
+29810,"Cannon County, TN",29802
+205,"Carroll County, TN",29802
+29812,"Carter County, TN",29802
+29813,"Cheatham County, TN",29802
+206,"Chester County, TN",29802
+29815,"Claiborne County, TN",29802
+29816,"Clay County, TN",29802
+29817,"Cocke County, TN",29802
+29818,"Coffee County, TN",29802
+207,"Crockett County, TN",29802
+29820,"Cumberland County, TN",29802
+29821,"Davidson County, TN",29802
+208,"Decatur County, TN",29802
+29823,"De Kalb County, TN",29802
+29824,"Dickson County, TN",29802
+209,"Dyer County, TN",29802
+210,"Fayette County, TN",29802
+29827,"Fentress County, TN",29802
+29828,"Franklin County, TN",29802
+211,"Gibson County, TN",29802
+29830,"Giles County, TN",29802
+29831,"Grainger County, TN",29802
+29832,"Greene County, TN",29802
+29833,"Grundy County, TN",29802
+29834,"Hamblen County, TN",29802
+29835,"Hamilton County, TN",29802
+29836,"Hancock County, TN",29802
+213,"Hardeman County, TN",29802
+212,"Hardin County, TN",29802
+29839,"Hawkins County, TN",29802
+214,"Haywood County, TN",29802
+215,"Henderson County, TN",29802
+216,"Henry County, TN",29802
+29843,"Hickman County, TN",29802
+29844,"Houston County, TN",29802
+29845,"Humphreys County, TN",29802
+29846,"Jackson County, TN",29802
+29847,"Jefferson County, TN",29802
+29848,"Johnson County, TN",29802
+29849,"Knox County, TN",29802
+217,"Lake County, TN",29802
+218,"Lauderdale County, TN",29802
+29852,"Lawrence County, TN",29802
+29853,"Lewis County, TN",29802
+29854,"Lincoln County, TN",29802
+29855,"Loudon County, TN",29802
+29856,"Macon County, TN",29802
+219,"Madison County, TN",29802
+29858,"Marion County, TN",29802
+29859,"Marshall County, TN",29802
+29860,"Maury County, TN",29802
+29861,"McMinn County, TN",29802
+220,"McNairy County, TN",29802
+29863,"Meigs County, TN",29802
+29864,"Monroe County, TN",29802
+29865,"Montgomery County, TN",29802
+29866,"Moore County, TN",29802
+29867,"Morgan County, TN",29802
+221,"Obion County, TN",29802
+29869,"Overton County, TN",29802
+29870,"Perry County, TN",29802
+29871,"Pickett County, TN",29802
+29872,"Polk County, TN",29802
+29873,"Putnam County, TN",29802
+29874,"Rhea County, TN",29802
+29875,"Roane County, TN",29802
+29876,"Robertson County, TN",29802
+29877,"Rutherford County, TN",29802
+29878,"Scott County, TN",29802
+29879,"Sequatchie County, TN",29802
+29880,"Sevier County, TN",29802
+222,"Shelby County, TN",29802
+29882,"Smith County, TN",29802
+29883,"Stewart County, TN",29802
+29884,"Sullivan County, TN",29802
+29885,"Sumner County, TN",29802
+223,"Tipton County, TN",29802
+29887,"Trousdale County, TN",29802
+29888,"Unicoi County, TN",29802
+29889,"Union County, TN",29802
+29890,"Van Buren County, TN",29802
+29891,"Warren County, TN",29802
+29892,"Washington County, TN",29802
+29893,"Wayne County, TN",29802
+224,"Weakley County, TN",29802
+29895,"White County, TN",29802
+29896,"Williamson County, TN",29802
+29897,"Wilson County, TN",29802
+30897,"Chattanooga, TN-GA",30896
+341,"Clarksville, TN-KY",30896
+30899,"Cleveland, TN",30896
+336,"Jackson, TN",30896
+30901,"Johnson City, TN",30896
+30902,"Kingsport-Bristol, TN-VA",30896
+30903,"Knoxville, TN",30896
+30904,"Memphis, TN-MS-AR",30896
+30905,"Morristown, TN",30896
+30906,"Nashville-Davidson--Murfreesboro--Franklin, TN",30896
+29899,"Anderson County, TX",29898
+29900,"Andrews County, TX",29898
+29901,"Angelina County, TX",29898
+29902,"Aransas County, TX",29898
+29903,"Archer County, TX",29898
+29904,"Armstrong County, TX",29898
+29905,"Atascosa County, TX",29898
+29906,"Austin County, TX",29898
+29907,"Bailey County, TX",29898
+29908,"Bandera County, TX",29898
+29909,"Bastrop County, TX",29898
+29910,"Baylor County, TX",29898
+29911,"Bee County, TX",29898
+29912,"Bell County, TX",29898
+29913,"Bexar County, TX",29898
+29914,"Blanco County, TX",29898
+29915,"Borden County, TX",29898
+29916,"Bosque County, TX",29898
+29917,"Bowie County, TX",29898
+29918,"Brazoria County, TX",29898
+29919,"Brazos County, TX",29898
+29920,"Brewster County, TX",29898
+29921,"Briscoe County, TX",29898
+29922,"Brooks County, TX",29898
+29923,"Brown County, TX",29898
+29924,"Burleson County, TX",29898
+29925,"Burnet County, TX",29898
+29926,"Caldwell County, TX",29898
+29927,"Calhoun County, TX",29898
+29928,"Callahan County, TX",29898
+29929,"Cameron County, TX",29898
+29930,"Camp County, TX",29898
+29931,"Carson County, TX",29898
+29932,"Cass County, TX",29898
+29933,"Castro County, TX",29898
+29934,"Chambers County, TX",29898
+29935,"Cherokee County, TX",29898
+29936,"Childress County, TX",29898
+29937,"Clay County, TX",29898
+29938,"Cochran County, TX",29898
+29939,"Coke County, TX",29898
+29940,"Coleman County, TX",29898
+29941,"Collin County, TX",29898
+29942,"Collingsworth County, TX",29898
+29943,"Colorado County, TX",29898
+29944,"Comal County, TX",29898
+29945,"Comanche County, TX",29898
+29946,"Concho County, TX",29898
+29947,"Cooke County, TX",29898
+29948,"Coryell County, TX",29898
+29949,"Cottle County, TX",29898
+29950,"Crane County, TX",29898
+29951,"Crockett County, TX",29898
+29952,"Crosby County, TX",29898
+29953,"Culberson County, TX",29898
+29954,"Dallam County, TX",29898
+29955,"Dallas County, TX",29898
+29956,"Dawson County, TX",29898
+29957,"Deaf Smith County, TX",29898
+29958,"Delta County, TX",29898
+29959,"Denton County, TX",29898
+29960,"De Witt County, TX",29898
+29961,"Dickens County, TX",29898
+29962,"Dimmit County, TX",29898
+29963,"Donley County, TX",29898
+29964,"Duval County, TX",29898
+29965,"Eastland County, TX",29898
+29966,"Ector County, TX",29898
+29967,"Edwards County, TX",29898
+29968,"Ellis County, TX",29898
+29969,"El Paso County, TX",29898
+29970,"Erath County, TX",29898
+29971,"Falls County, TX",29898
+29972,"Fannin County, TX",29898
+29973,"Fayette County, TX",29898
+29974,"Fisher County, TX",29898
+29975,"Floyd County, TX",29898
+29976,"Foard County, TX",29898
+29977,"Fort Bend County, TX",29898
+29978,"Franklin County, TX",29898
+29979,"Freestone County, TX",29898
+29980,"Frio County, TX",29898
+29981,"Gaines County, TX",29898
+29982,"Galveston County, TX",29898
+29983,"Garza County, TX",29898
+29984,"Gillespie County, TX",29898
+29985,"Glasscock County, TX",29898
+29986,"Goliad County, TX",29898
+29987,"Gonzales County, TX",29898
+29988,"Gray County, TX",29898
+29989,"Grayson County, TX",29898
+29990,"Gregg County, TX",29898
+29991,"Grimes County, TX",29898
+29992,"Guadalupe County, TX",29898
+29993,"Hale County, TX",29898
+29994,"Hall County, TX",29898
+29995,"Hamilton County, TX",29898
+29996,"Hansford County, TX",29898
+29997,"Hardeman County, TX",29898
+29998,"Hardin County, TX",29898
+29999,"Harris County, TX",29898
+30000,"Harrison County, TX",29898
+30001,"Hartley County, TX",29898
+30002,"Haskell County, TX",29898
+30003,"Hays County, TX",29898
+30004,"Hemphill County, TX",29898
+30005,"Henderson County, TX",29898
+30006,"Hidalgo County, TX",29898
+30007,"Hill County, TX",29898
+30008,"Hockley County, TX",29898
+30009,"Hood County, TX",29898
+30010,"Hopkins County, TX",29898
+30011,"Houston County, TX",29898
+30012,"Howard County, TX",29898
+30013,"Hudspeth County, TX",29898
+30014,"Hunt County, TX",29898
+30015,"Hutchinson County, TX",29898
+30016,"Irion County, TX",29898
+30017,"Jack County, TX",29898
+30018,"Jackson County, TX",29898
+30019,"Jasper County, TX",29898
+30020,"Jeff Davis County, TX",29898
+30021,"Jefferson County, TX",29898
+30022,"Jim Hogg County, TX",29898
+30023,"Jim Wells County, TX",29898
+30024,"Johnson County, TX",29898
+30025,"Jones County, TX",29898
+30026,"Karnes County, TX",29898
+30027,"Kaufman County, TX",29898
+30028,"Kendall County, TX",29898
+30029,"Kenedy County, TX",29898
+30030,"Kent County, TX",29898
+30031,"Kerr County, TX",29898
+30032,"Kimble County, TX",29898
+30033,"King County, TX",29898
+30034,"Kinney County, TX",29898
+30035,"Kleberg County, TX",29898
+30036,"Knox County, TX",29898
+30037,"Lamar County, TX",29898
+30038,"Lamb County, TX",29898
+30039,"Lampasas County, TX",29898
+30040,"La Salle County, TX",29898
+30041,"Lavaca County, TX",29898
+30042,"Lee County, TX",29898
+30043,"Leon County, TX",29898
+30044,"Liberty County, TX",29898
+30045,"Limestone County, TX",29898
+30046,"Lipscomb County, TX",29898
+30047,"Live Oak County, TX",29898
+30048,"Llano County, TX",29898
+30049,"Loving County, TX",29898
+30050,"Lubbock County, TX",29898
+30051,"Lynn County, TX",29898
+30052,"Madison County, TX",29898
+30053,"Marion County, TX",29898
+30054,"Martin County, TX",29898
+30055,"Mason County, TX",29898
+30056,"Matagorda County, TX",29898
+30057,"Maverick County, TX",29898
+30058,"McCulloch County, TX",29898
+30059,"McLennan County, TX",29898
+30060,"McMullen County, TX",29898
+30061,"Medina County, TX",29898
+30062,"Menard County, TX",29898
+30063,"Midland County, TX",29898
+30064,"Milam County, TX",29898
+30065,"Mills County, TX",29898
+30066,"Mitchell County, TX",29898
+30067,"Montague County, TX",29898
+30068,"Montgomery County, TX",29898
+30069,"Moore County, TX",29898
+30070,"Morris County, TX",29898
+30071,"Motley County, TX",29898
+30072,"Nacogdoches County, TX",29898
+30073,"Navarro County, TX",29898
+30074,"Newton County, TX",29898
+30075,"Nolan County, TX",29898
+30076,"Nueces County, TX",29898
+30077,"Ochiltree County, TX",29898
+30078,"Oldham County, TX",29898
+30079,"Orange County, TX",29898
+30080,"Palo Pinto County, TX",29898
+30081,"Panola County, TX",29898
+30082,"Parker County, TX",29898
+30083,"Parmer County, TX",29898
+30084,"Pecos County, TX",29898
+30085,"Polk County, TX",29898
+30086,"Potter County, TX",29898
+30087,"Presidio County, TX",29898
+30088,"Rains County, TX",29898
+30089,"Randall County, TX",29898
+30090,"Reagan County, TX",29898
+30091,"Real County, TX",29898
+30092,"Red River County, TX",29898
+30093,"Reeves County, TX",29898
+30094,"Refugio County, TX",29898
+30095,"Roberts County, TX",29898
+30096,"Robertson County, TX",29898
+30097,"Rockwall County, TX",29898
+30098,"Runnels County, TX",29898
+30099,"Rusk County, TX",29898
+30100,"Sabine County, TX",29898
+30101,"San Augustine County, TX",29898
+30102,"San Jacinto County, TX",29898
+30103,"San Patricio County, TX",29898
+30104,"San Saba County, TX",29898
+30105,"Schleicher County, TX",29898
+30106,"Scurry County, TX",29898
+30107,"Shackelford County, TX",29898
+30108,"Shelby County, TX",29898
+30109,"Sherman County, TX",29898
+30110,"Smith County, TX",29898
+30111,"Somervell County, TX",29898
+30112,"Starr County, TX",29898
+30113,"Stephens County, TX",29898
+30114,"Sterling County, TX",29898
+30115,"Stonewall County, TX",29898
+30116,"Sutton County, TX",29898
+30117,"Swisher County, TX",29898
+30118,"Tarrant County, TX",29898
+30119,"Taylor County, TX",29898
+30120,"Terrell County, TX",29898
+30121,"Terry County, TX",29898
+30122,"Throckmorton County, TX",29898
+30123,"Titus County, TX",29898
+30124,"Tom Green County, TX",29898
+30125,"Travis County, TX",29898
+30126,"Trinity County, TX",29898
+30127,"Tyler County, TX",29898
+30128,"Upshur County, TX",29898
+30129,"Upton County, TX",29898
+30130,"Uvalde County, TX",29898
+30131,"Val Verde County, TX",29898
+30132,"Van Zandt County, TX",29898
+30133,"Victoria County, TX",29898
+30134,"Walker County, TX",29898
+30135,"Waller County, TX",29898
+30136,"Ward County, TX",29898
+30137,"Washington County, TX",29898
+30138,"Webb County, TX",29898
+30139,"Wharton County, TX",29898
+30140,"Wheeler County, TX",29898
+30141,"Wichita County, TX",29898
+30142,"Wilbarger County, TX",29898
+30143,"Willacy County, TX",29898
+30144,"Williamson County, TX",29898
+30145,"Wilson County, TX",29898
+30146,"Winkler County, TX",29898
+30147,"Wise County, TX",29898
+30148,"Wood County, TX",29898
+30149,"Yoakum County, TX",29898
+30150,"Young County, TX",29898
+30151,"Zapata County, TX",29898
+30152,"Zavala County, TX",29898
+30908,"Abilene, TX",30907
+30909,"Amarillo, TX",30907
+30910,"Austin-Round Rock-Georgetown, TX",30907
+30911,"Beaumont-Port Arthur, TX",30907
+30912,"Brownsville-Harlingen, TX",30907
+30913,"College Station-Bryan, TX",30907
+30914,"Corpus Christi, TX",30907
+30915,"Dallas-Fort Worth-Arlington, TX",30907
+30916,"El Paso, TX",30907
+30917,"Houston-The Woodlands-Sugar Land, TX",30907
+30918,"Killeen-Temple, TX",30907
+30919,"Laredo, TX",30907
+30920,"Longview, TX",30907
+30921,"Lubbock, TX",30907
+30922,"McAllen-Edinburg-Mission, TX",30907
+30923,"Midland, TX",30907
+30924,"Odessa, TX",30907
+30925,"San Angelo, TX",30907
+30926,"San Antonio, TX",30907
+30927,"Sherman-Denison, TX",30907
+30928,"Texarkana, TX-AR",30907
+30929,"Tyler, TX",30907
+30930,"Victoria, TX",30907
+30931,"Waco, TX",30907
+30932,"Wichita Falls, TX",30907
+32909,"Dallas-Fort Worth, TX (CMSA)",32897
+32898,"Houston-Galveston-Brazoria, TX (CMSA)",32897
+33148,"Dallas-Plano-Irving, TX",33147
+33149,"Fort Worth-Arlington, TX",33147
+30155,"Beaver County, UT",30154
+30156,"Box Elder County, UT",30154
+30157,"Cache County, UT",30154
+30158,"Carbon County, UT",30154
+30159,"Daggett County, UT",30154
+30160,"Davis County, UT",30154
+30161,"Duchesne County, UT",30154
+30162,"Emery County, UT",30154
+30163,"Garfield County, UT",30154
+30164,"Grand County, UT",30154
+30165,"Iron County, UT",30154
+30166,"Juab County, UT",30154
+30167,"Kane County, UT",30154
+30168,"Millard County, UT",30154
+30169,"Morgan County, UT",30154
+30170,"Piute County, UT",30154
+30171,"Rich County, UT",30154
+30172,"Salt Lake County, UT",30154
+30173,"San Juan County, UT",30154
+30174,"Sanpete County, UT",30154
+30175,"Sevier County, UT",30154
+30176,"Summit County, UT",30154
+30177,"Tooele County, UT",30154
+30178,"Uintah County, UT",30154
+30179,"Utah County, UT",30154
+30180,"Wasatch County, UT",30154
+30181,"Washington County, UT",30154
+30182,"Wayne County, UT",30154
+30183,"Weber County, UT",30154
+30935,"Logan, UT-ID",30934
+30936,"Ogden-Clearfield, UT",30934
+30937,"Provo-Orem, UT",30934
+30938,"Salt Lake City, UT",30934
+30939,"St. George, UT",30934
+30185,"Addison County, VT",30184
+30186,"Bennington County, VT",30184
+30187,"Caledonia County, VT",30184
+30188,"Chittenden County, VT",30184
+30189,"Essex County, VT",30184
+30190,"Franklin County, VT",30184
+30191,"Grand Isle County, VT",30184
+30192,"Lamoille County, VT",30184
+30193,"Orange County, VT",30184
+30194,"Orleans County, VT",30184
+30195,"Rutland County, VT",30184
+30196,"Washington County, VT",30184
+30197,"Windham County, VT",30184
+30198,"Windsor County, VT",30184
+32135,"Barre, VT",32088
+32136,"Bennington, VT",32088
+32137,"Burlington-South Burlington, VT",32088
+32138,"Lebanon, NH-VT",32088
+32139,"North Adams, MA-VT",32088
+32140,"Rutland, VT",32088
+30941,"Burlington-South Burlington, VT",30940
+30200,"Accomack County, VA",30199
+30201,"Albemarle County, VA",30199
+30202,"Alexandria City, VA",30199
+30203,"Alleghany County, VA",30199
+30204,"Amelia County, VA",30199
+30205,"Amherst County, VA",30199
+30206,"Appomattox County, VA",30199
+30207,"Arlington County, VA",30199
+30208,"Augusta County, VA",30199
+30209,"Bath County, VA",30199
+30210,"Bedford County, VA",30199
+30211,"Bedford City, VA",30199
+30212,"Bland County, VA",30199
+30213,"Botetourt County, VA",30199
+30214,"Bristol City, VA",30199
+30215,"Brunswick County, VA",30199
+30216,"Buchanan County, VA",30199
+30217,"Buckingham County, VA",30199
+30218,"Buena Vista City, VA",30199
+30219,"Campbell County, VA",30199
+30220,"Caroline County, VA",30199
+30221,"Carroll County, VA",30199
+30222,"Charles City County, VA",30199
+30223,"Charlotte County, VA",30199
+30224,"Charlottesville City, VA",30199
+30225,"Chesapeake City, VA",30199
+30226,"Chesterfield County, VA",30199
+30227,"Clarke County, VA",30199
+30228,"Clifton Forge City, VA",30199
+30229,"Colonial Heights City, VA",30199
+30230,"Covington City, VA",30199
+30231,"Craig County, VA",30199
+30232,"Culpeper County, VA",30199
+30233,"Cumberland County, VA",30199
+30234,"Danville City, VA",30199
+30235,"Dickenson County, VA",30199
+30236,"Dinwiddie County, VA",30199
+30237,"Emporia City, VA",30199
+30238,"Essex County, VA",30199
+30239,"Fairfax County, VA",30199
+30240,"Fairfax City, VA",30199
+30241,"Falls Church City, VA",30199
+30242,"Fauquier County, VA",30199
+30243,"Floyd County, VA",30199
+30244,"Fluvanna County, VA",30199
+30245,"Franklin County, VA",30199
+30246,"Franklin City, VA",30199
+30247,"Frederick County, VA",30199
+30248,"Fredericksburg City, VA",30199
+30249,"Galax City, VA",30199
+30250,"Giles County, VA",30199
+30251,"Gloucester County, VA",30199
+30252,"Goochland County, VA",30199
+30253,"Grayson County, VA",30199
+30254,"Greene County, VA",30199
+30255,"Greensville County, VA",30199
+30256,"Halifax County, VA",30199
+30257,"Hampton City, VA",30199
+30258,"Hanover County, VA",30199
+30259,"Harrisonburg City, VA",30199
+30260,"Henrico County, VA",30199
+30261,"Henry County, VA",30199
+30262,"Highland County, VA",30199
+30263,"Hopewell City, VA",30199
+30264,"Isle of Wight County, VA",30199
+30265,"James City County, VA",30199
+30266,"King and Queen County, VA",30199
+30267,"King George County, VA",30199
+30268,"King William County, VA",30199
+30269,"Lancaster County, VA",30199
+30270,"Lee County, VA",30199
+30271,"Lexington City, VA",30199
+30272,"Loudoun County, VA",30199
+30273,"Louisa County, VA",30199
+30274,"Lunenburg County, VA",30199
+30275,"Lynchburg City, VA",30199
+30276,"Madison County, VA",30199
+30277,"Manassas City, VA",30199
+30278,"Manassas Park City, VA",30199
+30279,"Martinsville City, VA",30199
+30280,"Mathews County, VA",30199
+30281,"Mecklenburg County, VA",30199
+30282,"Middlesex County, VA",30199
+30283,"Montgomery County, VA",30199
+30284,"Nelson County, VA",30199
+30285,"New Kent County, VA",30199
+30286,"Newport News City, VA",30199
+30287,"Norfolk City, VA",30199
+30288,"Northampton County, VA",30199
+30289,"Northumberland County, VA",30199
+30290,"Norton City, VA",30199
+30291,"Nottoway County, VA",30199
+30292,"Orange County, VA",30199
+30293,"Page County, VA",30199
+30294,"Patrick County, VA",30199
+30295,"Petersburg City, VA",30199
+30296,"Pittsylvania County, VA",30199
+30297,"Poquoson City, VA",30199
+30298,"Portsmouth City, VA",30199
+30299,"Powhatan County, VA",30199
+30300,"Prince Edward County, VA",30199
+30301,"Prince George County, VA",30199
+30302,"Prince William County, VA",30199
+30303,"Pulaski County, VA",30199
+30304,"Radford City, VA",30199
+30305,"Rappahannock County, VA",30199
+30306,"Richmond County, VA",30199
+30307,"Richmond City, VA",30199
+30308,"Roanoke County, VA",30199
+30309,"Roanoke City, VA",30199
+30310,"Rockbridge County, VA",30199
+30311,"Rockingham County, VA",30199
+30312,"Russell County, VA",30199
+30313,"Salem City, VA",30199
+30314,"Scott County, VA",30199
+30315,"Shenandoah County, VA",30199
+30316,"Smyth County, VA",30199
+32143,"South Boston City, VA",30199
+30317,"Southampton County, VA",30199
+30319,"Spotsylvania County, VA",30199
+30320,"Stafford County, VA",30199
+30321,"Staunton City, VA",30199
+30322,"Suffolk City, VA",30199
+30323,"Surry County, VA",30199
+30324,"Sussex County, VA",30199
+30325,"Tazewell County, VA",30199
+30326,"Virginia Beach City, VA",30199
+30327,"Warren County, VA",30199
+30328,"Washington County, VA",30199
+30329,"Waynesboro City, VA",30199
+30330,"Westmoreland County, VA",30199
+30331,"Williamsburg City, VA",30199
+30332,"Winchester City, VA",30199
+30333,"Wise County, VA",30199
+30334,"Wythe County, VA",30199
+30335,"York County, VA",30199
+33806,"Albemarle County + Charlottesville City, VA",30199
+33807,"Alleghany County + Covington City, VA",30199
+33808,"Campbell County + Lynchburg City, VA",30199
+33809,"Carroll County + Galax City, VA",30199
+33810,"Frederick County + Winchester City, VA",30199
+33811,"Greensville County + Emporia City, VA",30199
+33812,"Henry County + Martinsville City, VA",30199
+33813,"James City County + Williamsburg City, VA",30199
+33814,"Montgomery County + Radford City, VA",30199
+33815,"Pittsylvania County + Danville City, VA",30199
+33816,"Prince George County + Hopewell City, VA",30199
+33817,"Roanoke County + Salem City, VA",30199
+33818,"Rockingham County + Harrisonburg City, VA",30199
+33819,"Southampton County + Franklin City, VA",30199
+33820,"Spotsylvania County + Fredericksburg City, VA",30199
+33821,"Washington County + Bristol City, VA",30199
+33822,"Wise County + Norton City, VA",30199
+33823,"York County + Poquoson City, VA",30199
+33923,"Augusta, Staunton + Waynesboro County, VA",30199
+33925,"Dinwiddie, Colonial Heights + Petersburg County, VA",30199
+33927,"Fairfax, Fairfax City + Falls Church County, VA",30199
+33929,"Prince William, Manassas + Manassas Park County, VA",30199
+33931,"Rockbridge, Buena Vista + Lexington County, VA",30199
+30943,"Blacksburg-Christiansburg, VA",30942
+30945,"Charlottesville, VA",30942
+30946,"Danville, VA",30942
+30947,"Harrisonburg, VA",30942
+30948,"Kingsport-Bristol, TN-VA",30942
+30949,"Lynchburg, VA",30942
+30950,"Richmond, VA",30942
+30951,"Roanoke, VA",30942
+33437,"Staunton, VA",30942
+30952,"Virginia Beach-Norfolk-Newport News, VA-NC",30942
+30953,"Washington-Arlington-Alexandria, DC-VA-MD-WV",30942
+30954,"Winchester, VA-WV",30942
+32924,"Washington-Baltimore, DC-MD-VA-WV (CMSA)",32923
+33180,"Washington-Arlington-Alexandria, DC-VA-MD-WV",33179
+33485,"Northern Virginia, VA",33484
+30377,"Barbour County, WV",30376
+30378,"Berkeley County, WV",30376
+30379,"Boone County, WV",30376
+30380,"Braxton County, WV",30376
+30381,"Brooke County, WV",30376
+30382,"Cabell County, WV",30376
+30383,"Calhoun County, WV",30376
+30384,"Clay County, WV",30376
+30385,"Doddridge County, WV",30376
+30386,"Fayette County, WV",30376
+30387,"Gilmer County, WV",30376
+30388,"Grant County, WV",30376
+30389,"Greenbrier County, WV",30376
+30390,"Hampshire County, WV",30376
+30391,"Hancock County, WV",30376
+30392,"Hardy County, WV",30376
+30393,"Harrison County, WV",30376
+30394,"Jackson County, WV",30376
+30395,"Jefferson County, WV",30376
+30396,"Kanawha County, WV",30376
+30397,"Lewis County, WV",30376
+30398,"Lincoln County, WV",30376
+30399,"Logan County, WV",30376
+30400,"Marion County, WV",30376
+30401,"Marshall County, WV",30376
+30402,"Mason County, WV",30376
+30403,"McDowell County, WV",30376
+30404,"Mercer County, WV",30376
+30405,"Mineral County, WV",30376
+30406,"Mingo County, WV",30376
+30407,"Monongalia County, WV",30376
+30408,"Monroe County, WV",30376
+30409,"Morgan County, WV",30376
+30410,"Nicholas County, WV",30376
+30411,"Ohio County, WV",30376
+30412,"Pendleton County, WV",30376
+30413,"Pleasants County, WV",30376
+30414,"Pocahontas County, WV",30376
+30415,"Preston County, WV",30376
+30416,"Putnam County, WV",30376
+30417,"Raleigh County, WV",30376
+30418,"Randolph County, WV",30376
+30419,"Ritchie County, WV",30376
+30420,"Roane County, WV",30376
+30421,"Summers County, WV",30376
+30422,"Taylor County, WV",30376
+30423,"Tucker County, WV",30376
+30424,"Tyler County, WV",30376
+30425,"Upshur County, WV",30376
+30426,"Wayne County, WV",30376
+30427,"Webster County, WV",30376
+30428,"Wetzel County, WV",30376
+30429,"Wirt County, WV",30376
+30430,"Wood County, WV",30376
+30431,"Wyoming County, WV",30376
+33412,"Beckley, WV",30968
+30969,"Charleston, WV",30968
+30970,"Cumberland, MD-WV",30968
+30971,"Hagerstown-Martinsburg, MD-WV",30968
+30972,"Huntington-Ashland, WV-KY-OH",30968
+30973,"Morgantown, WV",30968
+30974,"Parkersburg-Vienna, WV",30968
+30975,"Washington-Arlington-Alexandria, DC-VA-MD-WV",30968
+30976,"Weirton-Steubenville, WV-OH",30968
+30977,"Wheeling, WV-OH",30968
+30978,"Winchester, VA-WV",30968
+32926,"Washington-Baltimore, DC-MD-VA-WV (CMSA)",32925
+33182,"Washington-Arlington-Alexandria, DC-VA-MD-WV",33181
+30337,"Adams County, WA",30336
+30338,"Asotin County, WA",30336
+30339,"Benton County, WA",30336
+30340,"Chelan County, WA",30336
+30341,"Clallam County, WA",30336
+30342,"Clark County, WA",30336
+30343,"Columbia County, WA",30336
+30344,"Cowlitz County, WA",30336
+30345,"Douglas County, WA",30336
+30346,"Ferry County, WA",30336
+30347,"Franklin County, WA",30336
+30348,"Garfield County, WA",30336
+30349,"Grant County, WA",30336
+30350,"Grays Harbor County, WA",30336
+30351,"Island County, WA",30336
+30352,"Jefferson County, WA",30336
+30353,"King County, WA",30336
+30354,"Kitsap County, WA",30336
+30355,"Kittitas County, WA",30336
+30356,"Klickitat County, WA",30336
+30357,"Lewis County, WA",30336
+30358,"Lincoln County, WA",30336
+30359,"Mason County, WA",30336
+30360,"Okanogan County, WA",30336
+30361,"Pacific County, WA",30336
+30362,"Pend Oreille County, WA",30336
+30363,"Pierce County, WA",30336
+30364,"San Juan County, WA",30336
+30365,"Skagit County, WA",30336
+30366,"Skamania County, WA",30336
+30367,"Snohomish County, WA",30336
+30368,"Spokane County, WA",30336
+30369,"Stevens County, WA",30336
+30370,"Thurston County, WA",30336
+30371,"Wahkiakum County, WA",30336
+30372,"Walla Walla County, WA",30336
+30373,"Whatcom County, WA",30336
+30374,"Whitman County, WA",30336
+30375,"Yakima County, WA",30336
+30956,"Bellingham, WA",30955
+30957,"Bremerton-Silverdale-Port Orchard, WA",30955
+30958,"Kennewick-Richland, WA",30955
+30959,"Lewiston, ID-WA",30955
+30960,"Longview, WA",30955
+30961,"Mount Vernon-Anacortes, WA",30955
+30962,"Olympia-Lacey-Tumwater, WA",30955
+30963,"Portland-Vancouver-Beaverton, OR-WA",30955
+30964,"Seattle-Tacoma-Bellevue, WA",30955
+30965,"Spokane-Spokane Valley, WA",30955
+33438,"Walla Walla, WA",30955
+30966,"Wenatchee, WA",30955
+30967,"Yakima, WA",30955
+32939,"Portland-Salem, OR-WA (CMSA)",32905
+32906,"Seattle-Tacoma-Bremerton, WA (CMSA)",32905
+33173,"Seattle-Bellevue-Everett, WA",33172
+33174,"Tacoma-Lakewood, WA",33172
+30433,"Adams County, WI",30432
+30434,"Ashland County, WI",30432
+30435,"Barron County, WI",30432
+30436,"Bayfield County, WI",30432
+30437,"Brown County, WI",30432
+30438,"Buffalo County, WI",30432
+30439,"Burnett County, WI",30432
+30440,"Calumet County, WI",30432
+30441,"Chippewa County, WI",30432
+30442,"Clark County, WI",30432
+30443,"Columbia County, WI",30432
+30444,"Crawford County, WI",30432
+30445,"Dane County, WI",30432
+30446,"Dodge County, WI",30432
+30447,"Door County, WI",30432
+30448,"Douglas County, WI",30432
+30449,"Dunn County, WI",30432
+30450,"Eau Claire County, WI",30432
+30451,"Florence County, WI",30432
+30452,"Fond Du Lac County, WI",30432
+30453,"Forest County, WI",30432
+30454,"Grant County, WI",30432
+30455,"Green County, WI",30432
+30456,"Green Lake County, WI",30432
+30457,"Iowa County, WI",30432
+30458,"Iron County, WI",30432
+30459,"Jackson County, WI",30432
+30460,"Jefferson County, WI",30432
+30461,"Juneau County, WI",30432
+30462,"Kenosha County, WI",30432
+30463,"Kewaunee County, WI",30432
+30464,"La Crosse County, WI",30432
+30465,"Lafayette County, WI",30432
+30466,"Langlade County, WI",30432
+30467,"Lincoln County, WI",30432
+30468,"Manitowoc County, WI",30432
+30469,"Marathon County, WI",30432
+30470,"Marinette County, WI",30432
+30471,"Marquette County, WI",30432
+30472,"Menominee County, WI",30432
+30473,"Milwaukee County, WI",30432
+30474,"Monroe County, WI",30432
+30475,"Oconto County, WI",30432
+30476,"Oneida County, WI",30432
+30477,"Outagamie County, WI",30432
+30478,"Ozaukee County, WI",30432
+30479,"Pepin County, WI",30432
+30480,"Pierce County, WI",30432
+30481,"Polk County, WI",30432
+30482,"Portage County, WI",30432
+30483,"Price County, WI",30432
+30484,"Racine County, WI",30432
+30485,"Richland County, WI",30432
+30486,"Rock County, WI",30432
+30487,"Rusk County, WI",30432
+30488,"Sauk County, WI",30432
+30489,"Sawyer County, WI",30432
+30490,"Shawano County, WI",30432
+33741,"Shawano County, WI (includes Menominee)",30432
+30491,"Sheboygan County, WI",30432
+30492,"St. Croix County, WI",30432
+30493,"Taylor County, WI",30432
+30494,"Trempealeau County, WI",30432
+30495,"Vernon County, WI",30432
+30496,"Vilas County, WI",30432
+30497,"Walworth County, WI",30432
+30498,"Washburn County, WI",30432
+30499,"Washington County, WI",30432
+30500,"Waukesha County, WI",30432
+30501,"Waupaca County, WI",30432
+30502,"Waushara County, WI",30432
+30503,"Winnebago County, WI",30432
+30504,"Wood County, WI",30432
+30980,"Appleton, WI",30979
+30981,"Chicago-Naperville-Elgin, IL-IN-WI",30979
+30982,"Duluth, MN-WI",30979
+30983,"Eau Claire, WI",30979
+30984,"Fond du Lac, WI",30979
+30985,"Green Bay, WI",30979
+30986,"Janesville-Beloit, WI",30979
+30987,"La Crosse-Onalaska, WI-MN",30979
+30988,"Madison, WI",30979
+30989,"Milwaukee-Waukesha, WI",30979
+30990,"Minneapolis-St. Paul-Bloomington, MN-WI",30979
+30991,"Oshkosh-Neenah, WI",30979
+30992,"Racine, WI",30979
+30993,"Sheboygan, WI",30979
+30994,"Wausau-Weston, WI",30979
+32888,"Chicago-Gary-Kenosha, IL-IN-WI (CMSA)",32887
+32930,"Milwaukee-Racine, WI (CMSA)",32887
+32929,"Minneapolis-St. Paul, MN-WI (MSA)",32887
+33176,"Lake County-Kenosha County, IL-WI",33175
+30506,"Albany County, WY",30505
+30507,"Big Horn County, WY",30505
+30508,"Campbell County, WY",30505
+30509,"Carbon County, WY",30505
+30510,"Converse County, WY",30505
+30511,"Crook County, WY",30505
+30512,"Fremont County, WY",30505
+30513,"Goshen County, WY",30505
+30514,"Hot Springs County, WY",30505
+30515,"Johnson County, WY",30505
+30516,"Laramie County, WY",30505
+30517,"Lincoln County, WY",30505
+30518,"Natrona County, WY",30505
+30519,"Niobrara County, WY",30505
+30520,"Park County, WY",30505
+30521,"Platte County, WY",30505
+30522,"Sheridan County, WY",30505
+30523,"Sublette County, WY",30505
+30524,"Sweetwater County, WY",30505
+30525,"Teton County, WY",30505
+30526,"Uinta County, WY",30505
+30527,"Washakie County, WY",30505
+30528,"Weston County, WY",30505
+30996,"Casper, WY",30995
+30997,"Cheyenne, WY",30995
+32049,"East North Central",32048
+32050,"West North Central",32048
+32052,"Middle Atlantic",32051
+32053,"New England",32051
+32055,"East South Central",32054
+32056,"South Atlantic",32054
+32057,"West South Central",32054
+32059,"Mountain",32058
+32060,"Pacific",32058
+33494,"Financial Sector",33493
+33496,"Government",33493
+33495,"Non-Financial Corporations",33493
+33257,"Total Work Started",33256
+33398,"EC Indicator",33263
+33399,"EC and National Indicators",33269
+33382,"EC and National Indicators",33276
+33384,"EC Indicator",33296
+33383,"EC and National Indicators",33314
+33385,"EC Indicator",33320
+33381,"EC Indicator",33326
+33396,"EC and National Indicators",33283
+33393,"EC and National Indicators",33290
+33394,"EC and National Indicators",33302
+33395,"EC and National Indicators",33308
+33392,"National Indicator",33332
+33390,"EC and National Indicators",33346
+33387,"EC Indicator",33352
+33388,"EC Indicator",33363
+33391,"EC Indicator",33358
+33389,"EC and National Indicators",33376
+33386,"National Indicator",33370
+33920,"Fremont (Includes Yellowstone Park) County, ID",27915
+33486,"NECTA Divisions",32113
+33638,"NECTA Divisions",32123
+33258,"Construction",33257
+33487,"Boston-Cambridge-Newton, MA",33486
+33654,"Haverhill-Newburyport-Amesbury Town, MA-NH",33486
+33656,"Lawrence-Methuen Town-Salem, MA-NH",33486
+33658,"Lowell-Billerica-Chelmsford, MA-NH",33486
+33660,"Lynn-Saugus-Marblehead, MA",33486
+33664,"Peabody-Salem-Beverly, MA",33486
+33666,"Taunton-Middleborough-Norton, MA",33486
+33641,"Haverhill-Newburyport-Amesbury Town, MA-NH",33638
+33644,"Lawrence-Methuen Town-Salem, MA-NH",33638
+33646,"Lowell-Billerica-Chelmsford, MA-NH",33638
+33259,"Buildings",33258
+33260,"Total",33259
